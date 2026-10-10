@@ -11,6 +11,7 @@ Transitions  iris_transition, ink_splash_transition   (t = progress 0..1)
 from __future__ import annotations
 
 import math
+import zlib
 from functools import lru_cache
 
 import cv2
@@ -202,7 +203,7 @@ def rain(frame, t, intensity=1.0, angle=12.0, seed=0, color=(235, 225, 215),
 # ============================================================ PARTICLES
 @lru_cache(maxsize=16)
 def _particles(kind, n, seed):
-    rng = np.random.default_rng(seed * 4099 + hash(kind) % 997)
+    rng = np.random.default_rng(seed * 4099 + zlib.crc32(kind.encode()) % 997)   # not hash(): it changes per process
     z = rng.random(n) ** 1.6  # mostly far
     return dict(
         x0=rng.random(n), y0=rng.random(n), z=z,
