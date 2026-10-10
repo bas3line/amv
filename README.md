@@ -100,8 +100,10 @@ Made by [@bas3line](https://github.com/bas3line). Follow on X as [@inlovewithgo]
 
 To support it: [GitHub Sponsors](https://github.com/sponsors/bas3line), [Buy Me a Coffee](https://buymeacoffee.com/bas3line) or [PayPal](https://paypal.me/ShubhamYadav886).
 
+## Credits
+
+Naruto is by Masashi Kishimoto, animated by Studio Pierrot for Shueisha and TV Tokyo. "Jane!" is by The Long Faces. This edit is a fan tribute for Naruto's birthday: watch the show, and listen to the band.
+
 ## License
 
 The code is MIT, © [@bas3line](https://github.com/bas3line). The fonts in `fonts/` are under the SIL Open Font License; their licence files sit beside them. The logos in `fx/logos/` come from [Simple Icons](https://github.com/simple-icons/simple-icons) (CC0), and each is a trademark of its owner.
-
-No footage or music is included. Naruto belongs to Masashi Kishimoto, Shueisha, TV Tokyo and Studio Pierrot, and "Jane!" belongs to The Long Faces.
