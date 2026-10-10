@@ -65,7 +65,7 @@ python director.py --sr         # Real-ESRGAN plates -> sr_cache/ (once)
 python director.py              # -> out/naruto_bday_edit.mp4
 ```
 
-A full render takes about 2.5 minutes on a 10-core Apple Silicon Mac. To check a few frames without rendering, `python director.py --stills 0,473,2150` writes PNGs to `dir_tmp/stills/`.
+A full render takes about 2.5 minutes (141 s on a 10-core Apple M4), and two renders come out byte-identical. To check a few frames without rendering, `python director.py --stills 0,473,2150` writes PNGs to `dir_tmp/stills/`.
 
 ## Effects
 
