@@ -3,11 +3,10 @@
 # amv
 
 <a href="https://pub-0247c5607054404c8af5064f866a4233.r2.dev/naruto/naruto_bday_edit_v2.mp4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/timeline-dark.svg">
-    <img src=".github/timeline-light.svg" alt="The Naruto edit's timeline: 128 shots on a 146 BPM beat grid, with the voice lines and accent hits">
-  </picture>
+  <img src=".github/preview.gif" width="640" alt="Six seconds of the Naruto edit: the Kurama and Susanoo fists collide, Sasuke's Rinnegan, then the Rasengan meets the Chidori">
 </a>
+
+<sub>6 seconds of the edit, muted. <a href="https://pub-0247c5607054404c8af5064f866a4233.r2.dev/naruto/naruto_bday_edit_v2.mp4">Watch the full 1:30 with sound ▶</a></sub>
 
 <br>
 
@@ -30,6 +29,11 @@ Written in Python by [@bas3line](https://github.com/bas3line). The first edit is
 The story runs alone, Iruka, the ramen vow, then the drop: Haku, Neji, Gaara, Sasuke, Pain, Kurama, the war, the last Valley of the End, and the Hokage. The original voices (English dub) carry the story part, with the song ducked under them.
 
 ## How it works
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/timeline-dark.svg">
+  <img src=".github/timeline-light.svg" alt="The Naruto edit's timeline: 128 shots on a 146 BPM beat grid, with the voice lines and accent hits">
+</picture>
 
 - `song/song.json` is the beat map: a 146 BPM grid fitted on the drum stem, the bars, the sections, the accent hits, and the two song segments the edit is spliced from.
 - `director.py` is the edit. Each shot is `S(beat, clip, source_time, act, **effects)`. A shot starts on frame `round(t * 24000/1001)` of its beat. Every output frame is composited in numpy and OpenCV, six lossless chunks render in parallel, and ffmpeg joins them and muxes the audio.
