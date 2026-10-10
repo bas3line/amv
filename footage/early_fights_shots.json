@@ -1,0 +1,1162 @@
+{
+ "segment": "early_fights",
+ "method": {
+  "cuts": "ffmpeg scene score >=0.35, or >=0.25 confirmed by frame-diff jump >18",
+  "sharpness": "Laplacian variance of gray content area (x 240-1680); median of 7 samples per moment; sharp>=25, ok>=10, soft<10 (flat anime cels score low; compare within this set)",
+  "clean": "no overlap with detected burned-in subtitle intervals (letter-component detector + manual reading of bottom-25% strips); logos/bugs inpainted in all clips",
+  "framerate": "3:2 pulldown removed with ffmpeg decimate (uploads were 29.97 with 1-in-5 duplicate frames); native 24000/1001"
+ },
+ "clips": [
+  {
+   "id": "early_fights_1",
+   "path": "footage/early_fights_1.mp4",
+   "fps": "24000/1001",
+   "width": 1920,
+   "height": 1080,
+   "frame": "4:3 pillarboxed",
+   "content_x_range": [
+    240,
+    1680
+   ],
+   "duration": 60.06,
+   "frames": 1440,
+   "subtitle_intervals": [
+    [
+     6.4,
+     10.5
+    ],
+    [
+     7.07,
+     10.74
+    ],
+    [
+     57.12,
+     58.12
+    ],
+    [
+     57.3,
+     60.1
+    ]
+   ],
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 3.42,
+     "lap_mid": 1.7,
+     "lap_max": 2.1
+    },
+    {
+     "start": 3.42,
+     "end": 3.921,
+     "lap_mid": 1.0,
+     "lap_max": 1.0
+    },
+    {
+     "start": 3.921,
+     "end": 4.963,
+     "lap_mid": 2.1,
+     "lap_max": 2.1
+    },
+    {
+     "start": 4.963,
+     "end": 5.38,
+     "lap_mid": 1.0,
+     "lap_max": 1.0
+    },
+    {
+     "start": 5.38,
+     "end": 6.256,
+     "lap_mid": 1.8,
+     "lap_max": 1.8
+    },
+    {
+     "start": 6.256,
+     "end": 9.676,
+     "lap_mid": 46.4,
+     "lap_max": 48.5
+    },
+    {
+     "start": 9.676,
+     "end": 20.395,
+     "lap_mid": 2.7,
+     "lap_max": 54.3
+    },
+    {
+     "start": 20.395,
+     "end": 21.396,
+     "lap_mid": 4.5,
+     "lap_max": 4.5
+    },
+    {
+     "start": 21.396,
+     "end": 21.855,
+     "lap_mid": 4.0,
+     "lap_max": 4.0
+    },
+    {
+     "start": 21.855,
+     "end": 22.272,
+     "lap_mid": 3.8,
+     "lap_max": 3.9
+    },
+    {
+     "start": 22.272,
+     "end": 23.565,
+     "lap_mid": 1.1,
+     "lap_max": 1.2
+    },
+    {
+     "start": 23.565,
+     "end": 25.984,
+     "lap_mid": 3.0,
+     "lap_max": 3.3
+    },
+    {
+     "start": 25.984,
+     "end": 31.406,
+     "lap_mid": 0.6,
+     "lap_max": 1.3
+    },
+    {
+     "start": 31.406,
+     "end": 39.331,
+     "lap_mid": 1.7,
+     "lap_max": 2.9
+    },
+    {
+     "start": 39.331,
+     "end": 60.06,
+     "lap_mid": 4.8,
+     "lap_max": 20.6
+    }
+   ],
+   "src": "https://www.youtube.com/watch?v=qDvqP4rBZTU",
+   "channel": "Crunchyroll",
+   "title": "Naruto vs Haku | Naruto",
+   "section": "0:00-1:00 of upload",
+   "note": "SD-era TV master upscaled by uploader: soft. Crunchyroll logo + copyright line inpainted. Burned-in subtitles at 6.6-10.5 and 57.3-60.0. Upload cadence leaves ~1 repeated frame per 4 after pulldown removal."
+  },
+  {
+   "id": "early_fights_2",
+   "path": "footage/early_fights_2.mp4",
+   "fps": "24000/1001",
+   "width": 1920,
+   "height": 1080,
+   "frame": "4:3 pillarboxed",
+   "content_x_range": [
+    240,
+    1680
+   ],
+   "duration": 54.304,
+   "frames": 1302,
+   "subtitle_intervals": [],
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 0.209,
+     "lap_mid": 9.0,
+     "lap_max": 9.0
+    },
+    {
+     "start": 0.209,
+     "end": 5.964,
+     "lap_mid": 10.5,
+     "lap_max": 40.5
+    },
+    {
+     "start": 5.964,
+     "end": 6.673,
+     "lap_mid": 7.4,
+     "lap_max": 7.4
+    },
+    {
+     "start": 6.673,
+     "end": 7.674,
+     "lap_mid": 69.5,
+     "lap_max": 77.4
+    },
+    {
+     "start": 7.674,
+     "end": 10.886,
+     "lap_mid": 10.5,
+     "lap_max": 18.1
+    },
+    {
+     "start": 10.886,
+     "end": 12.888,
+     "lap_mid": 13.9,
+     "lap_max": 13.9
+    },
+    {
+     "start": 12.888,
+     "end": 14.848,
+     "lap_mid": 40.7,
+     "lap_max": 45.7
+    },
+    {
+     "start": 14.848,
+     "end": 15.766,
+     "lap_mid": 64.6,
+     "lap_max": 81.3
+    },
+    {
+     "start": 15.766,
+     "end": 16.808,
+     "lap_mid": 6.5,
+     "lap_max": 6.5
+    },
+    {
+     "start": 16.808,
+     "end": 20.854,
+     "lap_mid": 62.8,
+     "lap_max": 64.3
+    },
+    {
+     "start": 20.854,
+     "end": 21.146,
+     "lap_mid": 35.9,
+     "lap_max": 35.9
+    },
+    {
+     "start": 21.146,
+     "end": 21.521,
+     "lap_mid": 8.3,
+     "lap_max": 9.0
+    },
+    {
+     "start": 21.521,
+     "end": 21.855,
+     "lap_mid": 31.0,
+     "lap_max": 41.4
+    },
+    {
+     "start": 21.855,
+     "end": 22.856,
+     "lap_mid": 37.6,
+     "lap_max": 42.3
+    },
+    {
+     "start": 22.856,
+     "end": 25.317,
+     "lap_mid": 51.9,
+     "lap_max": 72.0
+    },
+    {
+     "start": 25.317,
+     "end": 27.778,
+     "lap_mid": 26.4,
+     "lap_max": 33.9
+    },
+    {
+     "start": 27.778,
+     "end": 29.738,
+     "lap_mid": 27.8,
+     "lap_max": 27.8
+    },
+    {
+     "start": 29.738,
+     "end": 30.447,
+     "lap_mid": 6.6,
+     "lap_max": 6.6
+    },
+    {
+     "start": 30.447,
+     "end": 30.656,
+     "lap_mid": 24.1,
+     "lap_max": 24.1
+    },
+    {
+     "start": 30.656,
+     "end": 31.365,
+     "lap_mid": 34.3,
+     "lap_max": 34.3
+    },
+    {
+     "start": 31.365,
+     "end": 36.703,
+     "lap_mid": 26.8,
+     "lap_max": 71.8
+    },
+    {
+     "start": 36.703,
+     "end": 40.457,
+     "lap_mid": 2.3,
+     "lap_max": 24.1
+    },
+    {
+     "start": 40.457,
+     "end": 41.917,
+     "lap_mid": 9.5,
+     "lap_max": 32.9
+    },
+    {
+     "start": 41.917,
+     "end": 49.508,
+     "lap_mid": 6.7,
+     "lap_max": 17.1
+    },
+    {
+     "start": 49.508,
+     "end": 51.426,
+     "lap_mid": 65.8,
+     "lap_max": 65.8
+    },
+    {
+     "start": 51.426,
+     "end": 54.304,
+     "lap_mid": 50.6,
+     "lap_max": 50.6
+    }
+   ],
+   "src": "https://www.youtube.com/watch?v=b2v339Xkqhw",
+   "channel": "vizmedia",
+   "title": "Naruto vs. Neji | Naruto, Set 3 | VIZ",
+   "section": "0:09.5-1:04 of upload (promo border skipped)",
+   "note": "Blu-ray remaster, sharp. Uploader's blurred side fill replaced by black; copyright corner inpainted."
+  },
+  {
+   "id": "early_fights_3",
+   "path": "footage/early_fights_3.mp4",
+   "fps": "24000/1001",
+   "width": 1920,
+   "height": 1080,
+   "frame": "4:3 pillarboxed",
+   "content_x_range": [
+    240,
+    1680
+   ],
+   "duration": 121.33,
+   "frames": 2909,
+   "subtitle_intervals": [
+    [
+     12.83,
+     14.66
+    ],
+    [
+     14.58,
+     19.75
+    ],
+    [
+     14.8,
+     19.6
+    ],
+    [
+     20.59,
+     23.09
+    ],
+    [
+     21.0,
+     22.85
+    ],
+    [
+     25.68,
+     27.51
+    ],
+    [
+     29.01,
+     32.52
+    ],
+    [
+     45.5,
+     48.8
+    ],
+    [
+     47.36,
+     48.95
+    ],
+    [
+     50.62,
+     51.78
+    ],
+    [
+     51.78,
+     57.46
+    ],
+    [
+     63.88,
+     65.88
+    ],
+    [
+     77.14,
+     79.06
+    ],
+    [
+     83.48,
+     86.24
+    ],
+    [
+     91.49,
+     93.74
+    ],
+    [
+     100.0,
+     101.58
+    ],
+    [
+     115.43,
+     118.69
+    ],
+    [
+     115.5,
+     121.4
+    ]
+   ],
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 2.92,
+     "lap_mid": 11.3,
+     "lap_max": 15.2
+    },
+    {
+     "start": 2.92,
+     "end": 4.796,
+     "lap_mid": 14.0,
+     "lap_max": 14.0
+    },
+    {
+     "start": 4.796,
+     "end": 6.006,
+     "lap_mid": 4.3,
+     "lap_max": 11.5
+    },
+    {
+     "start": 6.006,
+     "end": 6.882,
+     "lap_mid": 20.5,
+     "lap_max": 27.3
+    },
+    {
+     "start": 6.882,
+     "end": 8.008,
+     "lap_mid": 26.7,
+     "lap_max": 26.7
+    },
+    {
+     "start": 8.008,
+     "end": 12.346,
+     "lap_mid": 15.2,
+     "lap_max": 17.1
+    },
+    {
+     "start": 12.346,
+     "end": 14.848,
+     "lap_mid": 23.1,
+     "lap_max": 23.1
+    },
+    {
+     "start": 14.848,
+     "end": 19.645,
+     "lap_mid": 43.3,
+     "lap_max": 43.3
+    },
+    {
+     "start": 19.645,
+     "end": 19.895,
+     "lap_mid": 20.0,
+     "lap_max": 20.0
+    },
+    {
+     "start": 19.895,
+     "end": 20.854,
+     "lap_mid": 24.8,
+     "lap_max": 25.2
+    },
+    {
+     "start": 20.854,
+     "end": 22.439,
+     "lap_mid": 37.5,
+     "lap_max": 37.9
+    },
+    {
+     "start": 22.439,
+     "end": 23.69,
+     "lap_mid": 38.4,
+     "lap_max": 38.4
+    },
+    {
+     "start": 23.69,
+     "end": 29.112,
+     "lap_mid": 21.8,
+     "lap_max": 21.8
+    },
+    {
+     "start": 29.112,
+     "end": 38.872,
+     "lap_mid": 5.4,
+     "lap_max": 9.7
+    },
+    {
+     "start": 38.872,
+     "end": 41.375,
+     "lap_mid": 8.8,
+     "lap_max": 9.0
+    },
+    {
+     "start": 41.375,
+     "end": 43.585,
+     "lap_mid": 13.3,
+     "lap_max": 19.2
+    },
+    {
+     "start": 43.585,
+     "end": 44.544,
+     "lap_mid": 3.2,
+     "lap_max": 3.7
+    },
+    {
+     "start": 44.544,
+     "end": 48.507,
+     "lap_mid": 6.3,
+     "lap_max": 6.3
+    },
+    {
+     "start": 48.507,
+     "end": 51.009,
+     "lap_mid": 12.2,
+     "lap_max": 21.6
+    },
+    {
+     "start": 51.009,
+     "end": 53.553,
+     "lap_mid": 7.2,
+     "lap_max": 9.4
+    },
+    {
+     "start": 53.553,
+     "end": 57.557,
+     "lap_mid": 23.3,
+     "lap_max": 23.3
+    },
+    {
+     "start": 57.557,
+     "end": 58.767,
+     "lap_mid": 29.3,
+     "lap_max": 29.3
+    },
+    {
+     "start": 58.767,
+     "end": 61.103,
+     "lap_mid": 12.2,
+     "lap_max": 12.2
+    },
+    {
+     "start": 61.103,
+     "end": 63.313,
+     "lap_mid": 16.5,
+     "lap_max": 16.5
+    },
+    {
+     "start": 63.313,
+     "end": 63.73,
+     "lap_mid": 12.0,
+     "lap_max": 12.0
+    },
+    {
+     "start": 63.73,
+     "end": 65.691,
+     "lap_mid": 18.3,
+     "lap_max": 18.3
+    },
+    {
+     "start": 65.691,
+     "end": 66.692,
+     "lap_mid": 6.5,
+     "lap_max": 10.1
+    },
+    {
+     "start": 66.692,
+     "end": 67.317,
+     "lap_mid": 21.2,
+     "lap_max": 21.2
+    },
+    {
+     "start": 67.317,
+     "end": 67.901,
+     "lap_mid": 17.9,
+     "lap_max": 20.9
+    },
+    {
+     "start": 67.901,
+     "end": 69.611,
+     "lap_mid": 21.0,
+     "lap_max": 21.9
+    },
+    {
+     "start": 69.611,
+     "end": 70.57,
+     "lap_mid": 3.7,
+     "lap_max": 3.7
+    },
+    {
+     "start": 70.57,
+     "end": 72.447,
+     "lap_mid": 9.6,
+     "lap_max": 11.9
+    },
+    {
+     "start": 72.447,
+     "end": 77.619,
+     "lap_mid": 2.4,
+     "lap_max": 18.5
+    },
+    {
+     "start": 77.619,
+     "end": 79.329,
+     "lap_mid": 3.1,
+     "lap_max": 3.2
+    },
+    {
+     "start": 79.329,
+     "end": 81.832,
+     "lap_mid": 7.6,
+     "lap_max": 7.6
+    },
+    {
+     "start": 81.832,
+     "end": 83.417,
+     "lap_mid": 9.4,
+     "lap_max": 9.4
+    },
+    {
+     "start": 83.417,
+     "end": 86.545,
+     "lap_mid": 17.6,
+     "lap_max": 17.6
+    },
+    {
+     "start": 86.545,
+     "end": 93.427,
+     "lap_mid": 1.6,
+     "lap_max": 23.5
+    },
+    {
+     "start": 93.427,
+     "end": 94.386,
+     "lap_mid": 0.0,
+     "lap_max": 1.8
+    },
+    {
+     "start": 94.386,
+     "end": 98.64,
+     "lap_mid": 2.7,
+     "lap_max": 8.9
+    },
+    {
+     "start": 98.64,
+     "end": 99.349,
+     "lap_mid": 7.3,
+     "lap_max": 11.1
+    },
+    {
+     "start": 99.349,
+     "end": 100.058,
+     "lap_mid": 15.0,
+     "lap_max": 16.3
+    },
+    {
+     "start": 100.058,
+     "end": 101.518,
+     "lap_mid": 21.5,
+     "lap_max": 21.5
+    },
+    {
+     "start": 101.518,
+     "end": 108.525,
+     "lap_mid": 18.6,
+     "lap_max": 28.2
+    },
+    {
+     "start": 108.525,
+     "end": 108.775,
+     "lap_mid": 19.5,
+     "lap_max": 20.4
+    },
+    {
+     "start": 108.775,
+     "end": 109.484,
+     "lap_mid": 21.5,
+     "lap_max": 22.2
+    },
+    {
+     "start": 109.484,
+     "end": 112.612,
+     "lap_mid": 11.5,
+     "lap_max": 16.6
+    },
+    {
+     "start": 112.612,
+     "end": 116.074,
+     "lap_mid": 0.0,
+     "lap_max": 20.3
+    },
+    {
+     "start": 116.074,
+     "end": 119.911,
+     "lap_mid": 32.1,
+     "lap_max": 32.1
+    },
+    {
+     "start": 119.911,
+     "end": 121.33,
+     "lap_mid": 9.6,
+     "lap_max": 9.6
+    }
+   ],
+   "src": "https://www.youtube.com/watch?v=Y9P1EhndE0w",
+   "channel": "Netflix India",
+   "title": "Top 5 Naruto Fights | Netflix India",
+   "section": "2:05-4:05 of upload",
+   "note": "960x720 upload scaled 1.5x to 1440x1080. NETFLIX bug inpainted. 0-14.8 is Lee vs Gaara, 14.8-112.6 Naruto vs Gaara, 112.6+ next fight (Orochimaru vs Third). Many burned-in subtitles; see subtitle_intervals."
+  },
+  {
+   "id": "early_fights_4",
+   "path": "footage/early_fights_4.mp4",
+   "fps": "24000/1001",
+   "width": 1920,
+   "height": 1080,
+   "frame": "4:3 pillarboxed",
+   "content_x_range": [
+    240,
+    1680
+   ],
+   "duration": 49.925,
+   "frames": 1197,
+   "subtitle_intervals": [],
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 2.336,
+     "lap_mid": 20.2,
+     "lap_max": 20.2
+    },
+    {
+     "start": 2.336,
+     "end": 5.047,
+     "lap_mid": 10.6,
+     "lap_max": 11.0
+    },
+    {
+     "start": 5.047,
+     "end": 14.723,
+     "lap_mid": 10.0,
+     "lap_max": 32.7
+    },
+    {
+     "start": 14.723,
+     "end": 21.73,
+     "lap_mid": 30.5,
+     "lap_max": 30.5
+    },
+    {
+     "start": 21.73,
+     "end": 24.691,
+     "lap_mid": 8.4,
+     "lap_max": 23.0
+    },
+    {
+     "start": 24.691,
+     "end": 27.236,
+     "lap_mid": 13.6,
+     "lap_max": 24.1
+    },
+    {
+     "start": 27.236,
+     "end": 29.696,
+     "lap_mid": 10.6,
+     "lap_max": 11.4
+    },
+    {
+     "start": 29.696,
+     "end": 35.953,
+     "lap_mid": 6.8,
+     "lap_max": 34.7
+    },
+    {
+     "start": 35.953,
+     "end": 38.205,
+     "lap_mid": 29.4,
+     "lap_max": 31.3
+    },
+    {
+     "start": 38.205,
+     "end": 38.83,
+     "lap_mid": 43.8,
+     "lap_max": 43.9
+    },
+    {
+     "start": 38.83,
+     "end": 39.081,
+     "lap_mid": 36.4,
+     "lap_max": 36.4
+    },
+    {
+     "start": 39.081,
+     "end": 40.415,
+     "lap_mid": 34.4,
+     "lap_max": 34.4
+    },
+    {
+     "start": 40.415,
+     "end": 41.333,
+     "lap_mid": 4.8,
+     "lap_max": 28.1
+    },
+    {
+     "start": 41.333,
+     "end": 41.833,
+     "lap_mid": 30.2,
+     "lap_max": 32.6
+    },
+    {
+     "start": 41.833,
+     "end": 42.292,
+     "lap_mid": 0.3,
+     "lap_max": 1.6
+    },
+    {
+     "start": 42.292,
+     "end": 49.925,
+     "lap_mid": 3.6,
+     "lap_max": 10.9
+    }
+   ],
+   "src": "https://www.youtube.com/watch?v=VBrT4yrT_Xc",
+   "channel": "vizmedia",
+   "title": "Naruto's Rasengan vs. Sasuke's Chidori | Naruto, Set 5 | VIZ",
+   "section": "0:08.05-0:58 of upload (promo border skipped)",
+   "note": "Blu-ray remaster. Blurred side fill replaced by black; copyright corner inpainted."
+  },
+  {
+   "id": "early_fights_5",
+   "path": "footage/early_fights_5.mp4",
+   "fps": "24000/1001",
+   "width": 1920,
+   "height": 1080,
+   "frame": "4:3 pillarboxed",
+   "content_x_range": [
+    240,
+    1680
+   ],
+   "duration": 15.474,
+   "frames": 371,
+   "subtitle_intervals": [],
+   "shots": [
+    {
+     "start": 0.0,
+     "end": 0.417,
+     "lap_mid": 3.3,
+     "lap_max": 19.2
+    },
+    {
+     "start": 0.417,
+     "end": 0.667,
+     "lap_mid": 22.5,
+     "lap_max": 22.5
+    },
+    {
+     "start": 0.667,
+     "end": 0.918,
+     "lap_mid": 26.7,
+     "lap_max": 28.6
+    },
+    {
+     "start": 0.918,
+     "end": 1.502,
+     "lap_mid": 22.9,
+     "lap_max": 26.2
+    },
+    {
+     "start": 1.502,
+     "end": 2.336,
+     "lap_mid": 5.5,
+     "lap_max": 5.9
+    },
+    {
+     "start": 2.336,
+     "end": 4.296,
+     "lap_mid": 21.2,
+     "lap_max": 23.7
+    },
+    {
+     "start": 4.296,
+     "end": 6.59,
+     "lap_mid": 5.2,
+     "lap_max": 5.2
+    },
+    {
+     "start": 6.59,
+     "end": 9.509,
+     "lap_mid": 8.2,
+     "lap_max": 12.4
+    },
+    {
+     "start": 9.509,
+     "end": 15.474,
+     "lap_mid": 2.8,
+     "lap_max": 2.8
+    }
+   ],
+   "src": "https://www.youtube.com/watch?v=yeUpnIKt6k4",
+   "channel": "vizmedia",
+   "title": "Official English Trailer | Naruto, Set 1 | VIZ",
+   "section": "1:08.0-1:23.45 of upload",
+   "note": "Blu-ray remaster shots of the Zabuza/Haku arc (Kakashi Sharingan/Raikiri, Naruto's first Nine-Tails chakra). Audio is trailer music, not episode audio. Added because early_fights_1 is soft."
+  }
+ ],
+ "moments": [
+  {
+   "clip": "early_fights_5",
+   "start": 2.34,
+   "end": 6.59,
+   "what": "Naruto forms a hand sign (close-up) -> Nine-Tails chakra erupts and spirals around him over Sasuke's body (first Nine-Tails cloak, vs Haku)",
+   "hype": 9,
+   "sharp": "soft",
+   "lap_var_median": 4.6,
+   "clean": true,
+   "use": "the 'awakening' beat on the drop; first time the fox's power shows"
+  },
+  {
+   "clip": "early_fights_5",
+   "start": 9.51,
+   "end": 15.45,
+   "what": "Glowing fist charges, then feral red-eyed Naruto winds up a punch toward camera (radial speed lines)",
+   "hype": 8,
+   "sharp": "soft",
+   "lap_var_median": 2.3,
+   "clean": true,
+   "use": "impact build before the punch; speed-ramp into the next clip's hit"
+  },
+  {
+   "clip": "early_fights_1",
+   "start": 20.4,
+   "end": 25.98,
+   "what": "Cloaked Naruto's punch connects with Haku's mask, Haku is blasted through the ice mirrors, Naruto lands",
+   "hype": 9,
+   "sharp": "soft",
+   "lap_var_median": 2.6,
+   "clean": true,
+   "use": "hit on a snare/bass hit; only full-action Haku shots available"
+  },
+  {
+   "clip": "early_fights_1",
+   "start": 0.0,
+   "end": 6.2,
+   "what": "Wide aerial: cloaked Naruto and Haku clash in a red aura; ice mirror cutaways",
+   "hype": 7,
+   "sharp": "soft",
+   "lap_var_median": 1.9,
+   "clean": true,
+   "use": "short establishing flash for the Haku fight"
+  },
+  {
+   "clip": "early_fights_2",
+   "start": 0.21,
+   "end": 5.96,
+   "what": "Neji's Rotation (Kaiten) dome spins and deflects, Neji lands",
+   "hype": 7,
+   "sharp": "ok",
+   "lap_var_median": 10.1,
+   "clean": true,
+   "use": "Neji intro / 'destiny' wall"
+  },
+  {
+   "clip": "early_fights_2",
+   "start": 7.67,
+   "end": 12.89,
+   "what": "Naruto in red chakra launches over the arena wall, screaming close-up, then Neji's gritted Byakugan close-up",
+   "hype": 8,
+   "sharp": "ok",
+   "lap_var_median": 11.3,
+   "clean": true,
+   "use": "Naruto refusing to give up; cut on the yell"
+  },
+  {
+   "clip": "early_fights_2",
+   "start": 21.52,
+   "end": 25.32,
+   "what": "Kyuubi-chakra Naruto blitzes Neji: fist blur past Neji's face, punch/kick exchange, Neji draws a kunai",
+   "hype": 9,
+   "sharp": "sharp",
+   "lap_var_median": 51.8,
+   "clean": true,
+   "use": "fast cuts on hi-hats"
+  },
+  {
+   "clip": "early_fights_2",
+   "start": 25.32,
+   "end": 29.74,
+   "what": "Naruto close-up with kunai, then split-screen red/blue charge: Neji top, Naruto bottom",
+   "hype": 9,
+   "sharp": "sharp",
+   "lap_var_median": 28.6,
+   "clean": true,
+   "use": "split-screen clash, great for a beat-synced wipe"
+  },
+  {
+   "clip": "early_fights_2",
+   "start": 40.46,
+   "end": 41.92,
+   "what": "Split-screen spinning kunai clash, Naruto's kunai vs Neji's",
+   "hype": 8,
+   "sharp": "ok",
+   "lap_var_median": 10.6,
+   "clean": true,
+   "use": "one-beat insert"
+  },
+  {
+   "clip": "early_fights_2",
+   "start": 49.51,
+   "end": 54.3,
+   "what": "Final face-off: battered Neji glares, then bloodied grinning Naruto in chakra",
+   "hype": 8,
+   "sharp": "sharp",
+   "lap_var_median": 46.2,
+   "clean": true,
+   "use": "'I'll change the Hyuga' emotional beat (no dialogue burned in)"
+  },
+  {
+   "clip": "early_fights_3",
+   "start": 23.15,
+   "end": 25.65,
+   "what": "Multi-Shadow Clone swarm leaps at Shukaku-Gaara, clones fly, Shukaku-Gaara's face",
+   "hype": 8,
+   "sharp": "ok",
+   "lap_var_median": 10.1,
+   "clean": true,
+   "use": "clone swarm on a build"
+  },
+  {
+   "clip": "early_fights_3",
+   "start": 57.56,
+   "end": 63.3,
+   "what": "Hundreds of clones charge along the branches, Naruto dives at camera, clones kick Shukaku-Gaara upward",
+   "hype": 9,
+   "sharp": "ok",
+   "lap_var_median": 14.2,
+   "clean": true,
+   "use": "drop-section run"
+  },
+  {
+   "clip": "early_fights_3",
+   "start": 65.9,
+   "end": 69.6,
+   "what": "Uzumaki Barrage: rows of clone fists on a giant leaf-shaped blade, slamming into Gaara",
+   "hype": 9,
+   "sharp": "ok",
+   "lap_var_median": 21.2,
+   "clean": true,
+   "use": "rapid hits"
+  },
+  {
+   "clip": "early_fights_3",
+   "start": 70.57,
+   "end": 77.1,
+   "what": "Summoning smoke over the forest, then Shukaku's glowing eyes in the smoke and full Shukaku face",
+   "hype": 9,
+   "sharp": "soft",
+   "lap_var_median": 4.7,
+   "clean": true,
+   "use": "giant-scale reveal"
+  },
+  {
+   "clip": "early_fights_3",
+   "start": 79.33,
+   "end": 83.42,
+   "what": "Gamabunta revealed (pipe smoke) facing Shukaku; Shukaku roars",
+   "hype": 10,
+   "sharp": "soft",
+   "lap_var_median": 7.5,
+   "clean": true,
+   "use": "kaiju moment, hold on the big wide"
+  },
+  {
+   "clip": "early_fights_3",
+   "start": 86.55,
+   "end": 91.45,
+   "what": "Naruto on Gamabunta's head, determined close-up, then Gamabunta transforms into the Nine-Tails (orange fur fill)",
+   "hype": 9,
+   "sharp": "soft",
+   "lap_var_median": 1.7,
+   "clean": true,
+   "use": "transformation on a riser"
+  },
+  {
+   "clip": "early_fights_3",
+   "start": 101.6,
+   "end": 109.48,
+   "what": "Shukaku looms over the forest, the Nine-Tails form (transformed Gamabunta) bursts out of smoke with tails splayed, then Gaara's eyes in Shukaku's forehead",
+   "hype": 10,
+   "sharp": "ok",
+   "lap_var_median": 20.8,
+   "clean": true,
+   "use": "peak of the Gaara fight"
+  },
+  {
+   "clip": "early_fights_3",
+   "start": 109.48,
+   "end": 112.6,
+   "what": "Nine-Tails (Gamabunta form) close-up grin",
+   "hype": 9,
+   "sharp": "ok",
+   "lap_var_median": 11.8,
+   "clean": true,
+   "use": "punctuation hit"
+  },
+  {
+   "clip": "early_fights_4",
+   "start": 2.34,
+   "end": 14.72,
+   "what": "One-tailed-cloak Naruto forms a purple-tinted Rasengan in his palm, close-ups to wide",
+   "hype": 9,
+   "sharp": "ok",
+   "lap_var_median": 10.1,
+   "clean": true,
+   "use": "Rasengan charge for Valley of the End"
+  },
+  {
+   "clip": "early_fights_4",
+   "start": 14.72,
+   "end": 21.73,
+   "what": "Chidori crackles in Sasuke's clawed hand, then Curse Mark 2 Sasuke crouched with Chidori",
+   "hype": 9,
+   "sharp": "sharp",
+   "lap_var_median": 27.1,
+   "clean": true,
+   "use": "Chidori charge cross-cut with the Rasengan shot"
+  },
+  {
+   "clip": "early_fights_4",
+   "start": 29.7,
+   "end": 35.95,
+   "what": "Both leap over the waterfall: Naruto streaks in with Rasengan, Sasuke closes with Chidori",
+   "hype": 9,
+   "sharp": "ok",
+   "lap_var_median": 12.9,
+   "clean": true,
+   "use": "approach / slow-mo ramp"
+  },
+  {
+   "clip": "early_fights_4",
+   "start": 35.95,
+   "end": 41.83,
+   "what": "Alternating close-ups: snarling Naruto thrusting Rasengan vs Sasuke's Chidori overexposing his face",
+   "hype": 10,
+   "sharp": "sharp",
+   "lap_var_median": 29.2,
+   "clean": true,
+   "use": "rapid cross-cuts right before the climax hit"
+  },
+  {
+   "clip": "early_fights_4",
+   "start": 41.83,
+   "end": 49.93,
+   "what": "White flash, wide clash of Rasengan and Chidori over the water, blue/orange energy streaks, white-out",
+   "hype": 10,
+   "sharp": "soft",
+   "lap_var_median": 4.6,
+   "clean": true,
+   "use": "the climax impact / transition to white"
+  }
+ ]
+}

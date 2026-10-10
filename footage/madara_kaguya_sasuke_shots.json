@@ -1,0 +1,3111 @@
+{
+ "segment": "madara_kaguya_sasuke",
+ "clips": [
+  {
+   "id": "mks1",
+   "path": "footage/madara_kaguya_sasuke_1.mp4",
+   "url": "https://www.youtube.com/watch?v=KrATagmfJzo",
+   "section": "0:00-2:05 (whole upload)",
+   "content": "Naruto vs Sasuke final Valley of the End, ep 477: taijutsu slugfest, last Rasengan vs Chidori, explosion, armless ending",
+   "source": "3840x2160 AV1 24000/1001 (4K upscale upload, Jack The Anime Ripper)",
+   "fps": "24000/1001",
+   "frame": "16:9 full frame, x 0-1920",
+   "processing": "lanczos downscale only; audio from separately fetched full track (sectioned download truncated it)",
+   "duration": 124.708,
+   "quality": "sharp"
+  },
+  {
+   "id": "mks2",
+   "path": "footage/madara_kaguya_sasuke_2.mp4",
+   "url": "https://www.youtube.com/watch?v=XJ9zgR9-GAU",
+   "section": "2:24-3:58 (video begins at first keyframe ~2:28)",
+   "content": "Six Paths Naruto + Rinnegan Sasuke vs Six Paths Madara: standoff, Limbo, Truth-Seeking-Ball Rasengan + Chidori combined strike",
+   "source": "3840x2160 VP9 30p carrying 24p with blended frames (upscale of TV SD/HD)",
+   "fps": "24000/1001",
+   "frame": "16:9 full frame, x 0-1920",
+   "processing": "black border removed only (content 3812x2144+14+8), lanczos to 1080p, blend-aware 30->24 decimation (decimate_dp.py), retimed",
+   "duration": 94.094,
+   "quality": "soft"
+  },
+  {
+   "id": "mks3",
+   "path": "footage/madara_kaguya_sasuke_3.mp4",
+   "url": "https://www.youtube.com/watch?v=XJ9zgR9-GAU",
+   "section": "6:16-7:11 (video begins ~6:19)",
+   "content": "Team 7 combo on Madara, Sasuke lightning blade, Naruto clones + Susanoo vs Madara Truth-Seeking Balls, Susanoo arrows, Madara under the red moon",
+   "source": "same as mks2",
+   "fps": "24000/1001",
+   "frame": "16:9 full frame, x 0-1920",
+   "processing": "same as mks2",
+   "duration": 56.723,
+   "quality": "soft"
+  },
+  {
+   "id": "mks4",
+   "path": "footage/madara_kaguya_sasuke_4.mp4",
+   "url": "https://www.youtube.com/watch?v=MsKK3oTOriA",
+   "section": "1:54-3:13 (video begins ~1:58)",
+   "content": "Final Valley fight, Kurama vs Susanoo: Six Paths Kurama mode bursts out, Indra Susanoo, tailed beast clash, fist collision, fist bump in rain",
+   "source": "1920x1080 AV1 30p carrying 24p (\"4K upscaled\" upload)",
+   "fps": "24000/1001",
+   "frame": "16:9 full frame, x 0-1920",
+   "processing": "2-3px dark edge rows removed (content 1910x1074+5+2), lanczos to 1080p, blend-aware 30->24 decimation, retimed",
+   "duration": 78.078,
+   "quality": "ok"
+  }
+ ],
+ "shots": {
+  "mks1": [
+   {
+    "i": 0,
+    "start": 0.0,
+    "end": 1.001,
+    "frames": 24,
+    "cut_in_strong": false,
+    "lap_med": 459.0,
+    "lap_max": 638.0,
+    "text_score": 0.001
+   },
+   {
+    "i": 1,
+    "start": 1.001,
+    "end": 2.753,
+    "frames": 42,
+    "cut_in_strong": true,
+    "lap_med": 172.2,
+    "lap_max": 326.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 2,
+    "start": 2.753,
+    "end": 2.92,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 67.4,
+    "lap_max": 68.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 3,
+    "start": 2.92,
+    "end": 3.253,
+    "frames": 8,
+    "cut_in_strong": true,
+    "lap_med": 70.0,
+    "lap_max": 82.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 4,
+    "start": 3.253,
+    "end": 4.254,
+    "frames": 24,
+    "cut_in_strong": false,
+    "lap_med": 88.2,
+    "lap_max": 91.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 5,
+    "start": 4.254,
+    "end": 4.421,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 385.2,
+    "lap_max": 389.8,
+    "text_score": 0.002
+   },
+   {
+    "i": 6,
+    "start": 4.421,
+    "end": 5.047,
+    "frames": 15,
+    "cut_in_strong": true,
+    "lap_med": 295.3,
+    "lap_max": 299.4,
+    "text_score": 0.0026
+   },
+   {
+    "i": 7,
+    "start": 5.047,
+    "end": 5.756,
+    "frames": 17,
+    "cut_in_strong": true,
+    "lap_med": 563.1,
+    "lap_max": 654.5,
+    "text_score": 0.0002
+   },
+   {
+    "i": 8,
+    "start": 5.756,
+    "end": 7.925,
+    "frames": 52,
+    "cut_in_strong": false,
+    "lap_med": 410.7,
+    "lap_max": 520.2,
+    "text_score": 0.0003
+   },
+   {
+    "i": 9,
+    "start": 7.925,
+    "end": 9.009,
+    "frames": 26,
+    "cut_in_strong": true,
+    "lap_med": 168.6,
+    "lap_max": 204.4,
+    "text_score": 0.0001
+   },
+   {
+    "i": 10,
+    "start": 9.009,
+    "end": 11.261,
+    "frames": 54,
+    "cut_in_strong": false,
+    "lap_med": 152.1,
+    "lap_max": 270.9,
+    "text_score": 0.0008
+   },
+   {
+    "i": 11,
+    "start": 11.261,
+    "end": 11.845,
+    "frames": 14,
+    "cut_in_strong": true,
+    "lap_med": 97.2,
+    "lap_max": 185.9,
+    "text_score": 0.0016
+   },
+   {
+    "i": 12,
+    "start": 11.845,
+    "end": 12.012,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 258.2,
+    "lap_max": 359.1,
+    "text_score": 0.0001
+   },
+   {
+    "i": 13,
+    "start": 12.012,
+    "end": 13.305,
+    "frames": 31,
+    "cut_in_strong": true,
+    "lap_med": 549.9,
+    "lap_max": 627.0,
+    "text_score": 0.0016
+   },
+   {
+    "i": 14,
+    "start": 13.305,
+    "end": 15.057,
+    "frames": 42,
+    "cut_in_strong": true,
+    "lap_med": 322.4,
+    "lap_max": 345.7,
+    "text_score": 0.0014
+   },
+   {
+    "i": 15,
+    "start": 15.057,
+    "end": 15.432,
+    "frames": 9,
+    "cut_in_strong": false,
+    "lap_med": 195.1,
+    "lap_max": 242.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 16,
+    "start": 15.432,
+    "end": 15.974,
+    "frames": 13,
+    "cut_in_strong": false,
+    "lap_med": 375.7,
+    "lap_max": 415.8,
+    "text_score": 0.0001
+   },
+   {
+    "i": 17,
+    "start": 15.974,
+    "end": 16.683,
+    "frames": 17,
+    "cut_in_strong": true,
+    "lap_med": 371.1,
+    "lap_max": 539.9,
+    "text_score": 0.0001
+   },
+   {
+    "i": 18,
+    "start": 16.683,
+    "end": 17.142,
+    "frames": 11,
+    "cut_in_strong": true,
+    "lap_med": 476.3,
+    "lap_max": 528.4,
+    "text_score": 0.0013
+   },
+   {
+    "i": 19,
+    "start": 17.142,
+    "end": 17.351,
+    "frames": 5,
+    "cut_in_strong": true,
+    "lap_med": 404.8,
+    "lap_max": 414.1,
+    "text_score": 0.0024
+   },
+   {
+    "i": 20,
+    "start": 17.351,
+    "end": 18.977,
+    "frames": 39,
+    "cut_in_strong": true,
+    "lap_med": 137.2,
+    "lap_max": 421.0,
+    "text_score": 0.0016
+   },
+   {
+    "i": 21,
+    "start": 18.977,
+    "end": 19.728,
+    "frames": 18,
+    "cut_in_strong": true,
+    "lap_med": 347.9,
+    "lap_max": 365.0,
+    "text_score": 0.0019
+   },
+   {
+    "i": 22,
+    "start": 19.728,
+    "end": 20.437,
+    "frames": 17,
+    "cut_in_strong": true,
+    "lap_med": 733.1,
+    "lap_max": 801.2,
+    "text_score": 0.0011
+   },
+   {
+    "i": 23,
+    "start": 20.437,
+    "end": 21.396,
+    "frames": 23,
+    "cut_in_strong": true,
+    "lap_med": 351.6,
+    "lap_max": 392.1,
+    "text_score": 0.0011
+   },
+   {
+    "i": 24,
+    "start": 21.396,
+    "end": 23.941,
+    "frames": 61,
+    "cut_in_strong": true,
+    "lap_med": 106.8,
+    "lap_max": 125.8,
+    "text_score": 0.0001
+   },
+   {
+    "i": 25,
+    "start": 23.941,
+    "end": 25.108,
+    "frames": 28,
+    "cut_in_strong": false,
+    "lap_med": 483.1,
+    "lap_max": 517.1,
+    "text_score": 0.0012
+   },
+   {
+    "i": 26,
+    "start": 25.108,
+    "end": 26.026,
+    "frames": 22,
+    "cut_in_strong": true,
+    "lap_med": 430.4,
+    "lap_max": 448.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 27,
+    "start": 26.026,
+    "end": 26.36,
+    "frames": 8,
+    "cut_in_strong": false,
+    "lap_med": 222.3,
+    "lap_max": 497.2,
+    "text_score": 0.0001
+   },
+   {
+    "i": 28,
+    "start": 26.36,
+    "end": 28.362,
+    "frames": 48,
+    "cut_in_strong": false,
+    "lap_med": 154.0,
+    "lap_max": 159.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 29,
+    "start": 28.362,
+    "end": 28.987,
+    "frames": 15,
+    "cut_in_strong": true,
+    "lap_med": 389.1,
+    "lap_max": 460.2,
+    "text_score": 0.0002
+   },
+   {
+    "i": 30,
+    "start": 28.987,
+    "end": 31.198,
+    "frames": 53,
+    "cut_in_strong": true,
+    "lap_med": 245.0,
+    "lap_max": 407.2,
+    "text_score": 0.0004
+   },
+   {
+    "i": 31,
+    "start": 31.198,
+    "end": 31.406,
+    "frames": 5,
+    "cut_in_strong": true,
+    "lap_med": 369.0,
+    "lap_max": 422.4,
+    "text_score": 0.0001
+   },
+   {
+    "i": 32,
+    "start": 31.406,
+    "end": 32.491,
+    "frames": 26,
+    "cut_in_strong": true,
+    "lap_med": 678.6,
+    "lap_max": 738.0,
+    "text_score": 0.0004
+   },
+   {
+    "i": 33,
+    "start": 32.491,
+    "end": 33.492,
+    "frames": 24,
+    "cut_in_strong": false,
+    "lap_med": 556.2,
+    "lap_max": 602.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 34,
+    "start": 33.492,
+    "end": 33.992,
+    "frames": 12,
+    "cut_in_strong": false,
+    "lap_med": 576.0,
+    "lap_max": 747.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 35,
+    "start": 33.992,
+    "end": 36.203,
+    "frames": 53,
+    "cut_in_strong": true,
+    "lap_med": 298.0,
+    "lap_max": 319.4,
+    "text_score": 0.0001
+   },
+   {
+    "i": 36,
+    "start": 36.203,
+    "end": 36.828,
+    "frames": 15,
+    "cut_in_strong": true,
+    "lap_med": 326.4,
+    "lap_max": 512.0,
+    "text_score": 0.0004
+   },
+   {
+    "i": 37,
+    "start": 36.828,
+    "end": 37.412,
+    "frames": 14,
+    "cut_in_strong": false,
+    "lap_med": 560.6,
+    "lap_max": 572.8,
+    "text_score": 0.0013
+   },
+   {
+    "i": 38,
+    "start": 37.412,
+    "end": 37.579,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 699.5,
+    "lap_max": 733.3,
+    "text_score": 0.0017
+   },
+   {
+    "i": 39,
+    "start": 37.579,
+    "end": 37.913,
+    "frames": 8,
+    "cut_in_strong": true,
+    "lap_med": 581.8,
+    "lap_max": 660.3,
+    "text_score": 0.0016
+   },
+   {
+    "i": 40,
+    "start": 37.913,
+    "end": 38.497,
+    "frames": 14,
+    "cut_in_strong": false,
+    "lap_med": 556.9,
+    "lap_max": 608.6,
+    "text_score": 0.0012
+   },
+   {
+    "i": 41,
+    "start": 38.497,
+    "end": 42.376,
+    "frames": 93,
+    "cut_in_strong": true,
+    "lap_med": 140.4,
+    "lap_max": 298.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 42,
+    "start": 42.376,
+    "end": 42.626,
+    "frames": 6,
+    "cut_in_strong": true,
+    "lap_med": 467.0,
+    "lap_max": 480.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 43,
+    "start": 42.626,
+    "end": 43.001,
+    "frames": 9,
+    "cut_in_strong": false,
+    "lap_med": 403.6,
+    "lap_max": 419.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 44,
+    "start": 43.001,
+    "end": 43.168,
+    "frames": 4,
+    "cut_in_strong": false,
+    "lap_med": 270.1,
+    "lap_max": 296.9,
+    "text_score": 0.0009
+   },
+   {
+    "i": 45,
+    "start": 43.168,
+    "end": 43.794,
+    "frames": 15,
+    "cut_in_strong": false,
+    "lap_med": 256.3,
+    "lap_max": 296.1,
+    "text_score": 0.0012
+   },
+   {
+    "i": 46,
+    "start": 43.794,
+    "end": 44.586,
+    "frames": 19,
+    "cut_in_strong": true,
+    "lap_med": 377.2,
+    "lap_max": 534.9,
+    "text_score": 0.0007
+   },
+   {
+    "i": 47,
+    "start": 44.586,
+    "end": 45.337,
+    "frames": 18,
+    "cut_in_strong": true,
+    "lap_med": 328.1,
+    "lap_max": 468.4,
+    "text_score": 0.0002
+   },
+   {
+    "i": 48,
+    "start": 45.337,
+    "end": 46.088,
+    "frames": 18,
+    "cut_in_strong": false,
+    "lap_med": 422.6,
+    "lap_max": 479.3,
+    "text_score": 0.0002
+   },
+   {
+    "i": 49,
+    "start": 46.088,
+    "end": 46.255,
+    "frames": 4,
+    "cut_in_strong": false,
+    "lap_med": 595.4,
+    "lap_max": 701.4,
+    "text_score": 0.0002
+   },
+   {
+    "i": 50,
+    "start": 46.255,
+    "end": 46.672,
+    "frames": 10,
+    "cut_in_strong": false,
+    "lap_med": 392.5,
+    "lap_max": 595.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 51,
+    "start": 46.672,
+    "end": 46.922,
+    "frames": 6,
+    "cut_in_strong": true,
+    "lap_med": 670.0,
+    "lap_max": 712.7,
+    "text_score": 0.0013
+   },
+   {
+    "i": 52,
+    "start": 46.922,
+    "end": 47.547,
+    "frames": 15,
+    "cut_in_strong": false,
+    "lap_med": 407.2,
+    "lap_max": 424.2,
+    "text_score": 0.0001
+   },
+   {
+    "i": 53,
+    "start": 47.547,
+    "end": 48.006,
+    "frames": 11,
+    "cut_in_strong": true,
+    "lap_med": 344.8,
+    "lap_max": 437.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 54,
+    "start": 48.006,
+    "end": 48.257,
+    "frames": 6,
+    "cut_in_strong": false,
+    "lap_med": 549.5,
+    "lap_max": 557.0,
+    "text_score": 0.0045
+   },
+   {
+    "i": 55,
+    "start": 48.257,
+    "end": 48.423,
+    "frames": 4,
+    "cut_in_strong": false,
+    "lap_med": 493.3,
+    "lap_max": 590.3,
+    "text_score": 0.0016
+   },
+   {
+    "i": 56,
+    "start": 48.423,
+    "end": 48.966,
+    "frames": 13,
+    "cut_in_strong": true,
+    "lap_med": 347.3,
+    "lap_max": 511.1,
+    "text_score": 0.0034
+   },
+   {
+    "i": 57,
+    "start": 48.966,
+    "end": 50.175,
+    "frames": 29,
+    "cut_in_strong": false,
+    "lap_med": 281.8,
+    "lap_max": 306.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 58,
+    "start": 50.175,
+    "end": 50.842,
+    "frames": 16,
+    "cut_in_strong": true,
+    "lap_med": 391.7,
+    "lap_max": 434.3,
+    "text_score": 0.0003
+   },
+   {
+    "i": 59,
+    "start": 50.842,
+    "end": 51.051,
+    "frames": 5,
+    "cut_in_strong": true,
+    "lap_med": 512.1,
+    "lap_max": 519.4,
+    "text_score": 0.001
+   },
+   {
+    "i": 60,
+    "start": 51.051,
+    "end": 52.302,
+    "frames": 30,
+    "cut_in_strong": false,
+    "lap_med": 723.2,
+    "lap_max": 746.7,
+    "text_score": 0.0018
+   },
+   {
+    "i": 61,
+    "start": 52.302,
+    "end": 53.804,
+    "frames": 36,
+    "cut_in_strong": true,
+    "lap_med": 358.7,
+    "lap_max": 661.1,
+    "text_score": 0.0017
+   },
+   {
+    "i": 62,
+    "start": 53.804,
+    "end": 54.805,
+    "frames": 24,
+    "cut_in_strong": true,
+    "lap_med": 477.8,
+    "lap_max": 592.8,
+    "text_score": 0.0009
+   },
+   {
+    "i": 63,
+    "start": 54.805,
+    "end": 55.806,
+    "frames": 24,
+    "cut_in_strong": true,
+    "lap_med": 226.7,
+    "lap_max": 321.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 64,
+    "start": 55.806,
+    "end": 55.973,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 492.9,
+    "lap_max": 513.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 65,
+    "start": 55.973,
+    "end": 57.057,
+    "frames": 26,
+    "cut_in_strong": false,
+    "lap_med": 501.0,
+    "lap_max": 750.3,
+    "text_score": 0.0016
+   },
+   {
+    "i": 66,
+    "start": 57.057,
+    "end": 57.516,
+    "frames": 11,
+    "cut_in_strong": false,
+    "lap_med": 381.1,
+    "lap_max": 384.8,
+    "text_score": 0.001
+   },
+   {
+    "i": 67,
+    "start": 57.516,
+    "end": 58.308,
+    "frames": 19,
+    "cut_in_strong": false,
+    "lap_med": 402.3,
+    "lap_max": 422.6,
+    "text_score": 0.0003
+   },
+   {
+    "i": 68,
+    "start": 58.308,
+    "end": 58.85,
+    "frames": 13,
+    "cut_in_strong": true,
+    "lap_med": 536.4,
+    "lap_max": 717.4,
+    "text_score": 0.0002
+   },
+   {
+    "i": 69,
+    "start": 58.85,
+    "end": 59.309,
+    "frames": 11,
+    "cut_in_strong": false,
+    "lap_med": 615.7,
+    "lap_max": 700.1,
+    "text_score": 0.0026
+   },
+   {
+    "i": 70,
+    "start": 59.309,
+    "end": 67.484,
+    "frames": 196,
+    "cut_in_strong": true,
+    "lap_med": 4.0,
+    "lap_max": 30.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 71,
+    "start": 67.484,
+    "end": 69.486,
+    "frames": 48,
+    "cut_in_strong": false,
+    "lap_med": 122.0,
+    "lap_max": 128.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 72,
+    "start": 69.486,
+    "end": 72.155,
+    "frames": 64,
+    "cut_in_strong": true,
+    "lap_med": 119.7,
+    "lap_max": 119.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 73,
+    "start": 72.155,
+    "end": 72.698,
+    "frames": 13,
+    "cut_in_strong": true,
+    "lap_med": 172.7,
+    "lap_max": 179.4,
+    "text_score": 0.0007
+   },
+   {
+    "i": 74,
+    "start": 72.698,
+    "end": 74.366,
+    "frames": 40,
+    "cut_in_strong": false,
+    "lap_med": 172.2,
+    "lap_max": 185.0,
+    "text_score": 0.0006
+   },
+   {
+    "i": 75,
+    "start": 74.366,
+    "end": 75.409,
+    "frames": 25,
+    "cut_in_strong": true,
+    "lap_med": 218.7,
+    "lap_max": 225.4,
+    "text_score": 0.0006
+   },
+   {
+    "i": 76,
+    "start": 75.409,
+    "end": 76.159,
+    "frames": 18,
+    "cut_in_strong": true,
+    "lap_med": 8.8,
+    "lap_max": 11.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 77,
+    "start": 76.159,
+    "end": 76.535,
+    "frames": 9,
+    "cut_in_strong": true,
+    "lap_med": 231.0,
+    "lap_max": 244.3,
+    "text_score": 0.0001
+   },
+   {
+    "i": 78,
+    "start": 76.535,
+    "end": 76.994,
+    "frames": 11,
+    "cut_in_strong": false,
+    "lap_med": 199.5,
+    "lap_max": 224.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 79,
+    "start": 76.994,
+    "end": 79.079,
+    "frames": 50,
+    "cut_in_strong": true,
+    "lap_med": 89.0,
+    "lap_max": 168.1,
+    "text_score": 0.001
+   },
+   {
+    "i": 80,
+    "start": 79.079,
+    "end": 79.955,
+    "frames": 21,
+    "cut_in_strong": true,
+    "lap_med": 134.3,
+    "lap_max": 152.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 81,
+    "start": 79.955,
+    "end": 80.789,
+    "frames": 20,
+    "cut_in_strong": true,
+    "lap_med": 114.1,
+    "lap_max": 119.9,
+    "text_score": 0.0005
+   },
+   {
+    "i": 82,
+    "start": 80.789,
+    "end": 81.081,
+    "frames": 7,
+    "cut_in_strong": true,
+    "lap_med": 113.6,
+    "lap_max": 197.0,
+    "text_score": 0.0001
+   },
+   {
+    "i": 83,
+    "start": 81.081,
+    "end": 81.29,
+    "frames": 5,
+    "cut_in_strong": true,
+    "lap_med": 37.9,
+    "lap_max": 61.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 84,
+    "start": 81.29,
+    "end": 81.456,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 27.7,
+    "lap_max": 197.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 85,
+    "start": 81.456,
+    "end": 84.543,
+    "frames": 74,
+    "cut_in_strong": true,
+    "lap_med": 8.3,
+    "lap_max": 54.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 86,
+    "start": 84.543,
+    "end": 85.294,
+    "frames": 18,
+    "cut_in_strong": false,
+    "lap_med": 85.6,
+    "lap_max": 94.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 87,
+    "start": 85.294,
+    "end": 87.129,
+    "frames": 44,
+    "cut_in_strong": true,
+    "lap_med": 79.5,
+    "lap_max": 99.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 88,
+    "start": 87.129,
+    "end": 88.422,
+    "frames": 31,
+    "cut_in_strong": true,
+    "lap_med": 118.4,
+    "lap_max": 120.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 89,
+    "start": 88.422,
+    "end": 89.423,
+    "frames": 24,
+    "cut_in_strong": true,
+    "lap_med": 304.6,
+    "lap_max": 314.2,
+    "text_score": 0.0003
+   },
+   {
+    "i": 90,
+    "start": 89.423,
+    "end": 89.673,
+    "frames": 6,
+    "cut_in_strong": true,
+    "lap_med": 177.7,
+    "lap_max": 178.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 91,
+    "start": 89.673,
+    "end": 90.424,
+    "frames": 18,
+    "cut_in_strong": false,
+    "lap_med": 14.0,
+    "lap_max": 189.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 92,
+    "start": 90.424,
+    "end": 93.385,
+    "frames": 71,
+    "cut_in_strong": false,
+    "lap_med": 38.1,
+    "lap_max": 54.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 93,
+    "start": 93.385,
+    "end": 95.012,
+    "frames": 39,
+    "cut_in_strong": true,
+    "lap_med": 48.4,
+    "lap_max": 104.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 94,
+    "start": 95.012,
+    "end": 96.43,
+    "frames": 34,
+    "cut_in_strong": true,
+    "lap_med": 26.9,
+    "lap_max": 29.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 95,
+    "start": 96.43,
+    "end": 98.015,
+    "frames": 38,
+    "cut_in_strong": false,
+    "lap_med": 28.0,
+    "lap_max": 60.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 96,
+    "start": 98.015,
+    "end": 99.224,
+    "frames": 29,
+    "cut_in_strong": true,
+    "lap_med": 267.2,
+    "lap_max": 317.0,
+    "text_score": 0.0012
+   },
+   {
+    "i": 97,
+    "start": 99.224,
+    "end": 99.391,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 34.0,
+    "lap_max": 34.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 98,
+    "start": 99.391,
+    "end": 99.558,
+    "frames": 4,
+    "cut_in_strong": false,
+    "lap_med": 21.0,
+    "lap_max": 21.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 99,
+    "start": 99.558,
+    "end": 99.725,
+    "frames": 4,
+    "cut_in_strong": false,
+    "lap_med": 25.3,
+    "lap_max": 27.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 100,
+    "start": 99.725,
+    "end": 99.891,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 49.4,
+    "lap_max": 52.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 101,
+    "start": 99.891,
+    "end": 100.058,
+    "frames": 4,
+    "cut_in_strong": false,
+    "lap_med": 28.7,
+    "lap_max": 29.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 102,
+    "start": 100.058,
+    "end": 100.225,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 25.9,
+    "lap_max": 26.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 103,
+    "start": 100.225,
+    "end": 100.392,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 33.4,
+    "lap_max": 33.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 104,
+    "start": 100.392,
+    "end": 101.018,
+    "frames": 15,
+    "cut_in_strong": true,
+    "lap_med": 92.6,
+    "lap_max": 117.9,
+    "text_score": 0.0006
+   },
+   {
+    "i": 105,
+    "start": 101.018,
+    "end": 101.768,
+    "frames": 18,
+    "cut_in_strong": false,
+    "lap_med": 92.0,
+    "lap_max": 127.0,
+    "text_score": 0.0002
+   },
+   {
+    "i": 106,
+    "start": 101.768,
+    "end": 103.02,
+    "frames": 30,
+    "cut_in_strong": true,
+    "lap_med": 44.8,
+    "lap_max": 165.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 107,
+    "start": 103.02,
+    "end": 104.271,
+    "frames": 30,
+    "cut_in_strong": false,
+    "lap_med": 316.8,
+    "lap_max": 419.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 108,
+    "start": 104.271,
+    "end": 105.731,
+    "frames": 35,
+    "cut_in_strong": true,
+    "lap_med": 31.2,
+    "lap_max": 68.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 109,
+    "start": 105.731,
+    "end": 106.606,
+    "frames": 21,
+    "cut_in_strong": false,
+    "lap_med": 28.3,
+    "lap_max": 47.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 110,
+    "start": 106.606,
+    "end": 106.773,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 90.7,
+    "lap_max": 104.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 111,
+    "start": 106.773,
+    "end": 107.441,
+    "frames": 16,
+    "cut_in_strong": false,
+    "lap_med": 45.8,
+    "lap_max": 57.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 112,
+    "start": 107.441,
+    "end": 108.942,
+    "frames": 36,
+    "cut_in_strong": false,
+    "lap_med": 47.7,
+    "lap_max": 125.9,
+    "text_score": 0.0001
+   },
+   {
+    "i": 113,
+    "start": 108.942,
+    "end": 110.193,
+    "frames": 30,
+    "cut_in_strong": false,
+    "lap_med": 45.5,
+    "lap_max": 52.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 114,
+    "start": 110.193,
+    "end": 111.611,
+    "frames": 34,
+    "cut_in_strong": false,
+    "lap_med": 71.3,
+    "lap_max": 71.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 115,
+    "start": 111.611,
+    "end": 112.07,
+    "frames": 11,
+    "cut_in_strong": true,
+    "lap_med": 25.9,
+    "lap_max": 69.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 116,
+    "start": 112.07,
+    "end": 112.237,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 55.2,
+    "lap_max": 69.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 117,
+    "start": 112.237,
+    "end": 112.779,
+    "frames": 13,
+    "cut_in_strong": true,
+    "lap_med": 28.0,
+    "lap_max": 36.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 118,
+    "start": 112.779,
+    "end": 113.113,
+    "frames": 8,
+    "cut_in_strong": false,
+    "lap_med": 42.1,
+    "lap_max": 63.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 119,
+    "start": 113.113,
+    "end": 115.115,
+    "frames": 48,
+    "cut_in_strong": true,
+    "lap_med": 209.2,
+    "lap_max": 556.9,
+    "text_score": 0.0006
+   },
+   {
+    "i": 120,
+    "start": 115.115,
+    "end": 117.659,
+    "frames": 61,
+    "cut_in_strong": true,
+    "lap_med": 151.9,
+    "lap_max": 191.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 121,
+    "start": 117.659,
+    "end": 119.536,
+    "frames": 45,
+    "cut_in_strong": false,
+    "lap_med": 1677.3,
+    "lap_max": 5664.2,
+    "text_score": 0.0542
+   },
+   {
+    "i": 122,
+    "start": 119.536,
+    "end": 121.33,
+    "frames": 43,
+    "cut_in_strong": false,
+    "lap_med": 5558.3,
+    "lap_max": 6219.7,
+    "text_score": 0.1501
+   },
+   {
+    "i": 123,
+    "start": 121.33,
+    "end": 124.708,
+    "frames": 81,
+    "cut_in_strong": true,
+    "lap_med": 86.4,
+    "lap_max": 91.3,
+    "text_score": 0.0
+   }
+  ],
+  "mks2": [
+   {
+    "i": 0,
+    "start": 0.0,
+    "end": 1.71,
+    "frames": 41,
+    "cut_in_strong": false,
+    "lap_med": 18.7,
+    "lap_max": 20.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 1,
+    "start": 1.71,
+    "end": 4.922,
+    "frames": 77,
+    "cut_in_strong": true,
+    "lap_med": 49.1,
+    "lap_max": 49.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 2,
+    "start": 4.922,
+    "end": 5.255,
+    "frames": 8,
+    "cut_in_strong": true,
+    "lap_med": 17.0,
+    "lap_max": 18.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 3,
+    "start": 5.255,
+    "end": 8.842,
+    "frames": 86,
+    "cut_in_strong": true,
+    "lap_med": 17.3,
+    "lap_max": 19.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 4,
+    "start": 8.842,
+    "end": 9.134,
+    "frames": 7,
+    "cut_in_strong": true,
+    "lap_med": 59.3,
+    "lap_max": 59.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 5,
+    "start": 9.134,
+    "end": 12.304,
+    "frames": 76,
+    "cut_in_strong": true,
+    "lap_med": 62.3,
+    "lap_max": 69.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 6,
+    "start": 12.304,
+    "end": 13.639,
+    "frames": 32,
+    "cut_in_strong": true,
+    "lap_med": 17.3,
+    "lap_max": 50.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 7,
+    "start": 13.639,
+    "end": 14.223,
+    "frames": 14,
+    "cut_in_strong": true,
+    "lap_med": 58.0,
+    "lap_max": 61.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 8,
+    "start": 14.223,
+    "end": 14.973,
+    "frames": 18,
+    "cut_in_strong": true,
+    "lap_med": 29.9,
+    "lap_max": 33.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 9,
+    "start": 14.973,
+    "end": 16.516,
+    "frames": 37,
+    "cut_in_strong": true,
+    "lap_med": 69.8,
+    "lap_max": 72.4,
+    "text_score": 0.0001
+   },
+   {
+    "i": 10,
+    "start": 16.516,
+    "end": 19.186,
+    "frames": 64,
+    "cut_in_strong": false,
+    "lap_med": 47.0,
+    "lap_max": 49.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 11,
+    "start": 19.186,
+    "end": 20.604,
+    "frames": 34,
+    "cut_in_strong": true,
+    "lap_med": 17.5,
+    "lap_max": 25.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 12,
+    "start": 20.604,
+    "end": 21.897,
+    "frames": 31,
+    "cut_in_strong": true,
+    "lap_med": 63.3,
+    "lap_max": 68.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 13,
+    "start": 21.897,
+    "end": 22.064,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 36.6,
+    "lap_max": 53.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 14,
+    "start": 22.064,
+    "end": 23.023,
+    "frames": 23,
+    "cut_in_strong": true,
+    "lap_med": 34.8,
+    "lap_max": 38.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 15,
+    "start": 23.023,
+    "end": 23.357,
+    "frames": 8,
+    "cut_in_strong": true,
+    "lap_med": 51.5,
+    "lap_max": 54.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 16,
+    "start": 23.357,
+    "end": 23.607,
+    "frames": 6,
+    "cut_in_strong": true,
+    "lap_med": 26.9,
+    "lap_max": 29.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 17,
+    "start": 23.607,
+    "end": 24.107,
+    "frames": 12,
+    "cut_in_strong": true,
+    "lap_med": 10.6,
+    "lap_max": 15.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 18,
+    "start": 24.107,
+    "end": 26.985,
+    "frames": 69,
+    "cut_in_strong": true,
+    "lap_med": 19.5,
+    "lap_max": 20.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 19,
+    "start": 26.985,
+    "end": 28.862,
+    "frames": 45,
+    "cut_in_strong": true,
+    "lap_med": 14.6,
+    "lap_max": 20.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 20,
+    "start": 28.862,
+    "end": 31.698,
+    "frames": 68,
+    "cut_in_strong": true,
+    "lap_med": 19.4,
+    "lap_max": 20.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 21,
+    "start": 31.698,
+    "end": 34.91,
+    "frames": 77,
+    "cut_in_strong": true,
+    "lap_med": 37.5,
+    "lap_max": 39.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 22,
+    "start": 34.91,
+    "end": 36.119,
+    "frames": 29,
+    "cut_in_strong": true,
+    "lap_med": 88.1,
+    "lap_max": 113.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 23,
+    "start": 36.119,
+    "end": 38.413,
+    "frames": 55,
+    "cut_in_strong": true,
+    "lap_med": 19.9,
+    "lap_max": 20.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 24,
+    "start": 38.413,
+    "end": 40.332,
+    "frames": 46,
+    "cut_in_strong": false,
+    "lap_med": 24.6,
+    "lap_max": 24.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 25,
+    "start": 40.332,
+    "end": 42.125,
+    "frames": 43,
+    "cut_in_strong": true,
+    "lap_med": 76.9,
+    "lap_max": 87.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 26,
+    "start": 42.125,
+    "end": 43.21,
+    "frames": 26,
+    "cut_in_strong": true,
+    "lap_med": 71.4,
+    "lap_max": 82.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 27,
+    "start": 43.21,
+    "end": 46.338,
+    "frames": 75,
+    "cut_in_strong": true,
+    "lap_med": 18.2,
+    "lap_max": 18.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 28,
+    "start": 46.338,
+    "end": 52.803,
+    "frames": 155,
+    "cut_in_strong": true,
+    "lap_med": 27.3,
+    "lap_max": 35.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 29,
+    "start": 52.803,
+    "end": 53.428,
+    "frames": 15,
+    "cut_in_strong": true,
+    "lap_med": 27.2,
+    "lap_max": 29.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 30,
+    "start": 53.428,
+    "end": 54.012,
+    "frames": 14,
+    "cut_in_strong": true,
+    "lap_med": 35.9,
+    "lap_max": 37.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 31,
+    "start": 54.012,
+    "end": 54.513,
+    "frames": 12,
+    "cut_in_strong": true,
+    "lap_med": 43.0,
+    "lap_max": 48.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 32,
+    "start": 54.513,
+    "end": 55.514,
+    "frames": 24,
+    "cut_in_strong": true,
+    "lap_med": 17.3,
+    "lap_max": 18.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 33,
+    "start": 55.514,
+    "end": 56.765,
+    "frames": 30,
+    "cut_in_strong": true,
+    "lap_med": 34.1,
+    "lap_max": 36.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 34,
+    "start": 56.765,
+    "end": 60.102,
+    "frames": 80,
+    "cut_in_strong": false,
+    "lap_med": 39.8,
+    "lap_max": 40.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 35,
+    "start": 60.102,
+    "end": 60.269,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 17.8,
+    "lap_max": 17.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 36,
+    "start": 60.269,
+    "end": 62.854,
+    "frames": 62,
+    "cut_in_strong": true,
+    "lap_med": 28.9,
+    "lap_max": 29.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 37,
+    "start": 62.854,
+    "end": 65.524,
+    "frames": 64,
+    "cut_in_strong": true,
+    "lap_med": 44.4,
+    "lap_max": 47.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 38,
+    "start": 65.524,
+    "end": 71.446,
+    "frames": 142,
+    "cut_in_strong": true,
+    "lap_med": 18.0,
+    "lap_max": 21.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 39,
+    "start": 71.446,
+    "end": 74.908,
+    "frames": 83,
+    "cut_in_strong": true,
+    "lap_med": 19.3,
+    "lap_max": 20.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 40,
+    "start": 74.908,
+    "end": 77.828,
+    "frames": 70,
+    "cut_in_strong": true,
+    "lap_med": 47.9,
+    "lap_max": 50.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 41,
+    "start": 77.828,
+    "end": 79.079,
+    "frames": 30,
+    "cut_in_strong": false,
+    "lap_med": 16.7,
+    "lap_max": 17.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 42,
+    "start": 79.079,
+    "end": 79.663,
+    "frames": 14,
+    "cut_in_strong": true,
+    "lap_med": 44.2,
+    "lap_max": 44.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 43,
+    "start": 79.663,
+    "end": 83.375,
+    "frames": 89,
+    "cut_in_strong": true,
+    "lap_med": 21.3,
+    "lap_max": 21.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 44,
+    "start": 83.375,
+    "end": 83.709,
+    "frames": 8,
+    "cut_in_strong": true,
+    "lap_med": 54.3,
+    "lap_max": 58.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 45,
+    "start": 83.709,
+    "end": 86.878,
+    "frames": 76,
+    "cut_in_strong": true,
+    "lap_med": 15.1,
+    "lap_max": 22.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 46,
+    "start": 86.878,
+    "end": 88.297,
+    "frames": 34,
+    "cut_in_strong": true,
+    "lap_med": 15.1,
+    "lap_max": 39.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 47,
+    "start": 88.297,
+    "end": 90.465,
+    "frames": 52,
+    "cut_in_strong": true,
+    "lap_med": 38.8,
+    "lap_max": 40.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 48,
+    "start": 90.465,
+    "end": 91.133,
+    "frames": 16,
+    "cut_in_strong": false,
+    "lap_med": 11.3,
+    "lap_max": 16.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 49,
+    "start": 91.133,
+    "end": 91.3,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 15.5,
+    "lap_max": 24.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 50,
+    "start": 91.3,
+    "end": 91.466,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 25.0,
+    "lap_max": 26.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 51,
+    "start": 91.466,
+    "end": 91.717,
+    "frames": 6,
+    "cut_in_strong": false,
+    "lap_med": 23.8,
+    "lap_max": 24.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 52,
+    "start": 91.717,
+    "end": 92.092,
+    "frames": 9,
+    "cut_in_strong": true,
+    "lap_med": 26.1,
+    "lap_max": 28.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 53,
+    "start": 92.092,
+    "end": 93.552,
+    "frames": 35,
+    "cut_in_strong": true,
+    "lap_med": 38.3,
+    "lap_max": 50.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 54,
+    "start": 93.552,
+    "end": 93.76,
+    "frames": 5,
+    "cut_in_strong": false,
+    "lap_med": 35.4,
+    "lap_max": 41.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 55,
+    "start": 93.76,
+    "end": 94.094,
+    "frames": 8,
+    "cut_in_strong": false,
+    "lap_med": 29.8,
+    "lap_max": 47.5,
+    "text_score": 0.0
+   }
+  ],
+  "mks3": [
+   {
+    "i": 0,
+    "start": 0.0,
+    "end": 0.125,
+    "frames": 3,
+    "cut_in_strong": false,
+    "lap_med": 11.4,
+    "lap_max": 11.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 1,
+    "start": 0.125,
+    "end": 4.004,
+    "frames": 93,
+    "cut_in_strong": true,
+    "lap_med": 15.7,
+    "lap_max": 18.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 2,
+    "start": 4.004,
+    "end": 5.339,
+    "frames": 32,
+    "cut_in_strong": true,
+    "lap_med": 14.9,
+    "lap_max": 20.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 3,
+    "start": 5.339,
+    "end": 6.298,
+    "frames": 23,
+    "cut_in_strong": false,
+    "lap_med": 8.6,
+    "lap_max": 9.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 4,
+    "start": 6.298,
+    "end": 6.465,
+    "frames": 4,
+    "cut_in_strong": false,
+    "lap_med": 22.5,
+    "lap_max": 25.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 5,
+    "start": 6.465,
+    "end": 8.133,
+    "frames": 40,
+    "cut_in_strong": true,
+    "lap_med": 9.9,
+    "lap_max": 16.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 6,
+    "start": 8.133,
+    "end": 9.218,
+    "frames": 26,
+    "cut_in_strong": true,
+    "lap_med": 18.9,
+    "lap_max": 19.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 7,
+    "start": 9.218,
+    "end": 10.969,
+    "frames": 42,
+    "cut_in_strong": false,
+    "lap_med": 25.7,
+    "lap_max": 28.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 8,
+    "start": 10.969,
+    "end": 11.887,
+    "frames": 22,
+    "cut_in_strong": false,
+    "lap_med": 6.8,
+    "lap_max": 7.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 9,
+    "start": 11.887,
+    "end": 14.431,
+    "frames": 61,
+    "cut_in_strong": true,
+    "lap_med": 31.5,
+    "lap_max": 32.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 10,
+    "start": 14.431,
+    "end": 14.723,
+    "frames": 7,
+    "cut_in_strong": true,
+    "lap_med": 9.2,
+    "lap_max": 22.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 11,
+    "start": 14.723,
+    "end": 16.016,
+    "frames": 31,
+    "cut_in_strong": true,
+    "lap_med": 29.7,
+    "lap_max": 29.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 12,
+    "start": 16.016,
+    "end": 18.435,
+    "frames": 58,
+    "cut_in_strong": true,
+    "lap_med": 28.6,
+    "lap_max": 30.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 13,
+    "start": 18.435,
+    "end": 20.02,
+    "frames": 38,
+    "cut_in_strong": true,
+    "lap_med": 12.5,
+    "lap_max": 14.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 14,
+    "start": 20.02,
+    "end": 22.564,
+    "frames": 61,
+    "cut_in_strong": false,
+    "lap_med": 1.9,
+    "lap_max": 5.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 15,
+    "start": 22.564,
+    "end": 22.814,
+    "frames": 6,
+    "cut_in_strong": true,
+    "lap_med": 23.0,
+    "lap_max": 23.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 16,
+    "start": 22.814,
+    "end": 25.4,
+    "frames": 62,
+    "cut_in_strong": false,
+    "lap_med": 20.6,
+    "lap_max": 21.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 17,
+    "start": 25.4,
+    "end": 31.323,
+    "frames": 142,
+    "cut_in_strong": true,
+    "lap_med": 4.2,
+    "lap_max": 5.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 18,
+    "start": 31.323,
+    "end": 35.41,
+    "frames": 98,
+    "cut_in_strong": false,
+    "lap_med": 6.8,
+    "lap_max": 9.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 19,
+    "start": 35.41,
+    "end": 36.119,
+    "frames": 17,
+    "cut_in_strong": true,
+    "lap_med": 16.5,
+    "lap_max": 18.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 20,
+    "start": 36.119,
+    "end": 37.412,
+    "frames": 31,
+    "cut_in_strong": true,
+    "lap_med": 7.0,
+    "lap_max": 7.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 21,
+    "start": 37.412,
+    "end": 38.747,
+    "frames": 32,
+    "cut_in_strong": false,
+    "lap_med": 10.9,
+    "lap_max": 17.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 22,
+    "start": 38.747,
+    "end": 38.997,
+    "frames": 6,
+    "cut_in_strong": false,
+    "lap_med": 20.6,
+    "lap_max": 20.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 23,
+    "start": 38.997,
+    "end": 39.957,
+    "frames": 23,
+    "cut_in_strong": false,
+    "lap_med": 17.2,
+    "lap_max": 21.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 24,
+    "start": 39.957,
+    "end": 40.624,
+    "frames": 16,
+    "cut_in_strong": true,
+    "lap_med": 20.6,
+    "lap_max": 26.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 25,
+    "start": 40.624,
+    "end": 41.833,
+    "frames": 29,
+    "cut_in_strong": true,
+    "lap_med": 5.5,
+    "lap_max": 6.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 26,
+    "start": 41.833,
+    "end": 43.21,
+    "frames": 33,
+    "cut_in_strong": true,
+    "lap_med": 15.9,
+    "lap_max": 16.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 27,
+    "start": 43.21,
+    "end": 43.502,
+    "frames": 7,
+    "cut_in_strong": true,
+    "lap_med": 13.6,
+    "lap_max": 14.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 28,
+    "start": 43.502,
+    "end": 44.586,
+    "frames": 26,
+    "cut_in_strong": false,
+    "lap_med": 14.3,
+    "lap_max": 19.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 29,
+    "start": 44.586,
+    "end": 45.671,
+    "frames": 26,
+    "cut_in_strong": true,
+    "lap_med": 4.4,
+    "lap_max": 4.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 30,
+    "start": 45.671,
+    "end": 46.88,
+    "frames": 29,
+    "cut_in_strong": true,
+    "lap_med": 27.4,
+    "lap_max": 28.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 31,
+    "start": 46.88,
+    "end": 48.048,
+    "frames": 28,
+    "cut_in_strong": false,
+    "lap_med": 17.4,
+    "lap_max": 19.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 32,
+    "start": 48.048,
+    "end": 48.257,
+    "frames": 5,
+    "cut_in_strong": true,
+    "lap_med": 12.7,
+    "lap_max": 13.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 33,
+    "start": 48.257,
+    "end": 49.925,
+    "frames": 40,
+    "cut_in_strong": true,
+    "lap_med": 8.5,
+    "lap_max": 10.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 34,
+    "start": 49.925,
+    "end": 51.802,
+    "frames": 45,
+    "cut_in_strong": true,
+    "lap_med": 5.5,
+    "lap_max": 16.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 35,
+    "start": 51.802,
+    "end": 53.262,
+    "frames": 35,
+    "cut_in_strong": true,
+    "lap_med": 14.6,
+    "lap_max": 16.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 36,
+    "start": 53.262,
+    "end": 53.72,
+    "frames": 11,
+    "cut_in_strong": true,
+    "lap_med": 20.7,
+    "lap_max": 21.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 37,
+    "start": 53.72,
+    "end": 53.971,
+    "frames": 6,
+    "cut_in_strong": false,
+    "lap_med": 21.3,
+    "lap_max": 21.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 38,
+    "start": 53.971,
+    "end": 56.723,
+    "frames": 66,
+    "cut_in_strong": true,
+    "lap_med": 2.9,
+    "lap_max": 7.4,
+    "text_score": 0.0
+   }
+  ],
+  "mks4": [
+   {
+    "i": 0,
+    "start": 0.0,
+    "end": 3.212,
+    "frames": 77,
+    "cut_in_strong": false,
+    "lap_med": 73.8,
+    "lap_max": 185.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 1,
+    "start": 3.212,
+    "end": 5.297,
+    "frames": 50,
+    "cut_in_strong": true,
+    "lap_med": 75.4,
+    "lap_max": 85.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 2,
+    "start": 5.297,
+    "end": 6.131,
+    "frames": 20,
+    "cut_in_strong": true,
+    "lap_med": 157.3,
+    "lap_max": 170.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 3,
+    "start": 6.131,
+    "end": 6.924,
+    "frames": 19,
+    "cut_in_strong": true,
+    "lap_med": 95.0,
+    "lap_max": 103.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 4,
+    "start": 6.924,
+    "end": 7.716,
+    "frames": 19,
+    "cut_in_strong": true,
+    "lap_med": 63.2,
+    "lap_max": 113.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 5,
+    "start": 7.716,
+    "end": 9.551,
+    "frames": 44,
+    "cut_in_strong": true,
+    "lap_med": 89.6,
+    "lap_max": 100.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 6,
+    "start": 9.551,
+    "end": 10.344,
+    "frames": 19,
+    "cut_in_strong": true,
+    "lap_med": 35.8,
+    "lap_max": 38.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 7,
+    "start": 10.344,
+    "end": 10.51,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 43.0,
+    "lap_max": 61.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 8,
+    "start": 10.51,
+    "end": 11.011,
+    "frames": 12,
+    "cut_in_strong": true,
+    "lap_med": 85.9,
+    "lap_max": 104.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 9,
+    "start": 11.011,
+    "end": 11.303,
+    "frames": 7,
+    "cut_in_strong": true,
+    "lap_med": 107.3,
+    "lap_max": 110.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 10,
+    "start": 11.303,
+    "end": 11.47,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 96.8,
+    "lap_max": 98.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 11,
+    "start": 11.47,
+    "end": 11.762,
+    "frames": 7,
+    "cut_in_strong": true,
+    "lap_med": 66.9,
+    "lap_max": 70.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 12,
+    "start": 11.762,
+    "end": 12.429,
+    "frames": 16,
+    "cut_in_strong": true,
+    "lap_med": 43.5,
+    "lap_max": 77.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 13,
+    "start": 12.429,
+    "end": 12.763,
+    "frames": 8,
+    "cut_in_strong": true,
+    "lap_med": 54.1,
+    "lap_max": 112.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 14,
+    "start": 12.763,
+    "end": 13.388,
+    "frames": 15,
+    "cut_in_strong": true,
+    "lap_med": 106.8,
+    "lap_max": 113.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 15,
+    "start": 13.388,
+    "end": 13.639,
+    "frames": 6,
+    "cut_in_strong": true,
+    "lap_med": 78.5,
+    "lap_max": 210.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 16,
+    "start": 13.639,
+    "end": 13.889,
+    "frames": 6,
+    "cut_in_strong": true,
+    "lap_med": 237.3,
+    "lap_max": 239.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 17,
+    "start": 13.889,
+    "end": 15.515,
+    "frames": 39,
+    "cut_in_strong": true,
+    "lap_med": 76.3,
+    "lap_max": 254.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 18,
+    "start": 15.515,
+    "end": 15.724,
+    "frames": 5,
+    "cut_in_strong": true,
+    "lap_med": 149.1,
+    "lap_max": 156.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 19,
+    "start": 15.724,
+    "end": 16.266,
+    "frames": 13,
+    "cut_in_strong": true,
+    "lap_med": 108.5,
+    "lap_max": 257.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 20,
+    "start": 16.266,
+    "end": 17.809,
+    "frames": 37,
+    "cut_in_strong": false,
+    "lap_med": 75.8,
+    "lap_max": 106.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 21,
+    "start": 17.809,
+    "end": 17.976,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 183.7,
+    "lap_max": 189.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 22,
+    "start": 17.976,
+    "end": 19.019,
+    "frames": 25,
+    "cut_in_strong": true,
+    "lap_med": 59.0,
+    "lap_max": 63.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 23,
+    "start": 19.019,
+    "end": 19.519,
+    "frames": 12,
+    "cut_in_strong": true,
+    "lap_med": 104.5,
+    "lap_max": 106.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 24,
+    "start": 19.519,
+    "end": 19.728,
+    "frames": 5,
+    "cut_in_strong": true,
+    "lap_med": 200.0,
+    "lap_max": 249.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 25,
+    "start": 19.728,
+    "end": 22.022,
+    "frames": 55,
+    "cut_in_strong": false,
+    "lap_med": 104.2,
+    "lap_max": 150.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 26,
+    "start": 22.022,
+    "end": 23.523,
+    "frames": 36,
+    "cut_in_strong": true,
+    "lap_med": 141.5,
+    "lap_max": 144.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 27,
+    "start": 23.523,
+    "end": 23.732,
+    "frames": 5,
+    "cut_in_strong": false,
+    "lap_med": 140.2,
+    "lap_max": 144.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 28,
+    "start": 23.732,
+    "end": 24.274,
+    "frames": 13,
+    "cut_in_strong": true,
+    "lap_med": 149.3,
+    "lap_max": 159.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 29,
+    "start": 24.274,
+    "end": 24.566,
+    "frames": 7,
+    "cut_in_strong": false,
+    "lap_med": 152.4,
+    "lap_max": 167.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 30,
+    "start": 24.566,
+    "end": 26.61,
+    "frames": 49,
+    "cut_in_strong": true,
+    "lap_med": 94.3,
+    "lap_max": 97.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 31,
+    "start": 26.61,
+    "end": 28.528,
+    "frames": 46,
+    "cut_in_strong": true,
+    "lap_med": 187.6,
+    "lap_max": 190.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 32,
+    "start": 28.528,
+    "end": 29.279,
+    "frames": 18,
+    "cut_in_strong": true,
+    "lap_med": 19.2,
+    "lap_max": 26.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 33,
+    "start": 29.279,
+    "end": 29.655,
+    "frames": 9,
+    "cut_in_strong": true,
+    "lap_med": 19.6,
+    "lap_max": 129.7,
+    "text_score": 0.0
+   },
+   {
+    "i": 34,
+    "start": 29.655,
+    "end": 32.157,
+    "frames": 60,
+    "cut_in_strong": false,
+    "lap_med": 77.7,
+    "lap_max": 115.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 35,
+    "start": 32.157,
+    "end": 34.243,
+    "frames": 50,
+    "cut_in_strong": true,
+    "lap_med": 108.1,
+    "lap_max": 121.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 36,
+    "start": 34.243,
+    "end": 36.203,
+    "frames": 47,
+    "cut_in_strong": false,
+    "lap_med": 94.1,
+    "lap_max": 112.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 37,
+    "start": 36.203,
+    "end": 38.205,
+    "frames": 48,
+    "cut_in_strong": true,
+    "lap_med": 51.4,
+    "lap_max": 52.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 38,
+    "start": 38.205,
+    "end": 42.084,
+    "frames": 93,
+    "cut_in_strong": true,
+    "lap_med": 97.3,
+    "lap_max": 109.4,
+    "text_score": 0.0
+   },
+   {
+    "i": 39,
+    "start": 42.084,
+    "end": 44.67,
+    "frames": 62,
+    "cut_in_strong": true,
+    "lap_med": 124.4,
+    "lap_max": 137.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 40,
+    "start": 44.67,
+    "end": 46.171,
+    "frames": 36,
+    "cut_in_strong": false,
+    "lap_med": 140.8,
+    "lap_max": 146.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 41,
+    "start": 46.171,
+    "end": 46.38,
+    "frames": 5,
+    "cut_in_strong": true,
+    "lap_med": 50.6,
+    "lap_max": 91.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 42,
+    "start": 46.38,
+    "end": 46.546,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 114.9,
+    "lap_max": 115.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 43,
+    "start": 46.546,
+    "end": 46.964,
+    "frames": 10,
+    "cut_in_strong": false,
+    "lap_med": 122.8,
+    "lap_max": 125.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 44,
+    "start": 46.964,
+    "end": 47.13,
+    "frames": 4,
+    "cut_in_strong": false,
+    "lap_med": 130.5,
+    "lap_max": 131.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 45,
+    "start": 47.13,
+    "end": 47.756,
+    "frames": 15,
+    "cut_in_strong": false,
+    "lap_med": 163.1,
+    "lap_max": 175.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 46,
+    "start": 47.756,
+    "end": 48.131,
+    "frames": 9,
+    "cut_in_strong": false,
+    "lap_med": 252.5,
+    "lap_max": 264.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 47,
+    "start": 48.131,
+    "end": 51.635,
+    "frames": 84,
+    "cut_in_strong": true,
+    "lap_med": 120.5,
+    "lap_max": 144.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 48,
+    "start": 51.635,
+    "end": 53.47,
+    "frames": 44,
+    "cut_in_strong": true,
+    "lap_med": 157.5,
+    "lap_max": 181.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 49,
+    "start": 53.47,
+    "end": 53.637,
+    "frames": 4,
+    "cut_in_strong": true,
+    "lap_med": 253.7,
+    "lap_max": 272.6,
+    "text_score": 0.0
+   },
+   {
+    "i": 50,
+    "start": 53.637,
+    "end": 54.054,
+    "frames": 10,
+    "cut_in_strong": false,
+    "lap_med": 138.5,
+    "lap_max": 158.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 51,
+    "start": 54.054,
+    "end": 54.221,
+    "frames": 4,
+    "cut_in_strong": false,
+    "lap_med": 174.3,
+    "lap_max": 198.2,
+    "text_score": 0.0
+   },
+   {
+    "i": 52,
+    "start": 54.221,
+    "end": 55.18,
+    "frames": 23,
+    "cut_in_strong": true,
+    "lap_med": 127.7,
+    "lap_max": 130.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 53,
+    "start": 55.18,
+    "end": 58.141,
+    "frames": 71,
+    "cut_in_strong": false,
+    "lap_med": 83.8,
+    "lap_max": 124.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 54,
+    "start": 58.141,
+    "end": 63.689,
+    "frames": 133,
+    "cut_in_strong": true,
+    "lap_med": 135.3,
+    "lap_max": 205.0,
+    "text_score": 0.0
+   },
+   {
+    "i": 55,
+    "start": 63.689,
+    "end": 63.939,
+    "frames": 6,
+    "cut_in_strong": true,
+    "lap_med": 22.7,
+    "lap_max": 24.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 56,
+    "start": 63.939,
+    "end": 64.398,
+    "frames": 11,
+    "cut_in_strong": true,
+    "lap_med": 137.6,
+    "lap_max": 175.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 57,
+    "start": 64.398,
+    "end": 64.648,
+    "frames": 6,
+    "cut_in_strong": true,
+    "lap_med": 115.2,
+    "lap_max": 116.3,
+    "text_score": 0.0
+   },
+   {
+    "i": 58,
+    "start": 64.648,
+    "end": 69.695,
+    "frames": 121,
+    "cut_in_strong": false,
+    "lap_med": 104.8,
+    "lap_max": 110.8,
+    "text_score": 0.0
+   },
+   {
+    "i": 59,
+    "start": 69.695,
+    "end": 72.197,
+    "frames": 60,
+    "cut_in_strong": true,
+    "lap_med": 222.7,
+    "lap_max": 226.1,
+    "text_score": 0.0
+   },
+   {
+    "i": 60,
+    "start": 72.197,
+    "end": 74.7,
+    "frames": 60,
+    "cut_in_strong": true,
+    "lap_med": 112.1,
+    "lap_max": 114.9,
+    "text_score": 0.0
+   },
+   {
+    "i": 61,
+    "start": 74.7,
+    "end": 77.202,
+    "frames": 60,
+    "cut_in_strong": true,
+    "lap_med": 72.0,
+    "lap_max": 73.5,
+    "text_score": 0.0
+   },
+   {
+    "i": 62,
+    "start": 77.202,
+    "end": 78.078,
+    "frames": 21,
+    "cut_in_strong": true,
+    "lap_med": 105.3,
+    "lap_max": 107.1,
+    "text_score": 0.0
+   }
+  ]
+ },
+ "moments": [
+  {
+   "clip": "mks1",
+   "start": 0.0,
+   "end": 1.0,
+   "what": "ECU: Sasuke opens his Rinnegan, blood tear runs down",
+   "hype": 7,
+   "lap_med": 451,
+   "sharp": "sharp (4K source; glow/flash shots are soft by design)",
+   "clean": true,
+   "use": "cold open of the final-fight block / villain stare beat"
+  },
+  {
+   "clip": "mks1",
+   "start": 1.0,
+   "end": 3.25,
+   "what": "Naruto crouches, then a punch smashes into Sasuke; shattering impact frame",
+   "hype": 7,
+   "lap_med": 114,
+   "sharp": "sharp (4K source; glow/flash shots are soft by design)",
+   "clean": true,
+   "use": "hit on a kick drum"
+  },
+  {
+   "clip": "mks1",
+   "start": 13.3,
+   "end": 17.14,
+   "what": "Sasuke slams a Chidori into the cliff, lightning stream rips through three Naruto clones",
+   "hype": 8,
+   "lap_med": 378,
+   "sharp": "sharp (4K source; glow/flash shots are soft by design)",
+   "clean": true,
+   "use": "lightning SFX accent; fast build"
+  },
+  {
+   "clip": "mks1",
+   "start": 42.38,
+   "end": 51.05,
+   "what": "Bloody fist exchange: Naruto and Sasuke trade punches to the face, blood flying (cuts every ~0.2-0.8s)",
+   "hype": 9,
+   "lap_med": 374,
+   "sharp": "sharp (4K source; glow/flash shots are soft by design)",
+   "clean": true,
+   "use": "rapid-fire beat cuts in the drop; sharpest action in the segment"
+  },
+  {
+   "clip": "mks1",
+   "start": 79.08,
+   "end": 81.46,
+   "what": "Sasuke Rinnegan close-up then point-blank Chidori lightning burst",
+   "hype": 8,
+   "lap_med": 122,
+   "sharp": "sharp (4K source; glow/flash shots are soft by design)",
+   "clean": true,
+   "use": "pre-climax riser"
+  },
+  {
+   "clip": "mks1",
+   "start": 93.38,
+   "end": 99.22,
+   "what": "Naruto forms his last one-handed Rasengan (Team 7 memory hands), then charges, Rasengan glowing",
+   "hype": 9,
+   "lap_med": 47,
+   "sharp": "sharp (4K source; glow/flash shots are soft by design)",
+   "clean": true,
+   "use": "emotional build into the final clash"
+  },
+  {
+   "clip": "mks1",
+   "start": 101.77,
+   "end": 104.27,
+   "what": "Naruto in red Kurama chakra screams, Rasengan forward, launches at Sasuke",
+   "hype": 10,
+   "lap_med": 183,
+   "sharp": "sharp (4K source; glow/flash shots are soft by design)",
+   "clean": true,
+   "use": "last beat before the drop"
+  },
+  {
+   "clip": "mks1",
+   "start": 104.27,
+   "end": 112.07,
+   "what": "Sasuke screams; Chidori vs Rasengan collide in a storm of lightning and light",
+   "hype": 10,
+   "lap_med": 45,
+   "sharp": "sharp (4K source; glow/flash shots are soft by design)",
+   "clean": true,
+   "use": "THE climax hit; flash/white-out transition"
+  },
+  {
+   "clip": "mks1",
+   "start": 112.07,
+   "end": 117.66,
+   "what": "White-out, then the clash sphere erupts between the Hashirama/Madara statues, rocks lifting",
+   "hype": 10,
+   "lap_med": 148,
+   "sharp": "sharp (4K source; glow/flash shots are soft by design)",
+   "clean": true,
+   "use": "impact/explosion; natural flash transition"
+  },
+  {
+   "clip": "mks1",
+   "start": 121.33,
+   "end": 124.71,
+   "what": "Aftermath: Naruto and Sasuke lie side by side, both arms lost, blood joining",
+   "hype": 8,
+   "lap_med": 84,
+   "sharp": "sharp (4K source; glow/flash shots are soft by design)",
+   "clean": true,
+   "use": "resolution beat before acknowledgment/Hokage"
+  },
+  {
+   "clip": "mks4",
+   "start": 15.72,
+   "end": 22.02,
+   "what": "White flash, Kurama chakra fireball engulfs Naruto, low-angle legs in embers, Six Paths Naruto bursts out of the fireball",
+   "hype": 9,
+   "lap_med": 108,
+   "sharp": "ok (clean lines, slightly soft at 1:1)",
+   "clean": true,
+   "use": "power-up on the drop"
+  },
+  {
+   "clip": "mks4",
+   "start": 38.2,
+   "end": 46.17,
+   "what": "Speed-line whip to Indra Susanoo towering on the Madara statue; Sasuke inside; Naruto Six Paths close-up powering up",
+   "hype": 9,
+   "lap_med": 118,
+   "sharp": "ok (clean lines, slightly soft at 1:1)",
+   "clean": true,
+   "use": "scale reveal; rival intro"
+  },
+  {
+   "clip": "mks4",
+   "start": 47.76,
+   "end": 55.18,
+   "what": "Kurama vs Susanoo: Susanoo blade and Kurama tails clash over the waterfall, sparks and purple arrow",
+   "hype": 10,
+   "lap_med": 135,
+   "sharp": "ok (clean lines, slightly soft at 1:1)",
+   "clean": true,
+   "use": "mid-drop titan clash"
+  },
+  {
+   "clip": "mks4",
+   "start": 64.65,
+   "end": 69.69,
+   "what": "Water dome explodes; Kurama and Susanoo fists collide head-on mid-lake",
+   "hype": 10,
+   "lap_med": 106,
+   "sharp": "ok (clean lines, slightly soft at 1:1)",
+   "clean": true,
+   "use": "iconic Kurama-vs-Susanoo frame; slam on a downbeat"
+  },
+  {
+   "clip": "mks4",
+   "start": 69.69,
+   "end": 78.08,
+   "what": "Six Paths Naruto and Sasuke close-ups, then giant Kurama/Susanoo fists pressed together in the rain",
+   "hype": 9,
+   "lap_med": 113,
+   "sharp": "ok (clean lines, slightly soft at 1:1)",
+   "clean": true,
+   "use": "rival bond beat / slow-mo hold"
+  },
+  {
+   "clip": "mks2",
+   "start": 0.0,
+   "end": 8.84,
+   "what": "Sasuke and Six Paths Naruto stand together vs Madara; Madara seals; Naruto close-up with the black rod in his mouth",
+   "hype": 7,
+   "lap_med": 18,
+   "sharp": "soft (upscaled SD, mushy at 1:1 - use as short flash cuts)",
+   "clean": true,
+   "use": "Madara arc setup (short)"
+  },
+  {
+   "clip": "mks2",
+   "start": 12.3,
+   "end": 23.61,
+   "what": "Purple-tinted Rinnegan sequence: Madara, purple lightning over rocks, Sasuke hand over his Rinnegan; Naruto airborne strike, Madara lightning",
+   "hype": 7,
+   "lap_med": 45,
+   "sharp": "soft (upscaled SD, mushy at 1:1 - use as short flash cuts)",
+   "clean": true,
+   "use": "Madara fight montage flashes"
+  },
+  {
+   "clip": "mks2",
+   "start": 83.71,
+   "end": 94.09,
+   "what": "Naruto forms the Truth-Seeking-Ball Rasengan, Sasuke charges Chidori, combined strike tears into Madara",
+   "hype": 9,
+   "lap_med": 25,
+   "sharp": "soft (upscaled SD, mushy at 1:1 - use as short flash cuts)",
+   "clean": true,
+   "use": "Madara arc payoff hit"
+  },
+  {
+   "clip": "mks3",
+   "start": 4.0,
+   "end": 6.46,
+   "what": "Team 7 strike: Naruto, Sakura and Sasuke (lightning blade arc) hit Madara",
+   "hype": 8,
+   "lap_med": 15,
+   "sharp": "soft (upscaled SD, mushy at 1:1 - use as short flash cuts)",
+   "clean": true,
+   "use": "team-up flash cut"
+  },
+  {
+   "clip": "mks3",
+   "start": 41.83,
+   "end": 51.8,
+   "what": "Naruto looks up with Kurama arm, Sasuke Susanoo eyes flare, grey spheres fly, white explosion, Susanoo arrow and purple cross slash",
+   "hype": 9,
+   "lap_med": 11,
+   "sharp": "soft (upscaled SD, mushy at 1:1 - use as short flash cuts)",
+   "clean": true,
+   "use": "Madara arc effects montage"
+  }
+ ],
+ "missing": "Kaguya (Team 7 vs Kaguya): no usable source found. Official channels have no Kaguya clips; anime uploads checked were soft upscales (R2K43FF00P8, rTOk49LNzYs), subtitled/letterboxed (pgjWKn3SbjE, eC9mMAP3QZI) or framed with overlays (sOb6MckypTQ); ZcD0mcwslPM turned out to be Storm 4 game footage.",
+ "method": "cuts: union of ffmpeg scene>0.25 and >0.35 (merged within 3 frames; cut_in_strong = in 0.35 set); lap = Laplacian variance at 1080p; logos: temporal median Sobel edge mask over 76-80 frames per source found no persistent corner/edge marks, so no removelogo; subtitles: none seen on the shot sheets (text_score heuristic only fires on the white sketch-line shots mks1 #121-122)."
+}

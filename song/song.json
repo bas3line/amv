@@ -1,0 +1,1923 @@
+{
+ "source": {
+  "url": "https://www.youtube.com/watch?v=DHJW2PzKeZQ",
+  "duration": 187.4431
+ },
+ "edit_file": "song/edit.wav",
+ "sr": 44100,
+ "duration": 89.9316,
+ "bpm": 145.9926,
+ "beat_period": 0.4109797,
+ "song_grid": {
+  "t0": 0.09183,
+  "period": 0.4109797,
+  "formula": "song_t = t0 + k*period, downbeat when k%4==0",
+  "fit": "demucs drum-stem attacks, 188 clean hits, resid rms ~6 ms, per-32-beat median resid within +-4.3 ms"
+ },
+ "segments": [
+  {
+   "seg": "A",
+   "song_start": 21.452789,
+   "song_end": 69.133424,
+   "edit_start": 0.0,
+   "edit_end": 47.680635,
+   "song_k": [
+    52,
+    168
+   ],
+   "edit_minus_song": -21.452789,
+   "song_start_sample": 946068,
+   "song_end_sample": 3048784,
+   "edit_start_sample": 0,
+   "edit_end_sample": 2102716
+  },
+  {
+   "seg": "B",
+   "song_start": 139.811927,
+   "song_end": 182.072902,
+   "edit_start": 47.670635,
+   "edit_end": 89.93161,
+   "song_k": [
+    340,
+    440
+   ],
+   "edit_minus_song": -92.141293,
+   "song_start_sample": 6165706,
+   "song_end_sample": 8029415,
+   "edit_start_sample": 2102275,
+   "edit_end_sample": 3965984
+  }
+ ],
+ "splices": [
+  {
+   "type": "fade-in",
+   "edit_t": 0.0,
+   "len": 0.01
+  },
+  {
+   "type": "equal-power crossfade",
+   "edit_t_center": 47.6756,
+   "edit_downbeat": 47.684,
+   "len": 0.01,
+   "song_out": 69.1234,
+   "song_in": 139.8119,
+   "bars": "A k168 (downbeat, end of chorus 1) -> B k340 (downbeat inside the stop)"
+  },
+  {
+   "type": "end fade",
+   "edit_t": 89.0816,
+   "len": 0.85
+  }
+ ],
+ "beats": [
+  {
+   "t": 0.01,
+   "song_k": 52,
+   "song_t": 21.4628,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 0.421,
+   "song_k": 53,
+   "song_t": 21.8738,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 0.8319,
+   "song_k": 54,
+   "song_t": 22.2847,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 1.2429,
+   "song_k": 55,
+   "song_t": 22.6957,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 1.6539,
+   "song_k": 56,
+   "song_t": 23.1067,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 2.0649,
+   "song_k": 57,
+   "song_t": 23.5177,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 2.4759,
+   "song_k": 58,
+   "song_t": 23.9287,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 2.8868,
+   "song_k": 59,
+   "song_t": 24.3396,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 3.2978,
+   "song_k": 60,
+   "song_t": 24.7506,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 3.7088,
+   "song_k": 61,
+   "song_t": 25.1616,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 4.1198,
+   "song_k": 62,
+   "song_t": 25.5726,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 4.5308,
+   "song_k": 63,
+   "song_t": 25.9836,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 4.9417,
+   "song_k": 64,
+   "song_t": 26.3945,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 5.3527,
+   "song_k": 65,
+   "song_t": 26.8055,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 5.7637,
+   "song_k": 66,
+   "song_t": 27.2165,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 6.1747,
+   "song_k": 67,
+   "song_t": 27.6275,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 6.5857,
+   "song_k": 68,
+   "song_t": 28.0385,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 6.9966,
+   "song_k": 69,
+   "song_t": 28.4494,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 7.4076,
+   "song_k": 70,
+   "song_t": 28.8604,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 7.8186,
+   "song_k": 71,
+   "song_t": 29.2714,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 8.2296,
+   "song_k": 72,
+   "song_t": 29.6824,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 8.6406,
+   "song_k": 73,
+   "song_t": 30.0934,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 9.0515,
+   "song_k": 74,
+   "song_t": 30.5043,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 9.4625,
+   "song_k": 75,
+   "song_t": 30.9153,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 9.8735,
+   "song_k": 76,
+   "song_t": 31.3263,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 10.2845,
+   "song_k": 77,
+   "song_t": 31.7373,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 10.6955,
+   "song_k": 78,
+   "song_t": 32.1483,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 11.1064,
+   "song_k": 79,
+   "song_t": 32.5592,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 11.5174,
+   "song_k": 80,
+   "song_t": 32.9702,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 11.9284,
+   "song_k": 81,
+   "song_t": 33.3812,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 12.3394,
+   "song_k": 82,
+   "song_t": 33.7922,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 12.7504,
+   "song_k": 83,
+   "song_t": 34.2032,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 13.1613,
+   "song_k": 84,
+   "song_t": 34.6141,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 13.5723,
+   "song_k": 85,
+   "song_t": 35.0251,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 13.9833,
+   "song_k": 86,
+   "song_t": 35.4361,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 14.3943,
+   "song_k": 87,
+   "song_t": 35.8471,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 14.8053,
+   "song_k": 88,
+   "song_t": 36.258,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 15.2162,
+   "song_k": 89,
+   "song_t": 36.669,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 15.6272,
+   "song_k": 90,
+   "song_t": 37.08,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 16.0382,
+   "song_k": 91,
+   "song_t": 37.491,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 16.4492,
+   "song_k": 92,
+   "song_t": 37.902,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 16.8602,
+   "song_k": 93,
+   "song_t": 38.3129,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 17.2711,
+   "song_k": 94,
+   "song_t": 38.7239,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 17.6821,
+   "song_k": 95,
+   "song_t": 39.1349,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 18.0931,
+   "song_k": 96,
+   "song_t": 39.5459,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 18.5041,
+   "song_k": 97,
+   "song_t": 39.9569,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 18.9151,
+   "song_k": 98,
+   "song_t": 40.3678,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 19.326,
+   "song_k": 99,
+   "song_t": 40.7788,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 19.737,
+   "song_k": 100,
+   "song_t": 41.1898,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 20.148,
+   "song_k": 101,
+   "song_t": 41.6008,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 20.559,
+   "song_k": 102,
+   "song_t": 42.0118,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 20.97,
+   "song_k": 103,
+   "song_t": 42.4227,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 21.3809,
+   "song_k": 104,
+   "song_t": 42.8337,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 21.7919,
+   "song_k": 105,
+   "song_t": 43.2447,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 22.2029,
+   "song_k": 106,
+   "song_t": 43.6557,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 22.6139,
+   "song_k": 107,
+   "song_t": 44.0667,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 23.0249,
+   "song_k": 108,
+   "song_t": 44.4776,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 23.4358,
+   "song_k": 109,
+   "song_t": 44.8886,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 23.8468,
+   "song_k": 110,
+   "song_t": 45.2996,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 24.2578,
+   "song_k": 111,
+   "song_t": 45.7106,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 24.6688,
+   "song_k": 112,
+   "song_t": 46.1216,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 25.0798,
+   "song_k": 113,
+   "song_t": 46.5325,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 25.4907,
+   "song_k": 114,
+   "song_t": 46.9435,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 25.9017,
+   "song_k": 115,
+   "song_t": 47.3545,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 26.3127,
+   "song_k": 116,
+   "song_t": 47.7655,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 26.7237,
+   "song_k": 117,
+   "song_t": 48.1765,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 27.1347,
+   "song_k": 118,
+   "song_t": 48.5874,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 27.5456,
+   "song_k": 119,
+   "song_t": 48.9984,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 27.9566,
+   "song_k": 120,
+   "song_t": 49.4094,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 28.3676,
+   "song_k": 121,
+   "song_t": 49.8204,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 28.7786,
+   "song_k": 122,
+   "song_t": 50.2314,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 29.1896,
+   "song_k": 123,
+   "song_t": 50.6423,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 29.6005,
+   "song_k": 124,
+   "song_t": 51.0533,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 30.0115,
+   "song_k": 125,
+   "song_t": 51.4643,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 30.4225,
+   "song_k": 126,
+   "song_t": 51.8753,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 30.8335,
+   "song_k": 127,
+   "song_t": 52.2863,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 31.2444,
+   "song_k": 128,
+   "song_t": 52.6972,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 31.6554,
+   "song_k": 129,
+   "song_t": 53.1082,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 32.0664,
+   "song_k": 130,
+   "song_t": 53.5192,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 32.4774,
+   "song_k": 131,
+   "song_t": 53.9302,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 32.8884,
+   "song_k": 132,
+   "song_t": 54.3412,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 33.2993,
+   "song_k": 133,
+   "song_t": 54.7521,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 33.7103,
+   "song_k": 134,
+   "song_t": 55.1631,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 34.1213,
+   "song_k": 135,
+   "song_t": 55.5741,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 34.5323,
+   "song_k": 136,
+   "song_t": 55.9851,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 34.9433,
+   "song_k": 137,
+   "song_t": 56.3961,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 35.3542,
+   "song_k": 138,
+   "song_t": 56.807,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 35.7652,
+   "song_k": 139,
+   "song_t": 57.218,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 36.1762,
+   "song_k": 140,
+   "song_t": 57.629,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 36.5872,
+   "song_k": 141,
+   "song_t": 58.04,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 36.9982,
+   "song_k": 142,
+   "song_t": 58.451,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 37.4091,
+   "song_k": 143,
+   "song_t": 58.8619,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 37.8201,
+   "song_k": 144,
+   "song_t": 59.2729,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 38.2311,
+   "song_k": 145,
+   "song_t": 59.6839,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 38.6421,
+   "song_k": 146,
+   "song_t": 60.0949,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 39.0531,
+   "song_k": 147,
+   "song_t": 60.5059,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 39.464,
+   "song_k": 148,
+   "song_t": 60.9168,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 39.875,
+   "song_k": 149,
+   "song_t": 61.3278,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 40.286,
+   "song_k": 150,
+   "song_t": 61.7388,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 40.697,
+   "song_k": 151,
+   "song_t": 62.1498,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 41.108,
+   "song_k": 152,
+   "song_t": 62.5608,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 41.5189,
+   "song_k": 153,
+   "song_t": 62.9717,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 41.9299,
+   "song_k": 154,
+   "song_t": 63.3827,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 42.3409,
+   "song_k": 155,
+   "song_t": 63.7937,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 42.7519,
+   "song_k": 156,
+   "song_t": 64.2047,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 43.1629,
+   "song_k": 157,
+   "song_t": 64.6156,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 43.5738,
+   "song_k": 158,
+   "song_t": 65.0266,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 43.9848,
+   "song_k": 159,
+   "song_t": 65.4376,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 44.3958,
+   "song_k": 160,
+   "song_t": 65.8486,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 44.8068,
+   "song_k": 161,
+   "song_t": 66.2596,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 45.2178,
+   "song_k": 162,
+   "song_t": 66.6705,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 45.6287,
+   "song_k": 163,
+   "song_t": 67.0815,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 46.0397,
+   "song_k": 164,
+   "song_t": 67.4925,
+   "bar_beat": 1,
+   "seg": "A"
+  },
+  {
+   "t": 46.4507,
+   "song_k": 165,
+   "song_t": 67.9035,
+   "bar_beat": 2,
+   "seg": "A"
+  },
+  {
+   "t": 46.8617,
+   "song_k": 166,
+   "song_t": 68.3145,
+   "bar_beat": 3,
+   "seg": "A"
+  },
+  {
+   "t": 47.2727,
+   "song_k": 167,
+   "song_t": 68.7254,
+   "bar_beat": 4,
+   "seg": "A"
+  },
+  {
+   "t": 47.6836,
+   "song_k": 340,
+   "song_t": 139.8249,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 48.0946,
+   "song_k": 341,
+   "song_t": 140.2359,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 48.5056,
+   "song_k": 342,
+   "song_t": 140.6469,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 48.9166,
+   "song_k": 343,
+   "song_t": 141.0579,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 49.3276,
+   "song_k": 344,
+   "song_t": 141.4689,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 49.7385,
+   "song_k": 345,
+   "song_t": 141.8798,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 50.1495,
+   "song_k": 346,
+   "song_t": 142.2908,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 50.5605,
+   "song_k": 347,
+   "song_t": 142.7018,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 50.9715,
+   "song_k": 348,
+   "song_t": 143.1128,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 51.3825,
+   "song_k": 349,
+   "song_t": 143.5238,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 51.7934,
+   "song_k": 350,
+   "song_t": 143.9347,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 52.2044,
+   "song_k": 351,
+   "song_t": 144.3457,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 52.6154,
+   "song_k": 352,
+   "song_t": 144.7567,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 53.0264,
+   "song_k": 353,
+   "song_t": 145.1677,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 53.4374,
+   "song_k": 354,
+   "song_t": 145.5787,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 53.8483,
+   "song_k": 355,
+   "song_t": 145.9896,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 54.2593,
+   "song_k": 356,
+   "song_t": 146.4006,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 54.6703,
+   "song_k": 357,
+   "song_t": 146.8116,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 55.0813,
+   "song_k": 358,
+   "song_t": 147.2226,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 55.4923,
+   "song_k": 359,
+   "song_t": 147.6336,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 55.9032,
+   "song_k": 360,
+   "song_t": 148.0445,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 56.3142,
+   "song_k": 361,
+   "song_t": 148.4555,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 56.7252,
+   "song_k": 362,
+   "song_t": 148.8665,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 57.1362,
+   "song_k": 363,
+   "song_t": 149.2775,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 57.5472,
+   "song_k": 364,
+   "song_t": 149.6885,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 57.9581,
+   "song_k": 365,
+   "song_t": 150.0994,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 58.3691,
+   "song_k": 366,
+   "song_t": 150.5104,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 58.7801,
+   "song_k": 367,
+   "song_t": 150.9214,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 59.1911,
+   "song_k": 368,
+   "song_t": 151.3324,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 59.6021,
+   "song_k": 369,
+   "song_t": 151.7434,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 60.013,
+   "song_k": 370,
+   "song_t": 152.1543,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 60.424,
+   "song_k": 371,
+   "song_t": 152.5653,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 60.835,
+   "song_k": 372,
+   "song_t": 152.9763,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 61.246,
+   "song_k": 373,
+   "song_t": 153.3873,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 61.657,
+   "song_k": 374,
+   "song_t": 153.7982,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 62.0679,
+   "song_k": 375,
+   "song_t": 154.2092,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 62.4789,
+   "song_k": 376,
+   "song_t": 154.6202,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 62.8899,
+   "song_k": 377,
+   "song_t": 155.0312,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 63.3009,
+   "song_k": 378,
+   "song_t": 155.4422,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 63.7119,
+   "song_k": 379,
+   "song_t": 155.8531,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 64.1228,
+   "song_k": 380,
+   "song_t": 156.2641,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 64.5338,
+   "song_k": 381,
+   "song_t": 156.6751,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 64.9448,
+   "song_k": 382,
+   "song_t": 157.0861,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 65.3558,
+   "song_k": 383,
+   "song_t": 157.4971,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 65.7668,
+   "song_k": 384,
+   "song_t": 157.908,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 66.1777,
+   "song_k": 385,
+   "song_t": 158.319,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 66.5887,
+   "song_k": 386,
+   "song_t": 158.73,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 66.9997,
+   "song_k": 387,
+   "song_t": 159.141,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 67.4107,
+   "song_k": 388,
+   "song_t": 159.552,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 67.8217,
+   "song_k": 389,
+   "song_t": 159.9629,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 68.2326,
+   "song_k": 390,
+   "song_t": 160.3739,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 68.6436,
+   "song_k": 391,
+   "song_t": 160.7849,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 69.0546,
+   "song_k": 392,
+   "song_t": 161.1959,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 69.4656,
+   "song_k": 393,
+   "song_t": 161.6069,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 69.8766,
+   "song_k": 394,
+   "song_t": 162.0178,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 70.2875,
+   "song_k": 395,
+   "song_t": 162.4288,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 70.6985,
+   "song_k": 396,
+   "song_t": 162.8398,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 71.1095,
+   "song_k": 397,
+   "song_t": 163.2508,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 71.5205,
+   "song_k": 398,
+   "song_t": 163.6618,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 71.9314,
+   "song_k": 399,
+   "song_t": 164.0727,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 72.3424,
+   "song_k": 400,
+   "song_t": 164.4837,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 72.7534,
+   "song_k": 401,
+   "song_t": 164.8947,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 73.1644,
+   "song_k": 402,
+   "song_t": 165.3057,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 73.5754,
+   "song_k": 403,
+   "song_t": 165.7167,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 73.9863,
+   "song_k": 404,
+   "song_t": 166.1276,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 74.3973,
+   "song_k": 405,
+   "song_t": 166.5386,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 74.8083,
+   "song_k": 406,
+   "song_t": 166.9496,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 75.2193,
+   "song_k": 407,
+   "song_t": 167.3606,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 75.6303,
+   "song_k": 408,
+   "song_t": 167.7716,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 76.0412,
+   "song_k": 409,
+   "song_t": 168.1825,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 76.4522,
+   "song_k": 410,
+   "song_t": 168.5935,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 76.8632,
+   "song_k": 411,
+   "song_t": 169.0045,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 77.2742,
+   "song_k": 412,
+   "song_t": 169.4155,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 77.6852,
+   "song_k": 413,
+   "song_t": 169.8265,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 78.0961,
+   "song_k": 414,
+   "song_t": 170.2374,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 78.5071,
+   "song_k": 415,
+   "song_t": 170.6484,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 78.9181,
+   "song_k": 416,
+   "song_t": 171.0594,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 79.3291,
+   "song_k": 417,
+   "song_t": 171.4704,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 79.7401,
+   "song_k": 418,
+   "song_t": 171.8814,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 80.151,
+   "song_k": 419,
+   "song_t": 172.2923,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 80.562,
+   "song_k": 420,
+   "song_t": 172.7033,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 80.973,
+   "song_k": 421,
+   "song_t": 173.1143,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 81.384,
+   "song_k": 422,
+   "song_t": 173.5253,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 81.795,
+   "song_k": 423,
+   "song_t": 173.9363,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 82.2059,
+   "song_k": 424,
+   "song_t": 174.3472,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 82.6169,
+   "song_k": 425,
+   "song_t": 174.7582,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 83.0279,
+   "song_k": 426,
+   "song_t": 175.1692,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 83.4389,
+   "song_k": 427,
+   "song_t": 175.5802,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 83.8499,
+   "song_k": 428,
+   "song_t": 175.9912,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 84.2608,
+   "song_k": 429,
+   "song_t": 176.4021,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 84.6718,
+   "song_k": 430,
+   "song_t": 176.8131,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 85.0828,
+   "song_k": 431,
+   "song_t": 177.2241,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 85.4938,
+   "song_k": 432,
+   "song_t": 177.6351,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 85.9048,
+   "song_k": 433,
+   "song_t": 178.0461,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 86.3157,
+   "song_k": 434,
+   "song_t": 178.457,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 86.7267,
+   "song_k": 435,
+   "song_t": 178.868,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 87.1377,
+   "song_k": 436,
+   "song_t": 179.279,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 87.5487,
+   "song_k": 437,
+   "song_t": 179.69,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 87.9597,
+   "song_k": 438,
+   "song_t": 180.101,
+   "bar_beat": 3,
+   "seg": "B"
+  },
+  {
+   "t": 88.3706,
+   "song_k": 439,
+   "song_t": 180.5119,
+   "bar_beat": 4,
+   "seg": "B"
+  },
+  {
+   "t": 88.7816,
+   "song_k": 440,
+   "song_t": 180.9229,
+   "bar_beat": 1,
+   "seg": "B"
+  },
+  {
+   "t": 89.1926,
+   "song_k": 441,
+   "song_t": 181.3339,
+   "bar_beat": 2,
+   "seg": "B"
+  },
+  {
+   "t": 89.6036,
+   "song_k": 442,
+   "song_t": 181.7449,
+   "bar_beat": 3,
+   "seg": "B"
+  }
+ ],
+ "downbeats": [
+  0.01,
+  1.6539,
+  3.2978,
+  4.9417,
+  6.5857,
+  8.2296,
+  9.8735,
+  11.5174,
+  13.1613,
+  14.8053,
+  16.4492,
+  18.0931,
+  19.737,
+  21.3809,
+  23.0249,
+  24.6688,
+  26.3127,
+  27.9566,
+  29.6005,
+  31.2444,
+  32.8884,
+  34.5323,
+  36.1762,
+  37.8201,
+  39.464,
+  41.108,
+  42.7519,
+  44.3958,
+  46.0397,
+  47.6836,
+  49.3276,
+  50.9715,
+  52.6154,
+  54.2593,
+  55.9032,
+  57.5472,
+  59.1911,
+  60.835,
+  62.4789,
+  64.1228,
+  65.7668,
+  67.4107,
+  69.0546,
+  70.6985,
+  72.3424,
+  73.9863,
+  75.6303,
+  77.2742,
+  78.9181,
+  80.562,
+  82.2059,
+  83.8499,
+  85.4938,
+  87.1377,
+  88.7816
+ ],
+ "structural_hits": [
+  {
+   "t": 19.737,
+   "what": "chorus 1 downbeat + crash (the drop)"
+  },
+  {
+   "t": 20.547,
+   "what": "vocal \"Jane!\" (chorus 1)"
+  },
+  {
+   "t": 47.684,
+   "what": "STOP: band cuts on the downbeat, bass walk-down"
+  },
+  {
+   "t": 48.917,
+   "what": "re-entry slam (beat 4)"
+  },
+  {
+   "t": 49.328,
+   "what": "bridge downbeat + crash"
+  },
+  {
+   "t": 60.835,
+   "what": "final chorus downbeat"
+  },
+  {
+   "t": 65.767,
+   "what": "final chorus peak-energy bar"
+  },
+  {
+   "t": 88.782,
+   "what": "final hit (last \"grass\")"
+  }
+ ],
+ "accents": [
+  {
+   "t": 10.284,
+   "song_k": 77,
+   "bar_beat": 2,
+   "score": 12.11
+  },
+  {
+   "t": 13.161,
+   "song_k": 84,
+   "bar_beat": 1,
+   "score": 11.63
+  },
+  {
+   "t": 17.682,
+   "song_k": 95,
+   "bar_beat": 4,
+   "score": 12.85
+  },
+  {
+   "t": 19.737,
+   "song_k": 100,
+   "bar_beat": 1,
+   "score": 14.38
+  },
+  {
+   "t": 21.381,
+   "song_k": 104,
+   "bar_beat": 1,
+   "score": 15.63
+  },
+  {
+   "t": 23.847,
+   "song_k": 110,
+   "bar_beat": 3,
+   "score": 14.0
+  },
+  {
+   "t": 26.313,
+   "song_k": 116,
+   "bar_beat": 1,
+   "score": 12.99
+  },
+  {
+   "t": 32.888,
+   "song_k": 132,
+   "bar_beat": 1,
+   "score": 11.54
+  },
+  {
+   "t": 36.998,
+   "song_k": 142,
+   "bar_beat": 3,
+   "score": 12.89
+  },
+  {
+   "t": 41.108,
+   "song_k": 152,
+   "bar_beat": 1,
+   "score": 11.97
+  },
+  {
+   "t": 43.574,
+   "song_k": 158,
+   "bar_beat": 3,
+   "score": 11.5
+  },
+  {
+   "t": 49.328,
+   "song_k": 344,
+   "bar_beat": 1,
+   "score": 13.62
+  },
+  {
+   "t": 52.615,
+   "song_k": 352,
+   "bar_beat": 1,
+   "score": 13.24
+  },
+  {
+   "t": 55.081,
+   "song_k": 358,
+   "bar_beat": 3,
+   "score": 14.84
+  },
+  {
+   "t": 57.547,
+   "song_k": 364,
+   "bar_beat": 1,
+   "score": 15.56
+  },
+  {
+   "t": 62.479,
+   "song_k": 376,
+   "bar_beat": 1,
+   "score": 12.98
+  },
+  {
+   "t": 64.945,
+   "song_k": 382,
+   "bar_beat": 3,
+   "score": 15.03
+  },
+  {
+   "t": 66.589,
+   "song_k": 386,
+   "bar_beat": 3,
+   "score": 11.5
+  },
+  {
+   "t": 72.342,
+   "song_k": 400,
+   "bar_beat": 1,
+   "score": 14.96
+  },
+  {
+   "t": 75.63,
+   "song_k": 408,
+   "bar_beat": 1,
+   "score": 17.28
+  },
+  {
+   "t": 77.274,
+   "song_k": 412,
+   "bar_beat": 1,
+   "score": 16.65
+  },
+  {
+   "t": 80.562,
+   "song_k": 420,
+   "bar_beat": 1,
+   "score": 13.02
+  },
+  {
+   "t": 84.261,
+   "song_k": 429,
+   "bar_beat": 2,
+   "score": 11.67
+  },
+  {
+   "t": 85.494,
+   "song_k": 432,
+   "bar_beat": 1,
+   "score": 13.0
+  }
+ ],
+ "sections": [
+  {
+   "name": "cold open / sad verse",
+   "start": 0.0,
+   "end": 8.23,
+   "song": [
+    21.453,
+    29.682
+   ]
+  },
+  {
+   "name": "pre-chorus build (instrumental)",
+   "start": 8.23,
+   "end": 19.737,
+   "song": [
+    29.682,
+    41.19
+   ]
+  },
+  {
+   "name": "JANE drop (chorus 1 downbeat, crash)",
+   "time": 19.737,
+   "song": 41.19,
+   "jane_vocal": 20.547
+  },
+  {
+   "name": "chorus 1",
+   "start": 19.737,
+   "end": 47.684,
+   "song": [
+    41.19,
+    69.136
+   ]
+  },
+  {
+   "name": "THE STOP",
+   "start": 47.684,
+   "end": 48.917,
+   "song_B": [
+    139.825,
+    141.058
+   ]
+  },
+  {
+   "name": "re-entry slam",
+   "time": 48.917,
+   "song": 141.058
+  },
+  {
+   "name": "bridge build (instrumental)",
+   "start": 49.328,
+   "end": 60.835,
+   "song": [
+    141.469,
+    152.976
+   ]
+  },
+  {
+   "name": "final chorus",
+   "start": 60.835,
+   "end": 88.782,
+   "song": [
+    152.976,
+    180.923
+   ],
+   "jane_vocal": 61.559
+  },
+  {
+   "name": "final chorus peak energy",
+   "time": 65.767,
+   "song": 157.908
+  },
+  {
+   "name": "ending",
+   "final_hit": 88.782,
+   "fade_start": 89.082,
+   "end": 89.932
+  }
+ ]
+}

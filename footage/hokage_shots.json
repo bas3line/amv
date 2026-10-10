@@ -1,0 +1,1659 @@
+{
+ "segment": "hokage",
+ "made": "2026-10-10",
+ "clips": [
+  {
+   "id": "hokage_1",
+   "path": "footage/hokage_1.mp4",
+   "url": "https://www.youtube.com/watch?v=C_eQ2PKt6mY",
+   "src_range": "upload 6:33-8:21 (section file 13.0-121.5s)",
+   "fps": "24000/1001",
+   "frame": "16:9 canvas, 1.85:1 content letterboxed: x 0-1920, y 21-1058 (black bars 0-20 and 1059-1079)",
+   "duration": 108.525,
+   "quality": "1080p upload of the OVA 'The Day Naruto Became Hokage' (Japanese, no subs, no logo); uploader's thin black border removed (crop x4..1915 y23..1056), aspect kept; clean line art, painted BGs soft by design -> ok/sharp"
+  },
+  {
+   "id": "hokage_2",
+   "path": "footage/hokage_2.mp4",
+   "url": "https://www.youtube.com/watch?v=uILJDL3GuGs",
+   "src_range": "upload 0:00-1:18.80 (cut before Kawaki shot)",
+   "fps": "24000/1001",
+   "frame": "16:9 full frame",
+   "duration": 78.829,
+   "quality": "4K (AV1) remaster upload of Boruto ep 217 Baryon Mode vs Isshiki, lanczos-downscaled to 1080; no subs, no logo; very sharp, saturated"
+  },
+  {
+   "id": "hokage_3",
+   "path": "footage/hokage_3.mp4",
+   "url": "https://www.youtube.com/watch?v=-m3Wcr4g-k0",
+   "src_range": "upload 0:00-1:09.7 (whole)",
+   "fps": "24000/1001",
+   "frame": "16:9 canvas, 1.85:1 content letterboxed: x 0-1920, y 22-1057",
+   "duration": 69.706,
+   "quality": "4K (AV1) upload of Boruto: Naruto the Movie (Hokage Naruto KCM + Sasuke vs Momoshiki/Kinshiki); bottom 4 encoder-edge rows dropped; no subs, no logo; sharp lines, muted purple movie grade"
+  },
+  {
+   "id": "hokage_4",
+   "path": "footage/hokage_4.mp4",
+   "url": "https://www.youtube.com/watch?v=C_eQ2PKt6mY",
+   "src_range": "upload ~9:19-9:31 + ~10:14-10:21 (OVA ending), concatenated at 11.595s",
+   "fps": "24000/1001",
+   "frame": "16:9 canvas, 1.85:1 content letterboxed: y 21-1058",
+   "duration": 18.602,
+   "quality": "same OVA upload; village panorama clean; family-photo part has burned Japanese end credits on the left third"
+  }
+ ],
+ "moments": [
+  {
+   "clip": "hokage_1",
+   "start": 50.968,
+   "end": 54.972,
+   "what": "Overhead: Naruto walks out onto the Hokage residence roof toward Kakashi, crowd below",
+   "hype": 4,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "inauguration build - the walk"
+  },
+  {
+   "clip": "hokage_1",
+   "start": 54.972,
+   "end": 57.5,
+   "what": "Pan down the 火影 kanji on the cloak, pulling back to the 七代目火影 (Seventh Hokage) cloak back",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "THE reveal: Seventh Hokage cloak hit on a big drop"
+  },
+  {
+   "clip": "hokage_1",
+   "start": 57.5,
+   "end": 60.978,
+   "what": "Held wide back shot: Kakashi (六代目火影) and Naruto (七代目火影) side by side over the village",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "title card / hold under 'HOKAGE' beat"
+  },
+  {
+   "clip": "hokage_1",
+   "start": 60.978,
+   "end": 65.983,
+   "what": "Tilt up from the cloak hem (orange pants) to Hokage Naruto's calm face, rock face behind",
+   "hype": 4,
+   "sharp": "ok",
+   "clean": true,
+   "use": "slow tilt reveal into the face"
+  },
+  {
+   "clip": "hokage_1",
+   "start": 65.983,
+   "end": 69.987,
+   "what": "Close-up: Naruto closes his eyes, then breaks into a huge grin",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "emotional payoff smile"
+  },
+  {
+   "clip": "hokage_1",
+   "start": 83.0,
+   "end": 89.006,
+   "what": "Iruka (ponytail, scar across nose) close-up, looking up at the new Hokage",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "call-back to Iruka acknowledging him - 'everyone acknowledges him'"
+  },
+  {
+   "clip": "hokage_1",
+   "start": 69.987,
+   "end": 83.0,
+   "what": "Sakura and Iruka in the cheering crowd under festival bunting, looking up",
+   "hype": 3,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "crowd acknowledgment cutaway (use 1-2s)"
+  },
+  {
+   "clip": "hokage_1",
+   "start": 89.006,
+   "end": 96.013,
+   "what": "Wide: Hokage Naruto throws his fist up and waves to the crowd, Kakashi behind",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "victory beat / chorus hit"
+  },
+  {
+   "clip": "hokage_1",
+   "start": 96.013,
+   "end": 99.9,
+   "what": "Close: Naruto waving, mouth open laughing then grinning (rock BG)",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "final smile before birthday text"
+  },
+  {
+   "clip": "hokage_1",
+   "start": 99.9,
+   "end": 106.8,
+   "what": "Same grin frozen on a black background (BG drops out), then fades to black 106.8-108.5",
+   "hype": 4,
+   "sharp": "ok",
+   "clean": true,
+   "use": "end-card plate: black space left/right for HAPPY BIRTHDAY / name reveal"
+  },
+  {
+   "clip": "hokage_1",
+   "start": 16.934,
+   "end": 21.939,
+   "what": "Hokage residence decorated, huge crowd; then friends (Sakura, Sarada, Chocho, Ino...) waiting",
+   "hype": 3,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "ceremony establishing"
+  },
+  {
+   "clip": "hokage_2",
+   "start": 0.0,
+   "end": 1.501,
+   "what": "Baryon Mode Naruto full-body stand, cloak flames billowing",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "peak-fight entrance / drop"
+  },
+  {
+   "clip": "hokage_2",
+   "start": 4.254,
+   "end": 5.255,
+   "what": "Baryon Mode face close-up, red eyes, steady stare",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "eye-contact cut on a beat"
+  },
+  {
+   "clip": "hokage_2",
+   "start": 25.442,
+   "end": 30.28,
+   "what": "Close-quarters punch barrage, Baryon vs Isshiki trading blows, Naruto kick sends him flying",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "fast-cut montage section"
+  },
+  {
+   "clip": "hokage_2",
+   "start": 44.294,
+   "end": 47.089,
+   "what": "Naruto's bandaged hand forms a Rasengan in the mist; Baryon Naruto rises holding it",
+   "hype": 4,
+   "sharp": "ok",
+   "clean": true,
+   "use": "build-up before the clash"
+  },
+  {
+   "clip": "hokage_2",
+   "start": 48.715,
+   "end": 52.261,
+   "what": "Naruto erupts in yellow-orange chakra fire, screaming close-up",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "power-up on the drop (glow = low Laplacian, lines are clean)"
+  },
+  {
+   "clip": "hokage_2",
+   "start": 52.261,
+   "end": 54.054,
+   "what": "Rasengan clash over the water: lightning, giant blue sphere, white impact flash",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "impact / flash transition"
+  },
+  {
+   "clip": "hokage_2",
+   "start": 57.057,
+   "end": 61.52,
+   "what": "Fist slams into Isshiki's face (slow), Isshiki staggered by hit after hit",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "slow-mo punch on bass hit"
+  },
+  {
+   "clip": "hokage_2",
+   "start": 71.947,
+   "end": 76.493,
+   "what": "Naruto roaring, grabs Isshiki and throws him into the dirt, fist held at his face",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "climax hits"
+  },
+  {
+   "clip": "hokage_3",
+   "start": 2.92,
+   "end": 6.757,
+   "what": "Hokage Naruto (eyes closed) ignites Kurama chakra mode, then stands beside Sasuke",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "hero shot: Hokage + Sasuke duo"
+  },
+  {
+   "clip": "hokage_3",
+   "start": 10.01,
+   "end": 12.512,
+   "what": "Naruto and Sasuke dash side by side; Naruto kicks Kinshiki",
+   "hype": 4,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "duo action"
+  },
+  {
+   "clip": "hokage_3",
+   "start": 47.381,
+   "end": 53.136,
+   "what": "Kurama roars and tears into Momoshiki's tentacles",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "Kurama hype beat"
+  },
+  {
+   "clip": "hokage_3",
+   "start": 55.222,
+   "end": 62.396,
+   "what": "Kurama clad in Sasuke's Susanoo armor, sword slash with lens-flare burst, explosions",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "biggest spectacle of the clip"
+  },
+  {
+   "clip": "hokage_3",
+   "start": 62.396,
+   "end": 64.523,
+   "what": "Lava-crack explosion, Momoshiki screaming as he is destroyed",
+   "hype": 4,
+   "sharp": "soft",
+   "clean": true,
+   "use": "impact flash / end of fight"
+  },
+  {
+   "clip": "hokage_3",
+   "start": 67.484,
+   "end": 69.611,
+   "what": "Boruto looks up at his father and smiles",
+   "hype": 3,
+   "sharp": "ok",
+   "clean": true,
+   "use": "quiet 'next generation' moment"
+  },
+  {
+   "clip": "hokage_4",
+   "start": 1.2,
+   "end": 11.595,
+   "what": "Static wide of modern Konoha with the Hokage monument (seven faces incl. Naruto's) under blue sky",
+   "hype": 4,
+   "sharp": "ok",
+   "clean": true,
+   "use": "quiet ending plate: face on the monument + birthday text"
+  },
+  {
+   "clip": "hokage_4",
+   "start": 11.595,
+   "end": 18.602,
+   "what": "Framed family photo: Hokage Naruto in cloak with Hinata, Boruto, Himawari; Japanese credits text on left third; fades out at the end",
+   "hype": 3,
+   "sharp": "ok",
+   "clean": false,
+   "use": "last-frame keepsake (text on left - punch in on the photo or cover)"
+  }
+ ],
+ "shots": {
+  "hokage_1": [
+   {
+    "start": 0.0,
+    "end": 11.678,
+    "lap": 249.4,
+    "sharp_auto": "ok",
+    "motion": 0.17
+   },
+   {
+    "start": 11.678,
+    "end": 13.931,
+    "lap": 205.5,
+    "sharp_auto": "ok",
+    "motion": 0.07
+   },
+   {
+    "start": 13.931,
+    "end": 16.934,
+    "lap": 136.1,
+    "sharp_auto": "ok",
+    "motion": 0.05
+   },
+   {
+    "start": 16.934,
+    "end": 19.436,
+    "lap": 323.6,
+    "sharp_auto": "sharp",
+    "motion": 0.02
+   },
+   {
+    "start": 19.436,
+    "end": 21.939,
+    "lap": 262.0,
+    "sharp_auto": "sharp",
+    "motion": 0.01
+   },
+   {
+    "start": 21.939,
+    "end": 38.205,
+    "lap": 75.9,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.01
+   },
+   {
+    "start": 38.205,
+    "end": 41.708,
+    "lap": 279.2,
+    "sharp_auto": "sharp",
+    "motion": 0.12
+   },
+   {
+    "start": 41.708,
+    "end": 44.211,
+    "lap": 173.6,
+    "sharp_auto": "ok",
+    "motion": 0.03
+   },
+   {
+    "start": 44.211,
+    "end": 50.968,
+    "lap": 148.5,
+    "sharp_auto": "ok",
+    "motion": 0.11
+   },
+   {
+    "start": 50.968,
+    "end": 54.972,
+    "lap": 325.6,
+    "sharp_auto": "sharp",
+    "motion": 0.04
+   },
+   {
+    "start": 54.972,
+    "end": 60.978,
+    "lap": 99.3,
+    "sharp_auto": "soft-or-flat",
+    "motion": 1.01
+   },
+   {
+    "start": 60.978,
+    "end": 65.983,
+    "lap": 215.5,
+    "sharp_auto": "ok",
+    "motion": 2.06
+   },
+   {
+    "start": 65.983,
+    "end": 69.987,
+    "lap": 238.0,
+    "sharp_auto": "ok",
+    "motion": 0.15
+   },
+   {
+    "start": 69.987,
+    "end": 83.0,
+    "lap": 271.6,
+    "sharp_auto": "sharp",
+    "motion": 0.03
+   },
+   {
+    "start": 83.0,
+    "end": 89.006,
+    "lap": 169.8,
+    "sharp_auto": "ok",
+    "motion": 0.13
+   },
+   {
+    "start": 89.006,
+    "end": 96.013,
+    "lap": 156.8,
+    "sharp_auto": "ok",
+    "motion": 0.78
+   },
+   {
+    "start": 96.013,
+    "end": 100.017,
+    "lap": 210.3,
+    "sharp_auto": "ok",
+    "motion": 0.46
+   },
+   {
+    "start": 100.017,
+    "end": 108.525,
+    "lap": 141.8,
+    "sharp_auto": "ok",
+    "motion": 0.2
+   }
+  ],
+  "hokage_2": [
+   {
+    "start": 0.0,
+    "end": 1.501,
+    "lap": 93.7,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.71
+   },
+   {
+    "start": 1.501,
+    "end": 4.254,
+    "lap": 399.3,
+    "sharp_auto": "sharp",
+    "motion": 7.22
+   },
+   {
+    "start": 4.254,
+    "end": 5.255,
+    "lap": 230.7,
+    "sharp_auto": "ok",
+    "motion": 4.13
+   },
+   {
+    "start": 5.255,
+    "end": 6.006,
+    "lap": 161.1,
+    "sharp_auto": "ok",
+    "motion": 9.03
+   },
+   {
+    "start": 6.006,
+    "end": 6.465,
+    "lap": 819.4,
+    "sharp_auto": "sharp",
+    "motion": 3.74
+   },
+   {
+    "start": 6.465,
+    "end": 8.133,
+    "lap": 368.8,
+    "sharp_auto": "sharp",
+    "motion": 9.6
+   },
+   {
+    "start": 8.133,
+    "end": 8.383,
+    "lap": 925.9,
+    "sharp_auto": "sharp",
+    "motion": 10.31
+   },
+   {
+    "start": 8.383,
+    "end": 9.009,
+    "lap": 425.6,
+    "sharp_auto": "sharp",
+    "motion": 9.85
+   },
+   {
+    "start": 9.009,
+    "end": 9.718,
+    "lap": 267.7,
+    "sharp_auto": "sharp",
+    "motion": 12.08
+   },
+   {
+    "start": 9.718,
+    "end": 11.178,
+    "lap": 320.5,
+    "sharp_auto": "sharp",
+    "motion": 6.51
+   },
+   {
+    "start": 11.178,
+    "end": 12.888,
+    "lap": 298.7,
+    "sharp_auto": "sharp",
+    "motion": 7.51
+   },
+   {
+    "start": 12.888,
+    "end": 13.68,
+    "lap": 623.0,
+    "sharp_auto": "sharp",
+    "motion": 9.97
+   },
+   {
+    "start": 13.68,
+    "end": 14.139,
+    "lap": 259.8,
+    "sharp_auto": "sharp",
+    "motion": 9.92
+   },
+   {
+    "start": 14.139,
+    "end": 14.556,
+    "lap": 340.2,
+    "sharp_auto": "sharp",
+    "motion": 13.65
+   },
+   {
+    "start": 14.556,
+    "end": 14.89,
+    "lap": 431.7,
+    "sharp_auto": "sharp",
+    "motion": 9.0
+   },
+   {
+    "start": 14.89,
+    "end": 15.766,
+    "lap": 189.9,
+    "sharp_auto": "ok",
+    "motion": 13.87
+   },
+   {
+    "start": 15.766,
+    "end": 16.225,
+    "lap": 181.5,
+    "sharp_auto": "ok",
+    "motion": 13.12
+   },
+   {
+    "start": 16.225,
+    "end": 16.642,
+    "lap": 33.9,
+    "sharp_auto": "soft-or-flat",
+    "motion": 10.73
+   },
+   {
+    "start": 16.642,
+    "end": 16.892,
+    "lap": 571.3,
+    "sharp_auto": "sharp",
+    "motion": 12.12
+   },
+   {
+    "start": 16.892,
+    "end": 17.142,
+    "lap": 598.3,
+    "sharp_auto": "sharp",
+    "motion": 13.12
+   },
+   {
+    "start": 17.142,
+    "end": 18.018,
+    "lap": 894.6,
+    "sharp_auto": "sharp",
+    "motion": 6.9
+   },
+   {
+    "start": 18.018,
+    "end": 19.478,
+    "lap": 191.1,
+    "sharp_auto": "ok",
+    "motion": 1.93
+   },
+   {
+    "start": 19.478,
+    "end": 21.021,
+    "lap": 711.3,
+    "sharp_auto": "sharp",
+    "motion": 5.16
+   },
+   {
+    "start": 21.021,
+    "end": 21.23,
+    "lap": 921.0,
+    "sharp_auto": "sharp",
+    "motion": 33.27
+   },
+   {
+    "start": 21.23,
+    "end": 21.897,
+    "lap": 209.7,
+    "sharp_auto": "ok",
+    "motion": 7.24
+   },
+   {
+    "start": 21.897,
+    "end": 22.481,
+    "lap": 293.1,
+    "sharp_auto": "sharp",
+    "motion": 8.21
+   },
+   {
+    "start": 22.481,
+    "end": 23.44,
+    "lap": 39.9,
+    "sharp_auto": "soft-or-flat",
+    "motion": 4.74
+   },
+   {
+    "start": 23.44,
+    "end": 24.358,
+    "lap": 274.0,
+    "sharp_auto": "sharp",
+    "motion": 1.28
+   },
+   {
+    "start": 24.358,
+    "end": 24.733,
+    "lap": 307.3,
+    "sharp_auto": "sharp",
+    "motion": 1.49
+   },
+   {
+    "start": 24.733,
+    "end": 24.983,
+    "lap": 288.2,
+    "sharp_auto": "sharp",
+    "motion": 15.36
+   },
+   {
+    "start": 24.983,
+    "end": 25.234,
+    "lap": 211.0,
+    "sharp_auto": "ok",
+    "motion": 6.6
+   },
+   {
+    "start": 25.234,
+    "end": 25.442,
+    "lap": 204.1,
+    "sharp_auto": "ok",
+    "motion": 12.35
+   },
+   {
+    "start": 25.442,
+    "end": 25.776,
+    "lap": 759.5,
+    "sharp_auto": "sharp",
+    "motion": 8.61
+   },
+   {
+    "start": 25.776,
+    "end": 26.36,
+    "lap": 555.9,
+    "sharp_auto": "sharp",
+    "motion": 1.52
+   },
+   {
+    "start": 26.36,
+    "end": 26.693,
+    "lap": 470.2,
+    "sharp_auto": "sharp",
+    "motion": 10.47
+   },
+   {
+    "start": 26.693,
+    "end": 26.944,
+    "lap": 219.7,
+    "sharp_auto": "ok",
+    "motion": 7.41
+   },
+   {
+    "start": 26.944,
+    "end": 27.194,
+    "lap": 470.3,
+    "sharp_auto": "sharp",
+    "motion": 6.32
+   },
+   {
+    "start": 27.194,
+    "end": 27.527,
+    "lap": 377.2,
+    "sharp_auto": "sharp",
+    "motion": 7.61
+   },
+   {
+    "start": 27.527,
+    "end": 27.945,
+    "lap": 529.9,
+    "sharp_auto": "sharp",
+    "motion": 6.22
+   },
+   {
+    "start": 27.945,
+    "end": 28.278,
+    "lap": 782.4,
+    "sharp_auto": "sharp",
+    "motion": 6.6
+   },
+   {
+    "start": 28.278,
+    "end": 28.528,
+    "lap": 99.1,
+    "sharp_auto": "soft-or-flat",
+    "motion": 5.55
+   },
+   {
+    "start": 28.528,
+    "end": 28.779,
+    "lap": 386.6,
+    "sharp_auto": "sharp",
+    "motion": 6.8
+   },
+   {
+    "start": 28.779,
+    "end": 30.28,
+    "lap": 353.5,
+    "sharp_auto": "sharp",
+    "motion": 4.32
+   },
+   {
+    "start": 30.28,
+    "end": 31.99,
+    "lap": 37.7,
+    "sharp_auto": "soft-or-flat",
+    "motion": 2.01
+   },
+   {
+    "start": 31.99,
+    "end": 33.325,
+    "lap": 315.2,
+    "sharp_auto": "sharp",
+    "motion": 13.6
+   },
+   {
+    "start": 33.325,
+    "end": 33.617,
+    "lap": 297.6,
+    "sharp_auto": "sharp",
+    "motion": 14.94
+   },
+   {
+    "start": 33.617,
+    "end": 34.117,
+    "lap": 205.1,
+    "sharp_auto": "ok",
+    "motion": 6.99
+   },
+   {
+    "start": 34.117,
+    "end": 34.326,
+    "lap": 231.8,
+    "sharp_auto": "ok",
+    "motion": 2.08
+   },
+   {
+    "start": 34.326,
+    "end": 34.576,
+    "lap": 71.3,
+    "sharp_auto": "soft-or-flat",
+    "motion": 8.98
+   },
+   {
+    "start": 34.576,
+    "end": 35.369,
+    "lap": 419.0,
+    "sharp_auto": "sharp",
+    "motion": 3.09
+   },
+   {
+    "start": 35.369,
+    "end": 35.911,
+    "lap": 46.2,
+    "sharp_auto": "soft-or-flat",
+    "motion": 1.69
+   },
+   {
+    "start": 35.911,
+    "end": 36.328,
+    "lap": 106.6,
+    "sharp_auto": "ok",
+    "motion": 7.79
+   },
+   {
+    "start": 36.328,
+    "end": 37.12,
+    "lap": 25.6,
+    "sharp_auto": "soft-or-flat",
+    "motion": 1.07
+   },
+   {
+    "start": 37.12,
+    "end": 38.205,
+    "lap": 94.9,
+    "sharp_auto": "soft-or-flat",
+    "motion": 2.56
+   },
+   {
+    "start": 38.205,
+    "end": 40.249,
+    "lap": 194.7,
+    "sharp_auto": "ok",
+    "motion": 6.06
+   },
+   {
+    "start": 40.249,
+    "end": 40.582,
+    "lap": 49.3,
+    "sharp_auto": "soft-or-flat",
+    "motion": 15.47
+   },
+   {
+    "start": 40.582,
+    "end": 42.042,
+    "lap": 199.4,
+    "sharp_auto": "ok",
+    "motion": 6.72
+   },
+   {
+    "start": 42.042,
+    "end": 42.626,
+    "lap": 461.1,
+    "sharp_auto": "sharp",
+    "motion": 7.55
+   },
+   {
+    "start": 42.626,
+    "end": 43.168,
+    "lap": 421.3,
+    "sharp_auto": "sharp",
+    "motion": 6.41
+   },
+   {
+    "start": 43.168,
+    "end": 43.543,
+    "lap": 477.8,
+    "sharp_auto": "sharp",
+    "motion": 8.21
+   },
+   {
+    "start": 43.543,
+    "end": 44.294,
+    "lap": 91.2,
+    "sharp_auto": "soft-or-flat",
+    "motion": 4.14
+   },
+   {
+    "start": 44.294,
+    "end": 45.879,
+    "lap": 60.4,
+    "sharp_auto": "soft-or-flat",
+    "motion": 5.03
+   },
+   {
+    "start": 45.879,
+    "end": 47.089,
+    "lap": 141.3,
+    "sharp_auto": "ok",
+    "motion": 3.17
+   },
+   {
+    "start": 47.089,
+    "end": 47.547,
+    "lap": 134.1,
+    "sharp_auto": "ok",
+    "motion": 6.94
+   },
+   {
+    "start": 47.547,
+    "end": 47.756,
+    "lap": 665.6,
+    "sharp_auto": "sharp",
+    "motion": 37.93
+   },
+   {
+    "start": 47.756,
+    "end": 48.715,
+    "lap": 4.8,
+    "sharp_auto": "soft-or-flat",
+    "motion": 8.79
+   },
+   {
+    "start": 48.715,
+    "end": 50.05,
+    "lap": 45.0,
+    "sharp_auto": "soft-or-flat",
+    "motion": 10.31
+   },
+   {
+    "start": 50.05,
+    "end": 51.343,
+    "lap": 6.6,
+    "sharp_auto": "soft-or-flat",
+    "motion": 7.32
+   },
+   {
+    "start": 51.343,
+    "end": 52.261,
+    "lap": 63.2,
+    "sharp_auto": "soft-or-flat",
+    "motion": 9.76
+   },
+   {
+    "start": 52.261,
+    "end": 52.594,
+    "lap": 114.3,
+    "sharp_auto": "ok",
+    "motion": 5.87
+   },
+   {
+    "start": 52.594,
+    "end": 53.178,
+    "lap": 78.5,
+    "sharp_auto": "soft-or-flat",
+    "motion": 5.67
+   },
+   {
+    "start": 53.178,
+    "end": 53.387,
+    "lap": 175.6,
+    "sharp_auto": "ok",
+    "motion": 24.24
+   },
+   {
+    "start": 53.387,
+    "end": 54.054,
+    "lap": 66.3,
+    "sharp_auto": "soft-or-flat",
+    "motion": 20.68
+   },
+   {
+    "start": 54.054,
+    "end": 56.014,
+    "lap": 637.4,
+    "sharp_auto": "sharp",
+    "motion": 10.51
+   },
+   {
+    "start": 56.014,
+    "end": 56.723,
+    "lap": 446.0,
+    "sharp_auto": "sharp",
+    "motion": 6.68
+   },
+   {
+    "start": 56.723,
+    "end": 57.057,
+    "lap": 399.2,
+    "sharp_auto": "sharp",
+    "motion": 3.8
+   },
+   {
+    "start": 57.057,
+    "end": 57.432,
+    "lap": 462.8,
+    "sharp_auto": "sharp",
+    "motion": 8.46
+   },
+   {
+    "start": 57.432,
+    "end": 57.641,
+    "lap": 152.4,
+    "sharp_auto": "ok",
+    "motion": 10.56
+   },
+   {
+    "start": 57.641,
+    "end": 59.393,
+    "lap": 838.6,
+    "sharp_auto": "sharp",
+    "motion": 6.06
+   },
+   {
+    "start": 59.393,
+    "end": 60.519,
+    "lap": 700.2,
+    "sharp_auto": "sharp",
+    "motion": 11.55
+   },
+   {
+    "start": 60.519,
+    "end": 61.061,
+    "lap": 794.2,
+    "sharp_auto": "sharp",
+    "motion": 11.29
+   },
+   {
+    "start": 61.061,
+    "end": 61.52,
+    "lap": 516.5,
+    "sharp_auto": "sharp",
+    "motion": 7.23
+   },
+   {
+    "start": 61.52,
+    "end": 64.731,
+    "lap": 295.3,
+    "sharp_auto": "sharp",
+    "motion": 6.58
+   },
+   {
+    "start": 64.731,
+    "end": 66.108,
+    "lap": 582.0,
+    "sharp_auto": "sharp",
+    "motion": 10.33
+   },
+   {
+    "start": 66.108,
+    "end": 66.525,
+    "lap": 191.2,
+    "sharp_auto": "ok",
+    "motion": 8.81
+   },
+   {
+    "start": 66.525,
+    "end": 67.442,
+    "lap": 610.7,
+    "sharp_auto": "sharp",
+    "motion": 10.45
+   },
+   {
+    "start": 67.442,
+    "end": 68.151,
+    "lap": 330.6,
+    "sharp_auto": "sharp",
+    "motion": 9.76
+   },
+   {
+    "start": 68.151,
+    "end": 68.944,
+    "lap": 428.9,
+    "sharp_auto": "sharp",
+    "motion": 11.07
+   },
+   {
+    "start": 68.944,
+    "end": 69.236,
+    "lap": 380.0,
+    "sharp_auto": "sharp",
+    "motion": 4.27
+   },
+   {
+    "start": 69.236,
+    "end": 70.737,
+    "lap": 512.9,
+    "sharp_auto": "sharp",
+    "motion": 5.04
+   },
+   {
+    "start": 70.737,
+    "end": 71.947,
+    "lap": 328.2,
+    "sharp_auto": "sharp",
+    "motion": 3.22
+   },
+   {
+    "start": 71.947,
+    "end": 73.448,
+    "lap": 298.8,
+    "sharp_auto": "sharp",
+    "motion": 5.71
+   },
+   {
+    "start": 73.448,
+    "end": 74.866,
+    "lap": 549.4,
+    "sharp_auto": "sharp",
+    "motion": 5.92
+   },
+   {
+    "start": 74.866,
+    "end": 76.493,
+    "lap": 504.9,
+    "sharp_auto": "sharp",
+    "motion": 1.1
+   },
+   {
+    "start": 76.493,
+    "end": 78.829,
+    "lap": 680.6,
+    "sharp_auto": "sharp",
+    "motion": 3.82
+   }
+  ],
+  "hokage_3": [
+   {
+    "start": 0.0,
+    "end": 2.92,
+    "lap": 79.7,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.63
+   },
+   {
+    "start": 2.92,
+    "end": 4.087,
+    "lap": 55.4,
+    "sharp_auto": "soft-or-flat",
+    "motion": 1.62
+   },
+   {
+    "start": 4.087,
+    "end": 6.757,
+    "lap": 96.0,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.93
+   },
+   {
+    "start": 6.757,
+    "end": 8.508,
+    "lap": 344.2,
+    "sharp_auto": "sharp",
+    "motion": 2.24
+   },
+   {
+    "start": 8.508,
+    "end": 9.635,
+    "lap": 429.0,
+    "sharp_auto": "sharp",
+    "motion": 5.87
+   },
+   {
+    "start": 9.635,
+    "end": 10.01,
+    "lap": 0.2,
+    "sharp_auto": "soft-or-flat",
+    "motion": 10.09
+   },
+   {
+    "start": 10.01,
+    "end": 11.553,
+    "lap": 213.2,
+    "sharp_auto": "ok",
+    "motion": 6.08
+   },
+   {
+    "start": 11.553,
+    "end": 12.179,
+    "lap": 308.5,
+    "sharp_auto": "sharp",
+    "motion": 6.3
+   },
+   {
+    "start": 12.179,
+    "end": 12.512,
+    "lap": 224.8,
+    "sharp_auto": "ok",
+    "motion": 6.73
+   },
+   {
+    "start": 12.512,
+    "end": 13.68,
+    "lap": 229.2,
+    "sharp_auto": "ok",
+    "motion": 3.82
+   },
+   {
+    "start": 13.68,
+    "end": 15.307,
+    "lap": 312.9,
+    "sharp_auto": "sharp",
+    "motion": 5.49
+   },
+   {
+    "start": 15.307,
+    "end": 15.891,
+    "lap": 296.7,
+    "sharp_auto": "sharp",
+    "motion": 4.71
+   },
+   {
+    "start": 15.891,
+    "end": 16.308,
+    "lap": 157.9,
+    "sharp_auto": "ok",
+    "motion": 4.08
+   },
+   {
+    "start": 16.308,
+    "end": 16.975,
+    "lap": 99.1,
+    "sharp_auto": "soft-or-flat",
+    "motion": 2.97
+   },
+   {
+    "start": 16.975,
+    "end": 17.809,
+    "lap": 5.8,
+    "sharp_auto": "soft-or-flat",
+    "motion": 3.19
+   },
+   {
+    "start": 17.809,
+    "end": 18.143,
+    "lap": 57.5,
+    "sharp_auto": "soft-or-flat",
+    "motion": 9.34
+   },
+   {
+    "start": 18.143,
+    "end": 18.393,
+    "lap": 32.1,
+    "sharp_auto": "soft-or-flat",
+    "motion": 11.95
+   },
+   {
+    "start": 18.393,
+    "end": 19.519,
+    "lap": 352.3,
+    "sharp_auto": "sharp",
+    "motion": 13.13
+   },
+   {
+    "start": 19.519,
+    "end": 20.52,
+    "lap": 313.8,
+    "sharp_auto": "sharp",
+    "motion": 7.53
+   },
+   {
+    "start": 20.52,
+    "end": 21.772,
+    "lap": 355.6,
+    "sharp_auto": "sharp",
+    "motion": 7.44
+   },
+   {
+    "start": 21.772,
+    "end": 22.064,
+    "lap": 354.9,
+    "sharp_auto": "sharp",
+    "motion": 8.56
+   },
+   {
+    "start": 22.064,
+    "end": 22.314,
+    "lap": 107.4,
+    "sharp_auto": "ok",
+    "motion": 10.39
+   },
+   {
+    "start": 22.314,
+    "end": 23.023,
+    "lap": 78.8,
+    "sharp_auto": "soft-or-flat",
+    "motion": 1.47
+   },
+   {
+    "start": 23.023,
+    "end": 23.232,
+    "lap": 21.4,
+    "sharp_auto": "soft-or-flat",
+    "motion": 3.48
+   },
+   {
+    "start": 23.232,
+    "end": 23.482,
+    "lap": 43.0,
+    "sharp_auto": "soft-or-flat",
+    "motion": 14.26
+   },
+   {
+    "start": 23.482,
+    "end": 23.941,
+    "lap": 126.8,
+    "sharp_auto": "ok",
+    "motion": 8.82
+   },
+   {
+    "start": 23.941,
+    "end": 24.691,
+    "lap": 82.1,
+    "sharp_auto": "soft-or-flat",
+    "motion": 3.22
+   },
+   {
+    "start": 24.691,
+    "end": 25.067,
+    "lap": 196.2,
+    "sharp_auto": "ok",
+    "motion": 6.93
+   },
+   {
+    "start": 25.067,
+    "end": 25.359,
+    "lap": 133.3,
+    "sharp_auto": "ok",
+    "motion": 5.91
+   },
+   {
+    "start": 25.359,
+    "end": 25.817,
+    "lap": 20.6,
+    "sharp_auto": "soft-or-flat",
+    "motion": 2.46
+   },
+   {
+    "start": 25.817,
+    "end": 26.526,
+    "lap": 417.6,
+    "sharp_auto": "sharp",
+    "motion": 5.43
+   },
+   {
+    "start": 26.526,
+    "end": 27.027,
+    "lap": 117.8,
+    "sharp_auto": "ok",
+    "motion": 2.37
+   },
+   {
+    "start": 27.027,
+    "end": 28.028,
+    "lap": 103.9,
+    "sharp_auto": "ok",
+    "motion": 3.77
+   },
+   {
+    "start": 28.028,
+    "end": 28.946,
+    "lap": 88.4,
+    "sharp_auto": "soft-or-flat",
+    "motion": 3.48
+   },
+   {
+    "start": 28.946,
+    "end": 29.363,
+    "lap": 314.8,
+    "sharp_auto": "sharp",
+    "motion": 3.75
+   },
+   {
+    "start": 29.363,
+    "end": 29.613,
+    "lap": 197.3,
+    "sharp_auto": "ok",
+    "motion": 4.65
+   },
+   {
+    "start": 29.613,
+    "end": 30.364,
+    "lap": 85.9,
+    "sharp_auto": "soft-or-flat",
+    "motion": 2.43
+   },
+   {
+    "start": 30.364,
+    "end": 30.697,
+    "lap": 368.1,
+    "sharp_auto": "sharp",
+    "motion": 5.12
+   },
+   {
+    "start": 30.697,
+    "end": 31.073,
+    "lap": 44.8,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.95
+   },
+   {
+    "start": 31.073,
+    "end": 31.615,
+    "lap": 74.9,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.02
+   },
+   {
+    "start": 31.615,
+    "end": 31.949,
+    "lap": 369.8,
+    "sharp_auto": "sharp",
+    "motion": 1.71
+   },
+   {
+    "start": 31.949,
+    "end": 32.366,
+    "lap": 289.0,
+    "sharp_auto": "sharp",
+    "motion": 0.91
+   },
+   {
+    "start": 32.366,
+    "end": 33.242,
+    "lap": 60.0,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.81
+   },
+   {
+    "start": 33.242,
+    "end": 34.201,
+    "lap": 74.0,
+    "sharp_auto": "soft-or-flat",
+    "motion": 1.62
+   },
+   {
+    "start": 34.201,
+    "end": 35.869,
+    "lap": 145.5,
+    "sharp_auto": "ok",
+    "motion": 2.59
+   },
+   {
+    "start": 35.869,
+    "end": 36.286,
+    "lap": 202.4,
+    "sharp_auto": "ok",
+    "motion": 0.85
+   },
+   {
+    "start": 36.286,
+    "end": 36.662,
+    "lap": 25.2,
+    "sharp_auto": "soft-or-flat",
+    "motion": 4.54
+   },
+   {
+    "start": 36.662,
+    "end": 37.079,
+    "lap": 89.4,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.95
+   },
+   {
+    "start": 37.079,
+    "end": 37.287,
+    "lap": 94.6,
+    "sharp_auto": "soft-or-flat",
+    "motion": 4.58
+   },
+   {
+    "start": 37.287,
+    "end": 37.996,
+    "lap": 133.9,
+    "sharp_auto": "ok",
+    "motion": 3.15
+   },
+   {
+    "start": 37.996,
+    "end": 38.413,
+    "lap": 534.8,
+    "sharp_auto": "sharp",
+    "motion": 0.67
+   },
+   {
+    "start": 38.413,
+    "end": 39.164,
+    "lap": 17.2,
+    "sharp_auto": "soft-or-flat",
+    "motion": 1.15
+   },
+   {
+    "start": 39.164,
+    "end": 40.04,
+    "lap": 23.6,
+    "sharp_auto": "soft-or-flat",
+    "motion": 5.45
+   },
+   {
+    "start": 40.04,
+    "end": 40.874,
+    "lap": 10.7,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.99
+   },
+   {
+    "start": 40.874,
+    "end": 41.75,
+    "lap": 56.4,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.84
+   },
+   {
+    "start": 41.75,
+    "end": 43.126,
+    "lap": 14.2,
+    "sharp_auto": "soft-or-flat",
+    "motion": 3.9
+   },
+   {
+    "start": 43.126,
+    "end": 44.586,
+    "lap": 161.8,
+    "sharp_auto": "ok",
+    "motion": 0.95
+   },
+   {
+    "start": 44.586,
+    "end": 47.381,
+    "lap": 74.7,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.83
+   },
+   {
+    "start": 47.381,
+    "end": 48.84,
+    "lap": 49.0,
+    "sharp_auto": "soft-or-flat",
+    "motion": 9.95
+   },
+   {
+    "start": 48.84,
+    "end": 53.136,
+    "lap": 660.0,
+    "sharp_auto": "sharp",
+    "motion": 7.84
+   },
+   {
+    "start": 53.136,
+    "end": 54.137,
+    "lap": 179.0,
+    "sharp_auto": "ok",
+    "motion": 0.53
+   },
+   {
+    "start": 54.137,
+    "end": 55.222,
+    "lap": 96.4,
+    "sharp_auto": "soft-or-flat",
+    "motion": 0.88
+   },
+   {
+    "start": 55.222,
+    "end": 58.267,
+    "lap": 123.1,
+    "sharp_auto": "ok",
+    "motion": 7.92
+   },
+   {
+    "start": 58.267,
+    "end": 58.809,
+    "lap": 154.3,
+    "sharp_auto": "ok",
+    "motion": 8.02
+   },
+   {
+    "start": 58.809,
+    "end": 59.101,
+    "lap": 21.2,
+    "sharp_auto": "soft-or-flat",
+    "motion": 13.61
+   },
+   {
+    "start": 59.101,
+    "end": 59.476,
+    "lap": 65.6,
+    "sharp_auto": "soft-or-flat",
+    "motion": 13.74
+   },
+   {
+    "start": 59.476,
+    "end": 59.685,
+    "lap": 41.0,
+    "sharp_auto": "soft-or-flat",
+    "motion": 14.78
+   },
+   {
+    "start": 59.685,
+    "end": 60.31,
+    "lap": 145.4,
+    "sharp_auto": "ok",
+    "motion": 11.02
+   },
+   {
+    "start": 60.31,
+    "end": 61.103,
+    "lap": 154.9,
+    "sharp_auto": "ok",
+    "motion": 13.24
+   },
+   {
+    "start": 61.103,
+    "end": 62.396,
+    "lap": 185.5,
+    "sharp_auto": "ok",
+    "motion": 1.83
+   },
+   {
+    "start": 62.396,
+    "end": 62.729,
+    "lap": 5.0,
+    "sharp_auto": "soft-or-flat",
+    "motion": 4.43
+   },
+   {
+    "start": 62.729,
+    "end": 63.981,
+    "lap": 67.6,
+    "sharp_auto": "soft-or-flat",
+    "motion": 12.53
+   },
+   {
+    "start": 63.981,
+    "end": 64.523,
+    "lap": 30.6,
+    "sharp_auto": "soft-or-flat",
+    "motion": 7.7
+   },
+   {
+    "start": 64.523,
+    "end": 67.484,
+    "lap": 26.7,
+    "sharp_auto": "soft-or-flat",
+    "motion": 5.54
+   },
+   {
+    "start": 67.484,
+    "end": 69.611,
+    "lap": 236.6,
+    "sharp_auto": "ok",
+    "motion": 0.49
+   }
+  ],
+  "hokage_4": [
+   {
+    "start": 0.0,
+    "end": 11.595,
+    "lap": 143.6,
+    "sharp_auto": "ok",
+    "motion": 0.49
+   },
+   {
+    "start": 11.595,
+    "end": 18.602,
+    "lap": 255.8,
+    "sharp_auto": "sharp",
+    "motion": 0.16
+   }
+  ]
+ },
+ "notes": "All four files: 1920x1080, 24000/1001 native (no frame padding), yuv420p, h264_videotoolbox 25M, AAC 48k. No channel logos found by temporal-median edge masks, so no removelogo was needed; no burned subtitles in hokage_1-3. Shot lists are automatic (HSV-histogram cuts cross-checked with ffmpeg scene 0.25/0.35); fast fight sections are over-split by flash frames. sharp_auto uses Laplacian variance on the content area (>=250 sharp, >=100 ok); glow/flash/flat-colour shots read low even when the line art is crisp, so the curated 'sharp' field in moments is from reading frames."
+}

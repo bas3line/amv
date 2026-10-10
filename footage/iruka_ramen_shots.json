@@ -1,0 +1,1667 @@
+{
+ "segment": "iruka_ramen",
+ "clips": {
+  "iruka_ramen_1": {
+   "path": "footage/iruka_ramen_1.mp4",
+   "src": "https://www.youtube.com/watch?v=JAdGK9IyA58",
+   "src_range": "1:06-1:48",
+   "note": "Naruto (2002) ep 1 highlight upload, English dub, no subs; 720p60 3:2-pulldown of 4:3 SD -> decimated to 24p, 4:3 content 1440x1080 centered",
+   "frame": "4:3 pillarboxed, content x 240-1680",
+   "hd": false,
+   "content_x": [
+    240,
+    1680
+   ],
+   "content_y": [
+    0,
+    1080
+   ],
+   "fps": "24000/1001"
+  },
+  "iruka_ramen_2": {
+   "path": "footage/iruka_ramen_2.mp4",
+   "src": "https://www.youtube.com/watch?v=JAdGK9IyA58",
+   "src_range": "3:19-5:54",
+   "note": "same source as _1; Mizuki/shuriken/Iruka shields/shadow clones/headband",
+   "frame": "4:3 pillarboxed, content x 240-1680",
+   "hd": false,
+   "content_x": [
+    240,
+    1680
+   ],
+   "content_y": [
+    0,
+    1080
+   ],
+   "fps": "24000/1001"
+  },
+  "iruka_ramen_3": {
+   "path": "footage/iruka_ramen_3.mp4",
+   "src": "https://www.youtube.com/watch?v=VBCjA4TCy7E",
+   "src_range": "10:38-11:27",
+   "note": "Shippuden HD Iruka flashback (English dub), 1080p25 -> 24p; top-left channel logo removed (removelogo)",
+   "frame": "16:9 full-frame",
+   "hd": true,
+   "content_x": [
+    0,
+    1920
+   ],
+   "content_y": [
+    0,
+    1080
+   ],
+   "fps": "24000/1001"
+  },
+  "iruka_ramen_4": {
+   "path": "footage/iruka_ramen_4.mp4",
+   "src": "https://www.youtube.com/watch?v=D4o0KpOYAvg",
+   "src_range": "0:31-1:19",
+   "note": "Road to Ninja movie (Japanese audio, burned English subs on dialogue lines), 1080p25 -> 24p; letterboxed 1.85 inside 16:9 (content y 23-1057); right-middle record-dot logo inpainted (cv2 Telea, x>=1750 y582-758)",
+   "frame": "16:9 frame, letterboxed content y 23-1057",
+   "hd": true,
+   "content_x": [
+    0,
+    1920
+   ],
+   "content_y": [
+    23,
+    1057
+   ],
+   "fps": "24000/1001"
+  },
+  "iruka_ramen_5": {
+   "path": "footage/iruka_ramen_5.mp4",
+   "src": "https://www.youtube.com/watch?v=VBCjA4TCy7E",
+   "src_range": "4:14-4:38",
+   "note": "Shippuden HD flashback: lonely kid Naruto (English dub); top-left logo removed",
+   "frame": "16:9 full-frame",
+   "hd": true,
+   "content_x": [
+    0,
+    1920
+   ],
+   "content_y": [
+    0,
+    1080
+   ],
+   "fps": "24000/1001"
+  },
+  "iruka_ramen_6": {
+   "path": "footage/iruka_ramen_6.mp4",
+   "src": "https://www.youtube.com/watch?v=yKELA1qBAKA",
+   "src_range": "0:41-0:53",
+   "note": "Studio Pierrot official 'ROAD OF NARUTO' 20th-anniversary PV, native 1080p 23.976, no logo; audio is the PV music (GO!!!)",
+   "frame": "16:9 full-frame",
+   "hd": true,
+   "content_x": [
+    0,
+    1920
+   ],
+   "content_y": [
+    0,
+    1080
+   ],
+   "fps": "24000/1001"
+  }
+ },
+ "audio_lines": [
+  {
+   "clip": "iruka_ramen_1",
+   "start": 27.6,
+   "end": 31.3,
+   "text": "because I'm going to be greater than any of them! The next Hokage!",
+   "isolation": "clean: dialogue only, floor -50 dBFS at 27.4-27.5 and 31.4-31.6 (no music bed)",
+   "lang": "en dub"
+  },
+  {
+   "clip": "iruka_ramen_1",
+   "start": 29.95,
+   "end": 31.3,
+   "text": "The next Hokage!",
+   "isolation": "clean: -46 dBFS gap before, -50 after",
+   "lang": "en dub"
+  },
+  {
+   "clip": "iruka_ramen_3",
+   "start": 29.7,
+   "end": 33.1,
+   "text": "I'm going to be an even stronger Hokage than the Fourth Hokage!",
+   "isolation": "not clean: ambient/music bed ~-35 dBFS in gaps",
+   "lang": "en dub (young Naruto)"
+  },
+  {
+   "clip": "iruka_ramen_2",
+   "start": 113.8,
+   "end": 115.4,
+   "text": "Shadow Clone Jutsu!",
+   "isolation": "music under",
+   "lang": "en dub"
+  }
+ ],
+ "moments": [
+  {
+   "clip": "iruka_ramen_6",
+   "start": 0.0,
+   "end": 1.84,
+   "what": "HD remake: little Naruto alone on the academy swing, forest light",
+   "hype": 7,
+   "sharp": "sharp",
+   "lap_var": 36.1,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "sad intro: ignored kid (official 1080p remake)"
+  },
+  {
+   "clip": "iruka_ramen_5",
+   "start": 16.77,
+   "end": 23.02,
+   "what": "kid Naruto eating instant ramen alone at home, smiles to himself",
+   "hype": 7,
+   "sharp": "sharp",
+   "lap_var": 124.7,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "sad intro: loneliness; pairs with the Ichiraku ramen payoff"
+  },
+  {
+   "clip": "iruka_ramen_2",
+   "start": 17.1,
+   "end": 18.75,
+   "what": "Mizuki leaps and hurls the giant Fuma shuriken at Naruto",
+   "hype": 7,
+   "sharp": "soft",
+   "lap_var": 9.8,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "danger build into the save"
+  },
+  {
+   "clip": "iruka_ramen_2",
+   "start": 19.05,
+   "end": 20.55,
+   "what": "Iruka dives in (zoom-blur) and shields Naruto, grimacing over camera",
+   "hype": 9,
+   "sharp": "soft",
+   "lap_var": 4.4,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "THE save: hit on a beat"
+  },
+  {
+   "clip": "iruka_ramen_2",
+   "start": 21.05,
+   "end": 23.2,
+   "what": "wide: Fuma shuriken lodged in Iruka's back, Naruto under him",
+   "hype": 9,
+   "sharp": "soft",
+   "lap_var": 7.8,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "hold after the save"
+  },
+  {
+   "clip": "iruka_ramen_2",
+   "start": 34.28,
+   "end": 37.0,
+   "what": "Iruka crying over Naruto ('you felt lonely... no one should suffer that much')",
+   "hype": 8,
+   "sharp": "soft",
+   "lap_var": 10.2,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "acknowledgement emotion"
+  },
+  {
+   "clip": "iruka_ramen_2",
+   "start": 98.6,
+   "end": 100.31,
+   "what": "Naruto crying behind the tree after Iruka says he's Naruto Uzumaki",
+   "hype": 9,
+   "sharp": "ok",
+   "lap_var": 29.7,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "acknowledged -> tears"
+  },
+  {
+   "clip": "iruka_ramen_6",
+   "start": 9.84,
+   "end": 10.14,
+   "what": "HD remake: Naruto crying, clutching the scroll (Iruka scene) - 8 frames",
+   "hype": 8,
+   "sharp": "sharp",
+   "lap_var": 14.3,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "1-beat flash insert, cleanest version of the crying"
+  },
+  {
+   "clip": "iruka_ramen_2",
+   "start": 112.07,
+   "end": 114.49,
+   "what": "Naruto's shadow-clone hand sign close-up, eyes behind goggles",
+   "hype": 9,
+   "sharp": "sharp",
+   "lap_var": 32.8,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "first power-up: build/drop"
+  },
+  {
+   "clip": "iruka_ramen_2",
+   "start": 146.6,
+   "end": 148.61,
+   "what": "Iruka smiling in bloom light after tying his headband on Naruto",
+   "hype": 8,
+   "sharp": "soft",
+   "lap_var": 7.9,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "graduation / acknowledgement payoff"
+  },
+  {
+   "clip": "iruka_ramen_1",
+   "start": 20.81,
+   "end": 23.27,
+   "what": "Naruto and Iruka side by side at the Ichiraku counter (side wide)",
+   "hype": 7,
+   "sharp": "ok",
+   "lap_var": 20.7,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "ramen with Iruka"
+  },
+  {
+   "clip": "iruka_ramen_1",
+   "start": 27.07,
+   "end": 30.11,
+   "what": "from behind at the counter; audio 'because I'm going to be greater than any of them!'",
+   "hype": 7,
+   "sharp": "sharp",
+   "lap_var": 31.1,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "lead-in to the vow"
+  },
+  {
+   "clip": "iruka_ramen_1",
+   "start": 30.11,
+   "end": 31.87,
+   "what": "Naruto swings his chopsticks out: 'The next Hokage!'",
+   "hype": 10,
+   "sharp": "sharp",
+   "lap_var": 37.8,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "the vow line, right before the drop"
+  },
+  {
+   "clip": "iruka_ramen_6",
+   "start": 9.59,
+   "end": 9.84,
+   "what": "HD remake: Iruka and Naruto slurping ramen at Ichiraku - 6 frames",
+   "hype": 8,
+   "sharp": "sharp",
+   "lap_var": 38.2,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "flash insert / cleanest ramen image"
+  },
+  {
+   "clip": "iruka_ramen_3",
+   "start": 31.45,
+   "end": 36.29,
+   "what": "young Naruto under the tree, fists up: 'I'm going to be an even stronger Hokage than the Fourth!'",
+   "hype": 8,
+   "sharp": "ok",
+   "lap_var": 4.8,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "alt vow (HD 16:9)"
+  },
+  {
+   "clip": "iruka_ramen_3",
+   "start": 42.21,
+   "end": 48.21,
+   "what": "kunai height-mark on the tree, ghost of grown Naruto fades in at it",
+   "hype": 9,
+   "sharp": "sharp",
+   "lap_var": 12.2,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "kid -> grown time-skip transition"
+  },
+  {
+   "clip": "iruka_ramen_4",
+   "start": 15.01,
+   "end": 23.27,
+   "what": "adult Naruto in the dark doorway, eyes welling up",
+   "hype": 8,
+   "sharp": "sharp",
+   "lap_var": 16.1,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "ending: Naruto moved"
+  },
+  {
+   "clip": "iruka_ramen_4",
+   "start": 29.03,
+   "end": 34.28,
+   "what": "Iruka close-up, closes eyes and smiles ('welcome home' setup)",
+   "hype": 8,
+   "sharp": "sharp",
+   "lap_var": 67.2,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "ending: Iruka acknowledges him"
+  },
+  {
+   "clip": "iruka_ramen_4",
+   "start": 41.0,
+   "end": 44.54,
+   "what": "adult Naruto breaks into a huge grin",
+   "hype": 9,
+   "sharp": "sharp",
+   "lap_var": 51.4,
+   "subtitle_score_max": 0,
+   "clean": true,
+   "use": "birthday payoff smile"
+  },
+  {
+   "clip": "iruka_ramen_4",
+   "start": 11.76,
+   "end": 14.97,
+   "what": "Iruka holds up a birthday cake for Naruto",
+   "hype": 9,
+   "sharp": "sharp",
+   "lap_var": 189.3,
+   "subtitle_score_max": 1470,
+   "clean": false,
+   "use": "birthday payoff - burned subtitle, use only blurred/covered"
+  }
+ ],
+ "shot_maps": {
+  "iruka_ramen_1": [
+   {
+    "i": 0,
+    "start": 0.0,
+    "end": 0.5,
+    "f0": 0,
+    "f1": 11,
+    "lap": 31.7,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 1,
+    "start": 0.5,
+    "end": 2.085,
+    "f0": 12,
+    "f1": 49,
+    "lap": 74.5,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 2,
+    "start": 2.085,
+    "end": 4.213,
+    "f0": 50,
+    "f1": 100,
+    "lap": 29.5,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 3,
+    "start": 4.213,
+    "end": 6.673,
+    "f0": 101,
+    "f1": 159,
+    "lap": 33.1,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 4,
+    "start": 6.673,
+    "end": 7.799,
+    "f0": 160,
+    "f1": 186,
+    "lap": 20.3,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 5,
+    "start": 7.799,
+    "end": 8.759,
+    "f0": 187,
+    "f1": 209,
+    "lap": 29.1,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 6,
+    "start": 8.759,
+    "end": 11.637,
+    "f0": 210,
+    "f1": 278,
+    "lap": 19.4,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 7,
+    "start": 11.637,
+    "end": 12.429,
+    "f0": 279,
+    "f1": 297,
+    "lap": 34.7,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 8,
+    "start": 12.429,
+    "end": 14.64,
+    "f0": 298,
+    "f1": 350,
+    "lap": 28.4,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 9,
+    "start": 14.64,
+    "end": 17.184,
+    "f0": 351,
+    "f1": 411,
+    "lap": 33.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 10,
+    "start": 17.184,
+    "end": 18.977,
+    "f0": 412,
+    "f1": 454,
+    "lap": 13.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 11,
+    "start": 18.977,
+    "end": 20.812,
+    "f0": 455,
+    "f1": 498,
+    "lap": 35.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 12,
+    "start": 20.812,
+    "end": 23.273,
+    "f0": 499,
+    "f1": 557,
+    "lap": 20.7,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 13,
+    "start": 23.273,
+    "end": 25.692,
+    "f0": 558,
+    "f1": 615,
+    "lap": 35.4,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 14,
+    "start": 25.692,
+    "end": 27.069,
+    "f0": 616,
+    "f1": 648,
+    "lap": 27.8,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 15,
+    "start": 27.069,
+    "end": 30.113,
+    "f0": 649,
+    "f1": 721,
+    "lap": 31.3,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 16,
+    "start": 30.113,
+    "end": 31.865,
+    "f0": 722,
+    "f1": 763,
+    "lap": 32.6,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 17,
+    "start": 31.865,
+    "end": 33.867,
+    "f0": 764,
+    "f1": 811,
+    "lap": 42.4,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 18,
+    "start": 33.867,
+    "end": 37.037,
+    "f0": 812,
+    "f1": 887,
+    "lap": 41.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 19,
+    "start": 37.037,
+    "end": 39.081,
+    "f0": 888,
+    "f1": 936,
+    "lap": 18.1,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 20,
+    "start": 39.081,
+    "end": 40.874,
+    "f0": 937,
+    "f1": 979,
+    "lap": 41.4,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 21,
+    "start": 40.874,
+    "end": 42.209,
+    "f0": 980,
+    "f1": 1011,
+    "lap": 4.0,
+    "text": 0,
+    "cut35": true
+   }
+  ],
+  "iruka_ramen_2": [
+   {
+    "i": 0,
+    "start": 0.0,
+    "end": 2.628,
+    "f0": 0,
+    "f1": 62,
+    "lap": 31.2,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 1,
+    "start": 2.628,
+    "end": 6.548,
+    "f0": 63,
+    "f1": 156,
+    "lap": 7.7,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 2,
+    "start": 6.548,
+    "end": 7.549,
+    "f0": 157,
+    "f1": 180,
+    "lap": 12.5,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 3,
+    "start": 7.549,
+    "end": 9.468,
+    "f0": 181,
+    "f1": 226,
+    "lap": 21.7,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 4,
+    "start": 9.468,
+    "end": 11.595,
+    "f0": 227,
+    "f1": 277,
+    "lap": 23.3,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 5,
+    "start": 11.595,
+    "end": 12.221,
+    "f0": 278,
+    "f1": 292,
+    "lap": 11.6,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 6,
+    "start": 12.221,
+    "end": 13.055,
+    "f0": 293,
+    "f1": 312,
+    "lap": 55.2,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 7,
+    "start": 13.055,
+    "end": 14.264,
+    "f0": 313,
+    "f1": 341,
+    "lap": 34.0,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 8,
+    "start": 14.264,
+    "end": 15.474,
+    "f0": 342,
+    "f1": 370,
+    "lap": 34.7,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 9,
+    "start": 15.474,
+    "end": 17.1,
+    "f0": 371,
+    "f1": 409,
+    "lap": 17.8,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 10,
+    "start": 17.1,
+    "end": 20.52,
+    "f0": 410,
+    "f1": 491,
+    "lap": 8.9,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 11,
+    "start": 20.52,
+    "end": 23.232,
+    "f0": 492,
+    "f1": 556,
+    "lap": 8.3,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 12,
+    "start": 23.232,
+    "end": 23.69,
+    "f0": 557,
+    "f1": 567,
+    "lap": 26.2,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 13,
+    "start": 23.69,
+    "end": 25.525,
+    "f0": 568,
+    "f1": 611,
+    "lap": 13.5,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 14,
+    "start": 25.525,
+    "end": 26.401,
+    "f0": 612,
+    "f1": 632,
+    "lap": 29.3,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 15,
+    "start": 26.401,
+    "end": 27.444,
+    "f0": 633,
+    "f1": 657,
+    "lap": 7.1,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 16,
+    "start": 27.444,
+    "end": 29.571,
+    "f0": 658,
+    "f1": 708,
+    "lap": 19.3,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 17,
+    "start": 29.571,
+    "end": 31.907,
+    "f0": 709,
+    "f1": 764,
+    "lap": 46.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 18,
+    "start": 31.907,
+    "end": 34.284,
+    "f0": 765,
+    "f1": 821,
+    "lap": 38.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 19,
+    "start": 34.284,
+    "end": 36.995,
+    "f0": 822,
+    "f1": 886,
+    "lap": 10.4,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 20,
+    "start": 36.995,
+    "end": 39.665,
+    "f0": 887,
+    "f1": 950,
+    "lap": 27.9,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 21,
+    "start": 39.665,
+    "end": 41.792,
+    "f0": 951,
+    "f1": 1001,
+    "lap": 12.4,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 22,
+    "start": 41.792,
+    "end": 44.002,
+    "f0": 1002,
+    "f1": 1054,
+    "lap": 19.4,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 23,
+    "start": 44.002,
+    "end": 44.503,
+    "f0": 1055,
+    "f1": 1066,
+    "lap": 11.6,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 24,
+    "start": 44.503,
+    "end": 48.006,
+    "f0": 1067,
+    "f1": 1150,
+    "lap": 2.6,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 25,
+    "start": 48.006,
+    "end": 48.173,
+    "f0": 1151,
+    "f1": 1154,
+    "lap": 17.8,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 26,
+    "start": 48.173,
+    "end": 51.009,
+    "f0": 1155,
+    "f1": 1222,
+    "lap": 9.6,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 27,
+    "start": 51.009,
+    "end": 57.516,
+    "f0": 1223,
+    "f1": 1378,
+    "lap": 6.2,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 28,
+    "start": 57.516,
+    "end": 59.101,
+    "f0": 1379,
+    "f1": 1416,
+    "lap": 16.2,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 29,
+    "start": 59.101,
+    "end": 67.901,
+    "f0": 1417,
+    "f1": 1627,
+    "lap": 9.1,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 30,
+    "start": 67.901,
+    "end": 68.652,
+    "f0": 1628,
+    "f1": 1645,
+    "lap": 26.9,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 31,
+    "start": 68.652,
+    "end": 69.111,
+    "f0": 1646,
+    "f1": 1656,
+    "lap": 6.1,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 32,
+    "start": 69.111,
+    "end": 70.862,
+    "f0": 1657,
+    "f1": 1698,
+    "lap": 13.5,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 33,
+    "start": 70.862,
+    "end": 75.242,
+    "f0": 1699,
+    "f1": 1803,
+    "lap": 7.1,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 34,
+    "start": 75.242,
+    "end": 77.661,
+    "f0": 1804,
+    "f1": 1861,
+    "lap": 23.4,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 35,
+    "start": 77.661,
+    "end": 82.499,
+    "f0": 1862,
+    "f1": 1977,
+    "lap": 18.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 36,
+    "start": 82.499,
+    "end": 84.668,
+    "f0": 1978,
+    "f1": 2029,
+    "lap": 19.9,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 37,
+    "start": 84.668,
+    "end": 88.797,
+    "f0": 2030,
+    "f1": 2128,
+    "lap": 6.1,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 38,
+    "start": 88.797,
+    "end": 89.131,
+    "f0": 2129,
+    "f1": 2136,
+    "lap": 25.4,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 39,
+    "start": 89.131,
+    "end": 91.591,
+    "f0": 2137,
+    "f1": 2195,
+    "lap": 13.9,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 40,
+    "start": 91.591,
+    "end": 93.677,
+    "f0": 2196,
+    "f1": 2245,
+    "lap": 32.7,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 41,
+    "start": 93.677,
+    "end": 96.471,
+    "f0": 2246,
+    "f1": 2312,
+    "lap": 6.1,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 42,
+    "start": 96.471,
+    "end": 98.598,
+    "f0": 2313,
+    "f1": 2363,
+    "lap": 11.2,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 43,
+    "start": 98.598,
+    "end": 100.309,
+    "f0": 2364,
+    "f1": 2404,
+    "lap": 29.5,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 44,
+    "start": 100.309,
+    "end": 100.934,
+    "f0": 2405,
+    "f1": 2419,
+    "lap": 17.7,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 45,
+    "start": 100.934,
+    "end": 103.27,
+    "f0": 2420,
+    "f1": 2475,
+    "lap": 18.2,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 46,
+    "start": 103.27,
+    "end": 106.064,
+    "f0": 2476,
+    "f1": 2542,
+    "lap": 16.4,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 47,
+    "start": 106.064,
+    "end": 107.566,
+    "f0": 2543,
+    "f1": 2578,
+    "lap": 11.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 48,
+    "start": 107.566,
+    "end": 110.569,
+    "f0": 2579,
+    "f1": 2650,
+    "lap": 12.7,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 49,
+    "start": 110.569,
+    "end": 112.07,
+    "f0": 2651,
+    "f1": 2686,
+    "lap": 15.2,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 50,
+    "start": 112.07,
+    "end": 114.489,
+    "f0": 2687,
+    "f1": 2744,
+    "lap": 32.8,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 51,
+    "start": 114.489,
+    "end": 114.781,
+    "f0": 2745,
+    "f1": 2751,
+    "lap": 12.2,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 52,
+    "start": 114.781,
+    "end": 116.908,
+    "f0": 2752,
+    "f1": 2802,
+    "lap": 10.5,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 53,
+    "start": 116.908,
+    "end": 125.417,
+    "f0": 2803,
+    "f1": 3006,
+    "lap": 13.1,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 54,
+    "start": 125.417,
+    "end": 127.627,
+    "f0": 3007,
+    "f1": 3059,
+    "lap": 21.4,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 55,
+    "start": 127.627,
+    "end": 132.591,
+    "f0": 3060,
+    "f1": 3178,
+    "lap": 19.3,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 56,
+    "start": 132.591,
+    "end": 135.052,
+    "f0": 3179,
+    "f1": 3237,
+    "lap": 12.8,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 57,
+    "start": 135.052,
+    "end": 137.346,
+    "f0": 3238,
+    "f1": 3292,
+    "lap": 19.8,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 58,
+    "start": 137.346,
+    "end": 141.641,
+    "f0": 3293,
+    "f1": 3395,
+    "lap": 15.5,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 59,
+    "start": 141.641,
+    "end": 143.643,
+    "f0": 3396,
+    "f1": 3443,
+    "lap": 26.6,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 60,
+    "start": 143.643,
+    "end": 146.605,
+    "f0": 3444,
+    "f1": 3514,
+    "lap": 8.9,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 61,
+    "start": 146.605,
+    "end": 148.607,
+    "f0": 3515,
+    "f1": 3562,
+    "lap": 8.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 62,
+    "start": 148.607,
+    "end": 150.65,
+    "f0": 3563,
+    "f1": 3611,
+    "lap": 6.4,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 63,
+    "start": 150.65,
+    "end": 156.573,
+    "f0": 3612,
+    "f1": 3753,
+    "lap": 3.5,
+    "text": 0,
+    "cut35": true
+   }
+  ],
+  "iruka_ramen_3": [
+   {
+    "i": 0,
+    "start": 0.0,
+    "end": 1.293,
+    "f0": 0,
+    "f1": 30,
+    "lap": 13.7,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 1,
+    "start": 1.293,
+    "end": 6.798,
+    "f0": 31,
+    "f1": 162,
+    "lap": 9.5,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 2,
+    "start": 6.798,
+    "end": 6.965,
+    "f0": 163,
+    "f1": 166,
+    "lap": 2.3,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 3,
+    "start": 6.965,
+    "end": 7.799,
+    "f0": 167,
+    "f1": 186,
+    "lap": 3.5,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 4,
+    "start": 7.799,
+    "end": 11.22,
+    "f0": 187,
+    "f1": 268,
+    "lap": 5.7,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 5,
+    "start": 11.22,
+    "end": 16.934,
+    "f0": 269,
+    "f1": 405,
+    "lap": 4.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 6,
+    "start": 16.934,
+    "end": 20.187,
+    "f0": 406,
+    "f1": 483,
+    "lap": 4.7,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 7,
+    "start": 20.187,
+    "end": 23.398,
+    "f0": 484,
+    "f1": 560,
+    "lap": 5.5,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 8,
+    "start": 23.398,
+    "end": 26.485,
+    "f0": 561,
+    "f1": 634,
+    "lap": 4.8,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 9,
+    "start": 26.485,
+    "end": 31.448,
+    "f0": 635,
+    "f1": 753,
+    "lap": 6.5,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 10,
+    "start": 31.448,
+    "end": 36.286,
+    "f0": 754,
+    "f1": 869,
+    "lap": 4.7,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 11,
+    "start": 36.286,
+    "end": 42.209,
+    "f0": 870,
+    "f1": 1011,
+    "lap": 5.3,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 12,
+    "start": 42.209,
+    "end": 48.215,
+    "f0": 1012,
+    "f1": 1155,
+    "lap": 13.6,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 13,
+    "start": 48.215,
+    "end": 51.301,
+    "f0": 1156,
+    "f1": 1229,
+    "lap": 16.1,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 14,
+    "start": 51.301,
+    "end": 51.593,
+    "f0": 1230,
+    "f1": 1236,
+    "lap": 1.9,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 15,
+    "start": 51.593,
+    "end": 52.177,
+    "f0": 1237,
+    "f1": 1250,
+    "lap": 4.4,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 16,
+    "start": 52.177,
+    "end": 52.219,
+    "f0": 1251,
+    "f1": 1251,
+    "lap": 0.0,
+    "text": 0,
+    "cut35": true
+   }
+  ],
+  "iruka_ramen_4": [
+   {
+    "i": 0,
+    "start": 0.0,
+    "end": 14.973,
+    "f0": 0,
+    "f1": 358,
+    "lap": 221.9,
+    "text": 864,
+    "cut35": false
+   },
+   {
+    "i": 1,
+    "start": 14.973,
+    "end": 28.987,
+    "f0": 359,
+    "f1": 694,
+    "lap": 21.0,
+    "text": 339,
+    "cut35": true
+   },
+   {
+    "i": 2,
+    "start": 28.987,
+    "end": 35.953,
+    "f0": 695,
+    "f1": 861,
+    "lap": 96.5,
+    "text": 430,
+    "cut35": true
+   },
+   {
+    "i": 3,
+    "start": 35.953,
+    "end": 44.544,
+    "f0": 862,
+    "f1": 1067,
+    "lap": 38.1,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 4,
+    "start": 44.544,
+    "end": 46.755,
+    "f0": 1068,
+    "f1": 1120,
+    "lap": 36.8,
+    "text": 152,
+    "cut35": true
+   }
+  ],
+  "iruka_ramen_5": [
+   {
+    "i": 0,
+    "start": 0.0,
+    "end": 1.668,
+    "f0": 0,
+    "f1": 39,
+    "lap": 12.3,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 1,
+    "start": 1.668,
+    "end": 4.922,
+    "f0": 40,
+    "f1": 117,
+    "lap": 10.8,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 2,
+    "start": 4.922,
+    "end": 7.799,
+    "f0": 118,
+    "f1": 186,
+    "lap": 4.2,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 3,
+    "start": 7.799,
+    "end": 10.677,
+    "f0": 187,
+    "f1": 255,
+    "lap": 3.2,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 4,
+    "start": 10.677,
+    "end": 14.139,
+    "f0": 256,
+    "f1": 338,
+    "lap": 3.5,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 5,
+    "start": 14.139,
+    "end": 16.767,
+    "f0": 339,
+    "f1": 401,
+    "lap": 4.7,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 6,
+    "start": 16.767,
+    "end": 23.023,
+    "f0": 402,
+    "f1": 551,
+    "lap": 124.7,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 7,
+    "start": 23.023,
+    "end": 27.194,
+    "f0": 552,
+    "f1": 651,
+    "lap": 5.8,
+    "text": 0,
+    "cut35": true
+   }
+  ],
+  "iruka_ramen_6": [
+   {
+    "i": 0,
+    "start": 0.0,
+    "end": 1.835,
+    "f0": 0,
+    "f1": 43,
+    "lap": 36.2,
+    "text": 0,
+    "cut35": false
+   },
+   {
+    "i": 1,
+    "start": 1.835,
+    "end": 3.42,
+    "f0": 44,
+    "f1": 81,
+    "lap": 15.8,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 2,
+    "start": 3.42,
+    "end": 4.421,
+    "f0": 82,
+    "f1": 105,
+    "lap": 8.9,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 3,
+    "start": 4.421,
+    "end": 5.797,
+    "f0": 106,
+    "f1": 138,
+    "lap": 8.6,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 4,
+    "start": 5.797,
+    "end": 6.798,
+    "f0": 139,
+    "f1": 162,
+    "lap": 27.1,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 5,
+    "start": 6.798,
+    "end": 7.549,
+    "f0": 163,
+    "f1": 180,
+    "lap": 17.5,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 6,
+    "start": 7.549,
+    "end": 9.593,
+    "f0": 181,
+    "f1": 229,
+    "lap": 16.0,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 7,
+    "start": 9.593,
+    "end": 9.843,
+    "f0": 230,
+    "f1": 235,
+    "lap": 38.2,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 8,
+    "start": 9.843,
+    "end": 10.135,
+    "f0": 236,
+    "f1": 242,
+    "lap": 14.1,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 9,
+    "start": 10.135,
+    "end": 11.553,
+    "f0": 243,
+    "f1": 276,
+    "lap": 25.4,
+    "text": 0,
+    "cut35": true
+   },
+   {
+    "i": 10,
+    "start": 11.553,
+    "end": 12.054,
+    "f0": 277,
+    "f1": 288,
+    "lap": 21.7,
+    "text": 0,
+    "cut35": true
+   }
+  ]
+ }
+}
