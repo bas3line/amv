@@ -1,0 +1,3 @@
+# Optional: voices/mix.py (demucs stems) and tools/sr.py (Real-ESRGAN plates for director.py --sr)
+torch==2.14.1
+demucs==4.1.0

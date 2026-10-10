@@ -1,0 +1,1973 @@
+{
+ "segment": "pain_arc",
+ "clips": [
+  {
+   "id": "pain_arc_1",
+   "path": "footage/pain_arc_1.mp4",
+   "url": "https://www.youtube.com/watch?v=GOBZIdBKaHw",
+   "fps": "24000/1001",
+   "frame": "16:9 full-frame (1920x1080, no crop)",
+   "duration": 73.198,
+   "quality": "ok - 720p official source, softer than the 1080p clips"
+  },
+  {
+   "id": "pain_arc_2",
+   "path": "footage/pain_arc_2.mp4",
+   "url": "https://www.youtube.com/watch?v=LWjzITLk7LU",
+   "fps": "24/1",
+   "frame": "16:9 full-frame (1920x1080, no crop)",
+   "duration": 108.875,
+   "quality": "sharp - native 1080p"
+  },
+  {
+   "id": "pain_arc_3",
+   "path": "footage/pain_arc_3.mp4",
+   "url": "https://www.youtube.com/watch?v=iSjhmC9YMws",
+   "fps": "24/1",
+   "frame": "16:9 full-frame (1920x1080, no crop)",
+   "duration": 48.5,
+   "quality": "sharp - native 1080p"
+  },
+  {
+   "id": "pain_arc_4",
+   "path": "footage/pain_arc_4.mp4",
+   "url": "https://www.youtube.com/watch?v=fZVST5650oI",
+   "fps": "24/1",
+   "frame": "16:9 full-frame (1920x1080, no crop)",
+   "duration": 122.458,
+   "quality": "sharp - native 1080p"
+  }
+ ],
+ "moments": [
+  {
+   "clip": "pain_arc_1",
+   "start": 9.09,
+   "end": 11.76,
+   "what": "Rasenshuriken slams into Kakuzu, speed-lines burst around his tendrils",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "impact hit on a drop"
+  },
+  {
+   "clip": "pain_arc_1",
+   "start": 18.39,
+   "end": 29.32,
+   "what": "Rasenshuriken detonates: white dome over the battlefield, then the wide blast field",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "drop / whiteout flash"
+  },
+  {
+   "clip": "pain_arc_1",
+   "start": 47.34,
+   "end": 73.2,
+   "what": "inside the jutsu: wind needles slice Kakuzu, his mask shatters, final whiteout",
+   "hype": 5,
+   "sharp": "ok",
+   "clean": true,
+   "use": "fast stutter cuts on hits"
+  },
+  {
+   "clip": "pain_arc_2",
+   "start": 0.0,
+   "end": 2.71,
+   "what": "Sage Mode eyes in close-up, then Pain staring back",
+   "hype": 4,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "arrival build-up / face-off"
+  },
+  {
+   "clip": "pain_arc_2",
+   "start": 4.21,
+   "end": 5.5,
+   "what": "Sage Naruto crashes down on Pain's summons - the entrance",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "big entrance hit (EN sub \"With me!\" is on screen by 5.96, so stop at 5.5)"
+  },
+  {
+   "clip": "pain_arc_2",
+   "start": 15.21,
+   "end": 17.92,
+   "what": "Sage Naruto shouts in close-up over blue speed-lines",
+   "hype": 4,
+   "sharp": "sharp",
+   "clean": false,
+   "use": "hype face (EN sub on screen)"
+  },
+  {
+   "clip": "pain_arc_2",
+   "start": 22.96,
+   "end": 29.62,
+   "what": "shadow clones + Sage Art: Giant Rasengan barrage on the beasts",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": false,
+   "use": "action run (EN subs)"
+  },
+  {
+   "clip": "pain_arc_2",
+   "start": 36.29,
+   "end": 38.71,
+   "what": "Frog Kumite: fist into Pain's face, then the kick",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "punch on a beat"
+  },
+  {
+   "clip": "pain_arc_2",
+   "start": 87.71,
+   "end": 91.33,
+   "what": "Sage Rasenshuriken flies and spins into the ground",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "throw -> drop"
+  },
+  {
+   "clip": "pain_arc_2",
+   "start": 94.71,
+   "end": 99.88,
+   "what": "two Pains caught and swallowed by the Rasenshuriken explosion",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "drop / flash"
+  },
+  {
+   "clip": "pain_arc_2",
+   "start": 105.0,
+   "end": 107.25,
+   "what": "shockwave spikes explode from the crater",
+   "hype": 4,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "flash transition"
+  },
+  {
+   "clip": "pain_arc_3",
+   "start": 7.21,
+   "end": 11.25,
+   "what": "army of shadow clones crouched in the smoke, ready to charge",
+   "hype": 4,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "build-up"
+  },
+  {
+   "clip": "pain_arc_3",
+   "start": 20.0,
+   "end": 24.29,
+   "what": "clones form the Rasengan in Naruto's hand",
+   "hype": 4,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "charge-up before a drop"
+  },
+  {
+   "clip": "pain_arc_3",
+   "start": 43.83,
+   "end": 48.5,
+   "what": "Rasengan drives into Pain, swirling colour burst",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "impact hit"
+  },
+  {
+   "clip": "pain_arc_4",
+   "start": 4.83,
+   "end": 11.71,
+   "what": "Nagato's Rinne Rebirth: green pillar of light, then Nagato's last smile",
+   "hype": 3,
+   "sharp": "ok",
+   "clean": true,
+   "use": "quiet transition into the redemption"
+  },
+  {
+   "clip": "pain_arc_4",
+   "start": 16.12,
+   "end": 19.58,
+   "what": "Kakashi carries Naruto home; Naruto smiles",
+   "hype": 3,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "emotional breath"
+  },
+  {
+   "clip": "pain_arc_4",
+   "start": 20.5,
+   "end": 24.21,
+   "what": "the whole village waiting, then cheering",
+   "hype": 4,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "acknowledgement build"
+  },
+  {
+   "clip": "pain_arc_4",
+   "start": 102.71,
+   "end": 106.62,
+   "what": "top-down: Naruto in the middle of the cheering crowd",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "redemption payoff"
+  },
+  {
+   "clip": "pain_arc_4",
+   "start": 112.33,
+   "end": 116.5,
+   "what": "Iruka cries and smiles",
+   "hype": 4,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "Iruka callback before the toss"
+  },
+  {
+   "clip": "pain_arc_4",
+   "start": 116.5,
+   "end": 122.46,
+   "what": "villagers toss Naruto into the sun; dissolve at 120.0-121.3 to Naruto laughing, arm raised",
+   "hype": 5,
+   "sharp": "sharp",
+   "clean": true,
+   "use": "final payoff (cut before 120.0 or after 121.3 to skip the dissolve)"
+  }
+ ],
+ "notes": "Pain-arc segment, 4 clips, 340.6 s total. All 1920x1080 yuv420p h264_videotoolbox ~25 Mb/s target with AAC audio, native frame rate: clip 1 24000/1001; clips 2-4 24/1 (the reuploads are 24p; clip 4 was decimated from a 30p duplicate-frame upload). Pieces are joined at existing shot cuts. Logos: removelogo was tried and rejected (magenta garbage where the mask touched the frame edge, letter ghosts); un-blending the semi-transparent watermarks was tried and rejected (opacity varies per frame -> ghosts). The final method inpaints (OpenCV Telea) inside temporal-median edge masks; every listed corner was checked on frames and the logos are gone, but those corners are soft or blotchy, so avoid zooming into them. sharp: native-1080p clips are sharp; clip 1 is a 720p official upload, upscaled, so ok. Laplacian variance is per shot in shot_maps[*].shots; it reads low on flat cels and whiteouts, so it is a flag, not a verdict. clean = no burned-in subtitles in the range (clips 1-3 carry EN/PT subs on dialogue shots). Hero of the Leaf: AfX3j9IlSH4 (1080p24) was rejected because of a large animated channel badge.",
+ "shot_maps": {
+  "pain_arc_1": {
+   "content": "Rasenshuriken vs Kakuzu (Shippuden ep 88), Crunchyroll official clip",
+   "source": "https://www.youtube.com/watch?v=GOBZIdBKaHw (Crunchyroll official, 1280x720) sections 0:45-1:59",
+   "native": "1280x720 23.976p, upscaled to 1080 (lanczos)",
+   "frames": 1755,
+   "logo_cleanup": "Crunchyroll watermark top-left (inpaint ROI 0-508 x 0-142) and (c)2002MK bug bottom-right (ROI 1697-1920 x 1000-1080) inpainted; soft patches there",
+   "subtitles": "English subs burned in on dialogue shots",
+   "pieces": [
+    {
+     "src": "A_45.mkv",
+     "src_frames": [
+      47,
+      1802
+     ],
+     "frames": 1755,
+     "out_start": 0.0,
+     "out_end": 73.198
+    }
+   ],
+   "cuts_scene035": 14,
+   "cuts_scene025": 23,
+   "shots": [
+    {
+     "i": 0,
+     "start": 0.0,
+     "end": 1.71,
+     "lapvar": 33.7,
+     "sharp": "soft",
+     "subs": false,
+     "sub_score": 0.083,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 1,
+     "start": 1.71,
+     "end": 6.131,
+     "lapvar": 106.2,
+     "sharp": "ok",
+     "subs": true,
+     "sub_score": 11.863,
+     "extra_cuts_025": [
+      3.67
+     ]
+    },
+    {
+     "i": 2,
+     "start": 6.131,
+     "end": 7.424,
+     "lapvar": 56.8,
+     "sharp": "ok",
+     "subs": true,
+     "sub_score": 11.404,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 3,
+     "start": 7.424,
+     "end": 7.591,
+     "lapvar": 75.4,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 1.692,
+     "extra_cuts_025": [
+      7.508
+     ]
+    },
+    {
+     "i": 4,
+     "start": 7.591,
+     "end": 9.092,
+     "lapvar": 50.1,
+     "sharp": "ok",
+     "subs": true,
+     "sub_score": 6.2,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 5,
+     "start": 9.092,
+     "end": 11.762,
+     "lapvar": 26.5,
+     "sharp": "soft",
+     "subs": false,
+     "sub_score": 0.058,
+     "extra_cuts_025": [
+      10.552
+     ]
+    },
+    {
+     "i": 6,
+     "start": 11.762,
+     "end": 12.512,
+     "lapvar": 94.4,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.122,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 7,
+     "start": 12.512,
+     "end": 18.393,
+     "lapvar": 45.1,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.303,
+     "extra_cuts_025": [
+      13.972,
+      15.933
+     ]
+    },
+    {
+     "i": 8,
+     "start": 18.393,
+     "end": 25.317,
+     "lapvar": 38.3,
+     "sharp": "soft",
+     "subs": false,
+     "sub_score": 0.926,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 9,
+     "start": 25.317,
+     "end": 29.321,
+     "lapvar": 61.3,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 1.8,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 10,
+     "start": 29.321,
+     "end": 37.204,
+     "lapvar": 42.8,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": [
+      32.282
+     ]
+    },
+    {
+     "i": 11,
+     "start": 37.204,
+     "end": 47.339,
+     "lapvar": 23.9,
+     "sharp": "soft",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": [
+      40.415,
+      43.377
+     ]
+    },
+    {
+     "i": 12,
+     "start": 47.339,
+     "end": 62.229,
+     "lapvar": 86.3,
+     "sharp": "ok",
+     "subs": true,
+     "sub_score": 2.72,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 13,
+     "start": 62.229,
+     "end": 66.191,
+     "lapvar": 56.1,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.318,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 14,
+     "start": 66.191,
+     "end": 73.198,
+     "lapvar": 67.0,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 1.109,
+     "extra_cuts_025": []
+    }
+   ]
+  },
+  "pain_arc_2": {
+   "content": "Sage Mode Naruto arrives and fights the Six Paths of Pain (eps 163-164), episode reupload",
+   "source": "https://www.youtube.com/watch?v=LWjzITLk7LU (1080p24 episode reupload, EN subs) sections 1:50-1:57, 2:19-2:47, 3:07-4:37",
+   "native": "1920x1080 24p",
+   "frames": 2613,
+   "logo_cleanup": "9anime.to text top-left (ROI 0-153 x 0-63) and round channel bug top-right (ROI 1792-1920 x 0-124) inpainted",
+   "subtitles": "English subs burned in on dialogue shots",
+   "pieces": [
+    {
+     "src": "B_110.mkv",
+     "src_frames": [
+      29,
+      130
+     ],
+     "frames": 101,
+     "out_start": 0.0,
+     "out_end": 4.208
+    },
+    {
+     "src": "B_139.mkv",
+     "src_frames": [
+      151,
+      480
+     ],
+     "frames": 329,
+     "out_start": 4.208,
+     "out_end": 17.917
+    },
+    {
+     "src": "B_187.mkv",
+     "src_frames": [
+      59,
+      2242
+     ],
+     "frames": 2183,
+     "out_start": 17.917,
+     "out_end": 108.875
+    }
+   ],
+   "cuts_scene035": 66,
+   "cuts_scene025": 97,
+   "shots": [
+    {
+     "i": 0,
+     "start": 0.0,
+     "end": 1.583,
+     "lapvar": 32.7,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 1,
+     "start": 1.583,
+     "end": 2.708,
+     "lapvar": 26.6,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 2,
+     "start": 2.708,
+     "end": 4.208,
+     "lapvar": 13.4,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 3,
+     "start": 4.208,
+     "end": 6.667,
+     "lapvar": 80.1,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 2.915,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 4,
+     "start": 6.667,
+     "end": 8.208,
+     "lapvar": 40.4,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.015,
+     "extra_cuts_025": [
+      7.083
+     ]
+    },
+    {
+     "i": 5,
+     "start": 8.208,
+     "end": 9.042,
+     "lapvar": 11.4,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 6,
+     "start": 9.042,
+     "end": 11.167,
+     "lapvar": 186.1,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 12.643,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 7,
+     "start": 11.167,
+     "end": 13.042,
+     "lapvar": 303.2,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 21.734,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 8,
+     "start": 13.042,
+     "end": 15.208,
+     "lapvar": 222.8,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 14.983,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 9,
+     "start": 15.208,
+     "end": 17.917,
+     "lapvar": 128.5,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 5.361,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 10,
+     "start": 17.917,
+     "end": 19.75,
+     "lapvar": 10.4,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": [
+      18.125
+     ]
+    },
+    {
+     "i": 11,
+     "start": 19.75,
+     "end": 22.958,
+     "lapvar": 18.0,
+     "sharp": "ok",
+     "subs": true,
+     "sub_score": 14.718,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 12,
+     "start": 22.958,
+     "end": 27.667,
+     "lapvar": 122.0,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 19.668,
+     "extra_cuts_025": [
+      25.792,
+      27.292
+     ]
+    },
+    {
+     "i": 13,
+     "start": 27.667,
+     "end": 29.625,
+     "lapvar": 343.1,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 28.547,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 14,
+     "start": 29.625,
+     "end": 31.208,
+     "lapvar": 59.7,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 10.056,
+     "extra_cuts_025": [
+      30.25,
+      30.333,
+      30.5
+     ]
+    },
+    {
+     "i": 15,
+     "start": 31.208,
+     "end": 31.792,
+     "lapvar": 53.8,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 3.096,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 16,
+     "start": 31.792,
+     "end": 34.167,
+     "lapvar": 283.4,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 19.39,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 17,
+     "start": 34.167,
+     "end": 35.583,
+     "lapvar": 146.7,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 9.996,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 18,
+     "start": 35.583,
+     "end": 36.292,
+     "lapvar": 141.5,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 10.019,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 19,
+     "start": 36.292,
+     "end": 36.625,
+     "lapvar": 4.6,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 20,
+     "start": 36.625,
+     "end": 37.625,
+     "lapvar": 26.1,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 21,
+     "start": 37.625,
+     "end": 38.708,
+     "lapvar": 12.4,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 22,
+     "start": 38.708,
+     "end": 39.5,
+     "lapvar": 17.7,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 23,
+     "start": 39.5,
+     "end": 41.417,
+     "lapvar": 269.5,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 20.897,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 24,
+     "start": 41.417,
+     "end": 44.0,
+     "lapvar": 243.7,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 15.897,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 25,
+     "start": 44.0,
+     "end": 46.583,
+     "lapvar": 71.6,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 4.797,
+     "extra_cuts_025": [
+      45.083
+     ]
+    },
+    {
+     "i": 26,
+     "start": 46.583,
+     "end": 48.042,
+     "lapvar": 30.0,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": [
+      46.958,
+      47.333,
+      47.708
+     ]
+    },
+    {
+     "i": 27,
+     "start": 48.042,
+     "end": 49.125,
+     "lapvar": 6.3,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 28,
+     "start": 49.125,
+     "end": 50.0,
+     "lapvar": 14.1,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 29,
+     "start": 50.0,
+     "end": 51.625,
+     "lapvar": 24.3,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 30,
+     "start": 51.625,
+     "end": 54.125,
+     "lapvar": 10.6,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": [
+      52.75
+     ]
+    },
+    {
+     "i": 31,
+     "start": 54.125,
+     "end": 55.958,
+     "lapvar": 138.3,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 8.684,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 32,
+     "start": 55.958,
+     "end": 58.583,
+     "lapvar": 347.5,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 23.428,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 33,
+     "start": 58.583,
+     "end": 60.125,
+     "lapvar": 213.0,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 14.246,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 34,
+     "start": 60.125,
+     "end": 60.625,
+     "lapvar": 124.3,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 7.099,
+     "extra_cuts_025": [
+      60.375,
+      60.458,
+      60.542
+     ]
+    },
+    {
+     "i": 35,
+     "start": 60.625,
+     "end": 62.542,
+     "lapvar": 23.9,
+     "sharp": "ok",
+     "subs": true,
+     "sub_score": 6.935,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 36,
+     "start": 62.542,
+     "end": 65.25,
+     "lapvar": 206.4,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 14.259,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 37,
+     "start": 65.25,
+     "end": 67.542,
+     "lapvar": 148.4,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 10.386,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 38,
+     "start": 67.542,
+     "end": 69.833,
+     "lapvar": 302.0,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 16.981,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 39,
+     "start": 69.833,
+     "end": 71.5,
+     "lapvar": 86.6,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 5.28,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 40,
+     "start": 71.5,
+     "end": 72.375,
+     "lapvar": 14.2,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 41,
+     "start": 72.375,
+     "end": 74.792,
+     "lapvar": 192.2,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 11.74,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 42,
+     "start": 74.792,
+     "end": 77.125,
+     "lapvar": 91.9,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 7.361,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 43,
+     "start": 77.125,
+     "end": 79.792,
+     "lapvar": 69.8,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 9.925,
+     "extra_cuts_025": [
+      78.708
+     ]
+    },
+    {
+     "i": 44,
+     "start": 79.792,
+     "end": 82.5,
+     "lapvar": 181.5,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 10.32,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 45,
+     "start": 82.5,
+     "end": 84.875,
+     "lapvar": 198.5,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 14.084,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 46,
+     "start": 84.875,
+     "end": 85.25,
+     "lapvar": 78.9,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 3.25,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 47,
+     "start": 85.25,
+     "end": 86.042,
+     "lapvar": 78.0,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 3.247,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 48,
+     "start": 86.042,
+     "end": 86.083,
+     "lapvar": 133.6,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 10.245,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 49,
+     "start": 86.083,
+     "end": 87.083,
+     "lapvar": 79.2,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 5.802,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 50,
+     "start": 87.083,
+     "end": 87.708,
+     "lapvar": 86.1,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 5.804,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 51,
+     "start": 87.708,
+     "end": 90.125,
+     "lapvar": 1.4,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 52,
+     "start": 90.125,
+     "end": 91.333,
+     "lapvar": 2.1,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 53,
+     "start": 91.333,
+     "end": 94.708,
+     "lapvar": 336.4,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 22.83,
+     "extra_cuts_025": [
+      92.625
+     ]
+    },
+    {
+     "i": 54,
+     "start": 94.708,
+     "end": 97.083,
+     "lapvar": 14.3,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.002,
+     "extra_cuts_025": [
+      96.792
+     ]
+    },
+    {
+     "i": 55,
+     "start": 97.083,
+     "end": 98.417,
+     "lapvar": 8.6,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 56,
+     "start": 98.417,
+     "end": 99.042,
+     "lapvar": 7.5,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 57,
+     "start": 99.042,
+     "end": 99.875,
+     "lapvar": 15.1,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 58,
+     "start": 99.875,
+     "end": 101.083,
+     "lapvar": 4.3,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 59,
+     "start": 101.083,
+     "end": 101.333,
+     "lapvar": 7.2,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 60,
+     "start": 101.333,
+     "end": 102.25,
+     "lapvar": 107.0,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 9.869,
+     "extra_cuts_025": [
+      102.167
+     ]
+    },
+    {
+     "i": 61,
+     "start": 102.25,
+     "end": 102.375,
+     "lapvar": 135.5,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 9.186,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 62,
+     "start": 102.375,
+     "end": 102.458,
+     "lapvar": 123.9,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 6.941,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 63,
+     "start": 102.458,
+     "end": 103.0,
+     "lapvar": 123.4,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 9.348,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 64,
+     "start": 103.0,
+     "end": 105.0,
+     "lapvar": 5.7,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 65,
+     "start": 105.0,
+     "end": 107.25,
+     "lapvar": 2.9,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": [
+      105.833,
+      105.958,
+      106.208,
+      106.333,
+      106.583,
+      106.708,
+      106.833,
+      106.958,
+      107.083
+     ]
+    },
+    {
+     "i": 66,
+     "start": 107.25,
+     "end": 108.875,
+     "lapvar": 94.2,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 6.408,
+     "extra_cuts_025": []
+    }
+   ]
+  },
+  "pain_arc_3": {
+   "content": "Naruto vs Pain: clone strategy -> Rasengan into Pain (ep 166), Crunchyroll Brasil official clip",
+   "source": "https://www.youtube.com/watch?v=iSjhmC9YMws (Crunchyroll Brasil official, 1920x1078, PT subs) sections 0:02-0:17, 1:29-2:12",
+   "native": "1920x1078 24p, padded 1px top/bottom (edge-replicated), no scaling",
+   "frames": 1164,
+   "logo_cleanup": "Crunchyroll watermark top-left (ROI 0-374 x 0-105) and copyright line along the bottom-right (ROI 1204-1920 x 1010-1080) inpainted; the bottom-right strip shows faint vertical smear",
+   "subtitles": "Portuguese subs burned in on dialogue shots",
+   "pieces": [
+    {
+     "src": "C_2.mkv",
+     "src_frames": [
+      95,
+      268
+     ],
+     "frames": 173,
+     "out_start": 0.0,
+     "out_end": 7.208
+    },
+    {
+     "src": "C_89.mkv",
+     "src_frames": [
+      0,
+      991
+     ],
+     "frames": 991,
+     "out_start": 7.208,
+     "out_end": 48.5
+    }
+   ],
+   "cuts_scene035": 18,
+   "cuts_scene025": 36,
+   "shots": [
+    {
+     "i": 0,
+     "start": 0.0,
+     "end": 1.292,
+     "lapvar": 355.3,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 19.938,
+     "extra_cuts_025": [
+      0.417,
+      0.792,
+      0.875,
+      0.958,
+      1.042,
+      1.125,
+      1.208
+     ]
+    },
+    {
+     "i": 1,
+     "start": 1.292,
+     "end": 1.375,
+     "lapvar": 353.8,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 19.444,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 2,
+     "start": 1.375,
+     "end": 1.75,
+     "lapvar": 350.0,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 18.546,
+     "extra_cuts_025": [
+      1.458,
+      1.583
+     ]
+    },
+    {
+     "i": 3,
+     "start": 1.75,
+     "end": 7.208,
+     "lapvar": 107.5,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 14.358,
+     "extra_cuts_025": [
+      2.458,
+      4.333,
+      4.917
+     ]
+    },
+    {
+     "i": 4,
+     "start": 7.208,
+     "end": 11.25,
+     "lapvar": 105.7,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 5,
+     "start": 11.25,
+     "end": 14.25,
+     "lapvar": 158.2,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 8.146,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 6,
+     "start": 14.25,
+     "end": 18.0,
+     "lapvar": 133.3,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 7,
+     "start": 18.0,
+     "end": 20.0,
+     "lapvar": 33.6,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.006,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 8,
+     "start": 20.0,
+     "end": 24.292,
+     "lapvar": 129.3,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.97,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 9,
+     "start": 24.292,
+     "end": 28.083,
+     "lapvar": 159.6,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 11.765,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 10,
+     "start": 28.083,
+     "end": 31.083,
+     "lapvar": 273.6,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 13.561,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 11,
+     "start": 31.083,
+     "end": 35.458,
+     "lapvar": 72.9,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 2.892,
+     "extra_cuts_025": [
+      33.417
+     ]
+    },
+    {
+     "i": 12,
+     "start": 35.458,
+     "end": 36.708,
+     "lapvar": 88.2,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 13,
+     "start": 36.708,
+     "end": 38.25,
+     "lapvar": 25.9,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 14,
+     "start": 38.25,
+     "end": 39.958,
+     "lapvar": 135.6,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 7.519,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 15,
+     "start": 39.958,
+     "end": 41.292,
+     "lapvar": 66.2,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 7.299,
+     "extra_cuts_025": [
+      40.042,
+      40.25,
+      40.417,
+      40.5
+     ]
+    },
+    {
+     "i": 16,
+     "start": 41.292,
+     "end": 43.833,
+     "lapvar": 67.9,
+     "sharp": "sharp",
+     "subs": true,
+     "sub_score": 4.36,
+     "extra_cuts_025": [
+      42.292
+     ]
+    },
+    {
+     "i": 17,
+     "start": 43.833,
+     "end": 44.0,
+     "lapvar": 70.7,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.01,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 18,
+     "start": 44.0,
+     "end": 48.5,
+     "lapvar": 34.8,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.093,
+     "extra_cuts_025": []
+    }
+   ]
+  },
+  "pain_arc_4": {
+   "content": "Nagato's Rinne Rebirth -> Naruto returns, the village cheers him: Hero of the Leaf (eps 174-175), dub reupload",
+   "source": "https://www.youtube.com/watch?v=fZVST5650oI (1080p30 dub reupload, decimated to 24) sections 1:02-1:24, 3:10-4:14, 5:34-6:25",
+   "native": "1920x1080, uploaded as 30p by frame duplication (1 dup per 5); decimated back to 24p (verified cadence)",
+   "frames": 2939,
+   "logo_cleanup": "MYAnime watermark top-left (ROI 16-677 x 13-174) inpainted; soft patch there",
+   "subtitles": "none burned in (English dub audio)",
+   "pieces": [
+    {
+     "src": "F_62.mkv",
+     "src_frames": [
+      0,
+      387
+     ],
+     "frames": 387,
+     "out_start": 0.0,
+     "out_end": 16.125
+    },
+    {
+     "src": "F_190.mkv",
+     "src_frames": [
+      122,
+      1556
+     ],
+     "frames": 1434,
+     "out_start": 16.125,
+     "out_end": 75.875
+    },
+    {
+     "src": "F_334.mkv",
+     "src_frames": [
+      136,
+      1254
+     ],
+     "frames": 1118,
+     "out_start": 75.875,
+     "out_end": 122.458
+    }
+   ],
+   "cuts_scene035": 47,
+   "cuts_scene025": 54,
+   "shots": [
+    {
+     "i": 0,
+     "start": 0.0,
+     "end": 4.833,
+     "lapvar": 5.9,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 1,
+     "start": 4.833,
+     "end": 8.125,
+     "lapvar": 10.7,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 2,
+     "start": 8.125,
+     "end": 10.0,
+     "lapvar": 2.6,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 3,
+     "start": 10.0,
+     "end": 11.708,
+     "lapvar": 25.3,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 4,
+     "start": 11.708,
+     "end": 14.167,
+     "lapvar": 1.2,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 5,
+     "start": 14.167,
+     "end": 16.125,
+     "lapvar": 4.4,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": [
+      15.792
+     ]
+    },
+    {
+     "i": 6,
+     "start": 16.125,
+     "end": 19.583,
+     "lapvar": 23.5,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 7,
+     "start": 19.583,
+     "end": 20.5,
+     "lapvar": 35.8,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 8,
+     "start": 20.5,
+     "end": 22.708,
+     "lapvar": 131.3,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 9,
+     "start": 22.708,
+     "end": 24.208,
+     "lapvar": 121.3,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 10,
+     "start": 24.208,
+     "end": 26.583,
+     "lapvar": 39.5,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.002,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 11,
+     "start": 26.583,
+     "end": 29.792,
+     "lapvar": 36.2,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 12,
+     "start": 29.792,
+     "end": 34.417,
+     "lapvar": 44.1,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 13,
+     "start": 34.417,
+     "end": 36.958,
+     "lapvar": 81.1,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 14,
+     "start": 36.958,
+     "end": 39.208,
+     "lapvar": 31.2,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 15,
+     "start": 39.208,
+     "end": 41.083,
+     "lapvar": 29.5,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 16,
+     "start": 41.083,
+     "end": 43.167,
+     "lapvar": 61.8,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": [
+      42.333
+     ]
+    },
+    {
+     "i": 17,
+     "start": 43.167,
+     "end": 44.625,
+     "lapvar": 49.6,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.002,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 18,
+     "start": 44.625,
+     "end": 45.875,
+     "lapvar": 65.0,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.002,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 19,
+     "start": 45.875,
+     "end": 47.5,
+     "lapvar": 22.9,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 20,
+     "start": 47.5,
+     "end": 47.917,
+     "lapvar": 37.3,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.006,
+     "extra_cuts_025": [
+      47.75
+     ]
+    },
+    {
+     "i": 21,
+     "start": 47.917,
+     "end": 48.833,
+     "lapvar": 50.8,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.014,
+     "extra_cuts_025": [
+      48.0
+     ]
+    },
+    {
+     "i": 22,
+     "start": 48.833,
+     "end": 49.0,
+     "lapvar": 34.9,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.002,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 23,
+     "start": 49.0,
+     "end": 49.208,
+     "lapvar": 51.4,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.027,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 24,
+     "start": 49.208,
+     "end": 49.958,
+     "lapvar": 58.5,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.014,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 25,
+     "start": 49.958,
+     "end": 52.0,
+     "lapvar": 35.9,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 26,
+     "start": 52.0,
+     "end": 53.958,
+     "lapvar": 7.1,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 27,
+     "start": 53.958,
+     "end": 56.042,
+     "lapvar": 34.3,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.002,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 28,
+     "start": 56.042,
+     "end": 60.208,
+     "lapvar": 98.1,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.002,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 29,
+     "start": 60.208,
+     "end": 64.667,
+     "lapvar": 130.6,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.033,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 30,
+     "start": 64.667,
+     "end": 66.792,
+     "lapvar": 79.6,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 31,
+     "start": 66.792,
+     "end": 68.917,
+     "lapvar": 18.6,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 32,
+     "start": 68.917,
+     "end": 73.208,
+     "lapvar": 133.8,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 33,
+     "start": 73.208,
+     "end": 75.875,
+     "lapvar": 46.4,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.002,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 34,
+     "start": 75.875,
+     "end": 80.5,
+     "lapvar": 49.3,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 35,
+     "start": 80.5,
+     "end": 82.917,
+     "lapvar": 9.2,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 36,
+     "start": 82.917,
+     "end": 87.083,
+     "lapvar": 8.3,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 37,
+     "start": 87.083,
+     "end": 92.625,
+     "lapvar": 24.6,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 38,
+     "start": 92.625,
+     "end": 94.042,
+     "lapvar": 26.0,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 39,
+     "start": 94.042,
+     "end": 95.083,
+     "lapvar": 11.6,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 40,
+     "start": 95.083,
+     "end": 101.458,
+     "lapvar": 32.7,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 41,
+     "start": 101.458,
+     "end": 102.708,
+     "lapvar": 33.9,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 42,
+     "start": 102.708,
+     "end": 106.625,
+     "lapvar": 199.4,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.014,
+     "extra_cuts_025": [
+      103.292,
+      105.042,
+      106.292
+     ]
+    },
+    {
+     "i": 43,
+     "start": 106.625,
+     "end": 108.583,
+     "lapvar": 58.9,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 44,
+     "start": 108.583,
+     "end": 111.417,
+     "lapvar": 80.9,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.004,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 45,
+     "start": 111.417,
+     "end": 112.333,
+     "lapvar": 15.3,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 46,
+     "start": 112.333,
+     "end": 116.5,
+     "lapvar": 29.6,
+     "sharp": "sharp",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    },
+    {
+     "i": 47,
+     "start": 116.5,
+     "end": 122.458,
+     "lapvar": 14.8,
+     "sharp": "ok",
+     "subs": false,
+     "sub_score": 0.0,
+     "extra_cuts_025": []
+    }
+   ]
+  }
+ }
+}

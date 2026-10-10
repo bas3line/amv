@@ -1,0 +1,24 @@
+name: Bug
+description: An effect, the render or a tool does something wrong.
+labels: [bug]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: The effect, script or command.
+      placeholder: refpack_B.card_swing, director.py --sr, voices/mix.py
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you ran, what you expected, and what you saw. A still or the traceback helps.
+    validations:
+      required: true
+  - type: input
+    id: setup
+    attributes:
+      label: Setup
+      placeholder: macOS 27 on M3, Python 3.12, ffmpeg 8

@@ -1,0 +1,26 @@
+# Media is never committed: footage, music and renders belong to their owners or are rebuilt locally.
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.wav
+*.m4a
+*.opus
+*.pth
+out/
+sr_cache/
+dir_tmp/
+models/
+voices/src/
+voices/stems_dlg/
+voices/stems_song/
+voices/mix_bed.wav
+edl.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.DS_Store

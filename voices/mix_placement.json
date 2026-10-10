@@ -1,0 +1,54 @@
+{
+ "placed": [
+  {
+   "id": "L1",
+   "edit_t0": 1.698,
+   "edit_t1": 4.218,
+   "speech_t0": 1.758,
+   "speech_t1": 4.138,
+   "gain_db": 5.8
+  },
+  {
+   "id": "L2",
+   "edit_t0": 7.819,
+   "edit_t1": 10.679,
+   "speech_t0": 7.919,
+   "speech_t1": 10.559,
+   "gain_db": 8.5
+  },
+  {
+   "id": "L3a",
+   "edit_t0": 10.917,
+   "edit_t1": 12.942,
+   "speech_t0": 11.067,
+   "speech_t1": 12.917,
+   "gain_db": 11.2
+  },
+  {
+   "id": "L3b",
+   "edit_t0": 12.941,
+   "edit_t1": 14.961,
+   "speech_t0": 13.061,
+   "speech_t1": 14.861,
+   "gain_db": 8.2
+  },
+  {
+   "id": "L4",
+   "edit_t0": 14.845,
+   "edit_t1": 16.345,
+   "speech_t0": 14.885,
+   "speech_t1": 16.255,
+   "gain_db": 7.5
+  }
+ ],
+ "duck_windows": [
+  [
+   1.698,
+   4.218
+  ],
+  [
+   7.819,
+   16.345
+  ]
+ ]
+}
